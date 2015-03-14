@@ -1,0 +1,1 @@
+select i.tid tid,i.title title,i.url url,replace(IFNULL(p.imageUrl,''),'https://image.tmdb.org/t/p/original/','http://www.url-to-server.com/img?imgkey=') posterPathUrl from imdb i left join imdbIdPosterPath p on i.tid = p.imdb_id; 

@@ -1,0 +1,4011 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string-array name="title">
+<item>Die Verurteilten (1994)</item>
+<item>The Dark Knight (2008)</item>
+<item>Inception (2010)</item>
+<item>Der Herr der Ringe - Die Gefährten (2001)</item>
+<item>Fight Club (1999)</item>
+<item>Der Herr der Ringe - Die Rückkehr des Königs (2003)</item>
+<item>Der Herr der Ringe - Die zwei Türme (2002)</item>
+<item>GoodFellas - Drei Jahrzehnte in der Mafia (1990)</item>
+<item>Schindlers Liste (1993)</item>
+<item>Forrest Gump (1994)</item>
+<item>Pulp Fiction (1994)</item>
+<item>Einer flog über das Kuckucksnest (1975)</item>
+<item>Das Imperium schlägt zurück (1980)</item>
+<item>Der Pate (1972)</item>
+<item>Der Pate 2 (1974)</item>
+<item>Inglourious Basterds (2009)</item>
+<item>Batman Begins (2005)</item>
+<item>Departed - Unter Feinden (2006)</item>
+<item>Prestige - Die Meister der Magie (2006)</item>
+<item>WALL·E - Der letzte räumt die Erde auf (2008)</item>
+<item>The Dark Knight Rises (2012)</item>
+<item>Django Unchained (2012)</item>
+<item>Braveheart (1995)</item>
+<item>Sieben (1995)</item>
+<item>Die üblichen Verdächtigen (1995)</item>
+<item>American History X (1998)</item>
+<item>The Green Mile (1999)</item>
+<item>Der Soldat James Ryan (1998)</item>
+<item>Matrix (1999)</item>
+<item>American Beauty (1999)</item>
+<item>Gladiator (2000)</item>
+<item>Memento (2000)</item>
+<item>Vergiss mein nicht (2004)</item>
+<item>Zurück in die Zukunft (1985)</item>
+<item>Das Schweigen der Lämmer (1991)</item>
+<item>Terminator 2 - Tag der Abrechnung (1991)</item>
+<item>Reservoir Dogs - Wilde Hunde (1992)</item>
+<item>Léon - Der Profi (1994)</item>
+<item>Krieg der Sterne (1977)</item>
+<item>Jäger des verlorenen Schatzes (1981)</item>
+<item>Die Rückkehr der Jedi-Ritter (1983)</item>
+<item>Iron Man (2008)</item>
+<item>Sin City (2005)</item>
+<item>300 (2006)</item>
+<item>V wie Vendetta (2005)</item>
+<item>Avatar - Aufbruch nach Pandora (2009)</item>
+<item>Marvel\'s The Avengers (2012)</item>
+<item>Slumdog Millionär (2008)</item>
+<item>Shutter Island (2010)</item>
+<item>Die Truman Show (1998)</item>
+<item>Sixth Sense (1999)</item>
+<item>Findet Nemo (2003)</item>
+<item>Kill Bill: Vol. 1 (2003)</item>
+<item>Fluch der Karibik (2003)</item>
+<item>Zwei glorreiche Halunken (1966)</item>
+<item>Die zwölf Geschworenen (1957)</item>
+<item>Die sieben Samurai (1954)</item>
+<item>Titanic (1997)</item>
+<item>Das Leben der Anderen (2006)</item>
+<item>Toy Story 3 (2010)</item>
+<item>Pans Labyrinth (2006)</item>
+<item>The Wolf of Wall Street (2013)</item>
+<item>Oben (2009)</item>
+<item>3 Idiots (2009)</item>
+<item>Warrior (2011)</item>
+<item>In ihren Augen (2009)</item>
+<item>Ziemlich beste Freunde (2011)</item>
+<item>Her (2013)</item>
+<item>Nader und Simin - eine Trennung (2011)</item>
+<item>Rush - Alles für den Sieg (2013)</item>
+<item>12 Years a Slave (2013)</item>
+<item>Die Jagd (2012)</item>
+<item>Heat (1995)</item>
+<item>Toy Story (1995)</item>
+<item>Das Leben ist schön (1997)</item>
+<item>L.A. Confidential (1997)</item>
+<item>Prinzessin Mononoke (1997)</item>
+<item>Requiem for a Dream (2000)</item>
+<item>Snatch - Schweine und Diamanten (2000)</item>
+<item>Die fabelhafte Welt der Amelie (2001)</item>
+<item>Chihiros Reise ins Zauberland (2001)</item>
+<item>Der Pianist (2002)</item>
+<item>City of God (2002)</item>
+<item>Der Untergang (2004)</item>
+<item>Oldboy (2003)</item>
+<item>Aliens - Die Rückkehr (1986)</item>
+<item>Full Metal Jacket (1987)</item>
+<item>Stirb langsam (1988)</item>
+<item>Die letzten Leuchtkäfer (1988)</item>
+<item>Cinema Paradiso (1988)</item>
+<item>Mein Nachbar Totoro (1988)</item>
+<item>Indiana Jones und der letzte Kreuzzug (1989)</item>
+<item>Erbarmungslos (1992)</item>
+<item>Der König der Löwen (1994)</item>
+<item>Die Ritter der Kokosnuß (1975)</item>
+<item>Taxi Driver (1976)</item>
+<item>Alien - Das unheimliche Wesen aus einer fremden Welt (1979)</item>
+<item>Apocalypse Now (1979)</item>
+<item>Der Elefantenmensch (1980)</item>
+<item>Wie ein wilder Stier (1980)</item>
+<item>Shining (1980)</item>
+<item>Das Boot (1981)</item>
+<item>Der Blade Runner (1982)</item>
+<item>Scarface - Toni, das Narbengesicht (1983)</item>
+<item>Amadeus (1984)</item>
+<item>Es war einmal in Amerika (1984)</item>
+<item>Für ein paar Dollar mehr (1965)</item>
+<item>2001: Odyssee im Weltraum (1968)</item>
+<item>Spiel mir das Lied vom Tod (1968)</item>
+<item>Uhrwerk Orange (1971)</item>
+<item>Der Clou (1973)</item>
+<item>Chinatown (1974)</item>
+<item>Die Brücke am Kwai (1957)</item>
+<item>Wege zum Ruhm (1957)</item>
+<item>Das siebente Siegel (1957)</item>
+<item>Vertigo - Aus dem Reich der Toten (1958)</item>
+<item>Der unsichtbare Dritte (1959)</item>
+<item>Manche mögen\'s heiß (1959)</item>
+<item>Das Appartement (1960)</item>
+<item>Psycho (1960)</item>
+<item>Lawrence von Arabien (1962)</item>
+<item>Wer die Nachtigall stört (1962)</item>
+<item>Dr. Seltsam, oder wie ich lernte, die Bombe zu lieben (1964)</item>
+<item>Gesprengte Ketten (1963)</item>
+<item>It\'s a Wonderful Life (1946)</item>
+<item>Fahrraddiebe (1948)</item>
+<item>Der dritte Mann (1949)</item>
+<item>Alles über Eva (1950)</item>
+<item>Rashomon (1950)</item>
+<item>Boulevard der Dämmerung (1950)</item>
+<item>Du sollst mein Glücksstern sein (1952)</item>
+<item>Die Faust im Nacken (1954)</item>
+<item>Das Fenster zum Hof (1954)</item>
+<item>Moderne Zeiten (1936)</item>
+<item>Der große Diktator (1940)</item>
+<item>Rebecca (1940)</item>
+<item>Citizen Kane (1941)</item>
+<item>Casablanca (1942)</item>
+<item>Frau ohne Gewissen (1944)</item>
+<item>Metropolis (1927)</item>
+<item>Lichter der Großstadt (1931)</item>
+<item>M (1931)</item>
+<item>Children of Men (2006)</item>
+<item>Das Comeback (2005)</item>
+<item>Serenity - Flucht in neue Welten (2005)</item>
+<item>James Bond 007 - Casino Royale (2006)</item>
+<item>Todeszug nach Yuma (2007)</item>
+<item>Schmetterling und Taucherglocke (2007)</item>
+<item>Stolz &amp; Vorurteil (2005)</item>
+<item>Der seltsame Fall des Benjamin Button (2008)</item>
+<item>Hot Fuzz - Zwei abgewichste Profis (2007)</item>
+<item>Lucky Number Slevin (2006)</item>
+<item>Der Fantastische Mr. Fox (2009)</item>
+<item>Das Bourne Ultimatum (2007)</item>
+<item>Little Miss Sunshine (2006)</item>
+<item>Blood Diamond (2006)</item>
+<item>Life of Pi: Schiffbruch mit Tiger (2012)</item>
+<item>Das Streben nach Glück (2006)</item>
+<item>Der letzte König von Schottland - In den Fängen der Macht (2006)</item>
+<item>The Fall (2006)</item>
+<item>There Will Be Blood (2007)</item>
+<item>Apocalypto (2006)</item>
+<item>No Country for Old Men (2007)</item>
+<item>Mr. Nobody (2009)</item>
+<item>Der Sternwanderer (2007)</item>
+<item>Letters from Iwo Jima (2006)</item>
+<item>The Man from Earth (2007)</item>
+<item>Into the Wild (2007)</item>
+<item>American Gangster (2007)</item>
+<item>Drive (2011)</item>
+<item>Brügge sehen... und sterben? (2008)</item>
+<item>Abbitte (2007)</item>
+<item>Dallas Buyers Club (2013)</item>
+<item>Star Trek (2009)</item>
+<item>Der fremde Sohn (2008)</item>
+<item>Tropa de Elite (2007)</item>
+<item>Frost/Nixon (2008)</item>
+<item>Drachenzähmen leicht gemacht (2010)</item>
+<item>Der Hobbit - Eine unerwartete Reise (2012)</item>
+<item>Once (2006)</item>
+<item>Der Junge im gestreiften Pyjama (2008)</item>
+<item>96 Hours (2008)</item>
+<item>Black Swan (2010)</item>
+<item>The Fighter (2010)</item>
+<item>Mary &amp; Max, oder - Schrumpfen Schafe, wenn es regnet (2009)</item>
+<item>(500) Days of Summer (2009)</item>
+<item>Argo (2012)</item>
+<item>Hachiko - Eine wunderbare Freundschaft (2009)</item>
+<item>Silver Linings (2012)</item>
+<item>James Bond 007 - Skyfall (2012)</item>
+<item>Lone Survivor (2013)</item>
+<item>Hangover (2009)</item>
+<item>The Wrestler (2008)</item>
+<item>Verblendung (2009)</item>
+<item>District 9 (2009)</item>
+<item>So finster die Nacht (2008)</item>
+<item>Der Hobbit - Smaugs Einöde (2013)</item>
+<item>Moon (2009)</item>
+<item>Harry Potter und die Heiligtümer des Todes - Teil 2 (2011)</item>
+<item>Gran Torino (2008)</item>
+<item>Ip Man (2008)</item>
+<item>Ein Prophet (2009)</item>
+<item>Kick-Ass (2010)</item>
+<item>X-Men: Erste Entscheidung (2011)</item>
+<item>The Social Network (2010)</item>
+<item>50/50 - Freunde fürs (Über)leben (2011)</item>
+<item>Prisoners (2013)</item>
+<item>Star Trek: Into Darkness (2013)</item>
+<item>The Help (2011)</item>
+<item>Gravity (2013)</item>
+<item>The King\'s Speech (2010)</item>
+<item>Captain Phillips (2013)</item>
+<item>Verblendung (2011)</item>
+<item>Vielleicht lieber morgen (2012)</item>
+<item>Moonrise Kingdom (2012)</item>
+<item>Die Tribute von Panem - Catching Fire (2013)</item>
+<item>Die Eiskönigin - Völlig unverfroren (2013)</item>
+<item>Before Sunrise - Zwischenstopp in Wien (1995)</item>
+<item>Casino (1995)</item>
+<item>Hass (1995)</item>
+<item>12 Monkeys (1995)</item>
+<item>Fargo - Blutiger Schnee (1996)</item>
+<item>Trainspotting - Neue Helden (1996)</item>
+<item>The Big Lebowski (1998)</item>
+<item>Boogie Nights (1997)</item>
+<item>Dark City (1998)</item>
+<item>Donnie Brasco (1997)</item>
+<item>The Game - Das Geschenk seines Lebens (1997)</item>
+<item>Gattaca (1997)</item>
+<item>Good Will Hunting - Der gute Will Hunting (1997)</item>
+<item>Besser geht\'s nicht (1997)</item>
+<item>Toy Story 2 (1999)</item>
+<item>Being John Malkovich (1999)</item>
+<item>Angst und Schrecken in Las Vegas (1998)</item>
+<item>Bube Dame König grAS (1998)</item>
+<item>Shrek - Der tollkühne Held (2001)</item>
+<item>Rushmore (1998)</item>
+<item>Der Gigant aus dem All (1999)</item>
+<item>Lola rennt (1998)</item>
+<item>Insider (1999)</item>
+<item>Der blutige Pfad Gottes (1999)</item>
+<item>Alles Routine (1999)</item>
+<item>South Park - Der Film (1999)</item>
+<item>Mulholland Drive (2001)</item>
+<item>Magnolia (1999)</item>
+<item>Tiger &amp; Dragon (2000)</item>
+<item>O Brother, Where Art Thou? - Eine Mississippi-Odyssee (2000)</item>
+<item>Die Monster AG (2001)</item>
+<item>Amores perros (2000)</item>
+<item>Donnie Darko (2001)</item>
+<item>Das Experiment (2001)</item>
+<item>Road to Perdition (2002)</item>
+<item>Die Bourne Identität (2002)</item>
+<item>Catch Me If You Can (2002)</item>
+<item>Adaption. (2002)</item>
+<item>A Beautiful Mind - Genie und Wahnsinn (2001)</item>
+<item>Dogville (2003)</item>
+<item>Sprich mit ihr (2002)</item>
+<item>Hero (2002)</item>
+<item>Good Bye Lenin! (2003)</item>
+<item>Harry Potter und der Gefangene von Askaban (2004)</item>
+<item>Wenn Träume fliegen lernen (2004)</item>
+<item>21 Gramm (2003)</item>
+<item>Die Unglaublichen (2004)</item>
+<item>Die Reise des jungen Che (2004)</item>
+<item>Big Fish - Der Zauber, der ein Leben zur Legende macht (2003)</item>
+<item>Mystic River (2003)</item>
+<item>Mann unter Feuer (2004)</item>
+<item>Wie ein einziger Tag (2004)</item>
+<item>Lost in Translation - Zwischen den Welten (2003)</item>
+<item>Infernal Affairs - Die achte Hölle (2002)</item>
+<item>Das wandelnde Schloss (2004)</item>
+<item>Ray (2004)</item>
+<item>Der Maschinist (2004)</item>
+<item>Die Bourne Verschwörung (2004)</item>
+<item>L.A. Crash (2004)</item>
+<item>Kill Bill: Vol. 2 (2004)</item>
+<item>Before Sunset (2004)</item>
+<item>Hotel Ruanda (2004)</item>
+<item>Million Dollar Baby (2004)</item>
+<item>Brazil (1985)</item>
+<item>Der Frühstücksclub (1985)</item>
+<item>Die Goonies (1985)</item>
+<item>Blue Velvet (1986)</item>
+<item>Ferris macht blau (1986)</item>
+<item>Der Name der Rose (1986)</item>
+<item>Platoon (1986)</item>
+<item>Stand by Me - Das Geheimnis eines Sommers (1986)</item>
+<item>Das Schloss im Himmel (1986)</item>
+<item>Das Reich der Sonne (1987)</item>
+<item>Predator (1987)</item>
+<item>Die Braut des Prinzen (1987)</item>
+<item>Die Unbestechlichen (1987)</item>
+<item>Akira (1988)</item>
+<item>Rain Man (1988)</item>
+<item>Zurück in die Zukunft II (1989)</item>
+<item>Der Club der toten Dichter (1989)</item>
+<item>Glory (1989)</item>
+<item>Der mit dem Wolf tanzt (1990)</item>
+<item>Edward mit den Scherenhänden (1990)</item>
+<item>Miller\'s Crossing (1990)</item>
+<item>Misery (1990)</item>
+<item>Barton Fink (1991)</item>
+<item>Die Schöne und das Biest (1991)</item>
+<item>Boyz n the Hood - Jungs im Viertel (1991)</item>
+<item>Aladdin (1992)</item>
+<item>Der Duft der Frauen (1992)</item>
+<item>In den Straßen der Bronx (1993)</item>
+<item>Carlito\'s Way (1993)</item>
+<item>Auf der Flucht (1993)</item>
+<item>...und täglich grüßt das Murmeltier (1993)</item>
+<item>Im Namen des Vaters (1993)</item>
+<item>Jurassic Park (1993)</item>
+<item>Nightmare Before Christmas (1993)</item>
+<item>Tombstone (1993)</item>
+<item>True Romance (1993)</item>
+<item>Gilbert Grape - Irgendwo in Iowa (1993)</item>
+<item>Clerks - Die Ladenhüter (1994)</item>
+<item>Barry Lyndon (1975)</item>
+<item>Hundstage (1975)</item>
+<item>Der weiße Hai (1975)</item>
+<item>Network (1976)</item>
+<item>Rocky (1976)</item>
+<item>Der Stadtneurotiker (1977)</item>
+<item>Die durch die Hölle gehen (1978)</item>
+<item>Halloween - Die Nacht des Grauens (1978)</item>
+<item>Kramer gegen Kramer (1979)</item>
+<item>Das Leben des Brian (1979)</item>
+<item>Manhattan (1979)</item>
+<item>Blues Brothers (1980)</item>
+<item>E.T. - Der Außerirdische (1982)</item>
+<item>Gandhi (1982)</item>
+<item>Star Trek II: Der Zorn des Khan (1982)</item>
+<item>Das Ding aus einer anderen Welt (1982)</item>
+<item>Fröhliche Weihnachten (1983)</item>
+<item>Ghostbusters - Die Geisterjäger (1984)</item>
+<item>Nausicaä - Prinzessin aus dem Tal der Winde (1984)</item>
+<item>Terminator (1984)</item>
+<item>This Is Spinal Tap (1984)</item>
+<item>Meine Lieder, meine Träume (1965)</item>
+<item>Bonnie und Clyde (1967)</item>
+<item>Der Unbeugsame (1967)</item>
+<item>Die Reifeprüfung (1967)</item>
+<item>Die Nacht der lebenden Toten (1968)</item>
+<item>Planet der Affen (1968)</item>
+<item>Rosemaries Baby (1968)</item>
+<item>Butch Cassidy und Sundance Kid (1969)</item>
+<item>Asphalt-Cowboy (1969)</item>
+<item>Patton - Rebell in Uniform (1970)</item>
+<item>Dirty Harry (1971)</item>
+<item>French Connection - Brennpunkt Brooklyn (1971)</item>
+<item>Charlie und die Schokoladenfabrik (1971)</item>
+<item>Beim Sterben ist jeder der Erste (1972)</item>
+<item>Der Exorzist (1973)</item>
+<item>Papillon (1973)</item>
+<item>Der wilde wilde Westen (1974)</item>
+<item>Der Dialog (1974)</item>
+<item>Frankenstein Junior (1974)</item>
+<item>Ben Hur (1959)</item>
+<item>Spartacus (1960)</item>
+<item>Frühstück bei Tiffany (1961)</item>
+<item>Die Vögel (1963)</item>
+<item>James Bond 007 - Goldfinger (1964)</item>
+<item>Mary Poppins (1964)</item>
+<item>Für eine Handvoll Dollar (1964)</item>
+<item>Cocktail für eine Leiche (1948)</item>
+<item>Der Fremde im Zug (1951)</item>
+<item>Endstation Sehnsucht (1951)</item>
+<item>Zwölf Uhr mittags (1952)</item>
+<item>Ein Herz und eine Krone (1953)</item>
+<item>Bei Anruf Mord (1954)</item>
+<item>Vom Winde verweht (1939)</item>
+<item>Der Zauberer von Oz (1939)</item>
+<item>Die Spur des Falken (1941)</item>
+<item>Star Wars: Episode III - Die Rache der Sith (2005)</item>
+<item>Bank Job (2008)</item>
+<item>Tödliche Entscheidung (2007)</item>
+<item>Wallace &amp; Gromit - Auf der Jagd nach dem Riesenkaninchen (2005)</item>
+<item>Coraline (2009)</item>
+<item>Harry Potter und der Feuerkelch (2005)</item>
+<item>Stirb langsam 4.0 (2007)</item>
+<item>Das erstaunliche Leben des Walter Mitty (2013)</item>
+<item>King Kong (2005)</item>
+<item>Kiss Kiss Bang Bang (2005)</item>
+<item>Harry Potter und der Orden des Phönix (2007)</item>
+<item>Capote (2005)</item>
+<item>Pirates of the Caribbean - Fluch der Karibik 2 (2006)</item>
+<item>Green Street Hooligans (2005)</item>
+<item>Der ewige Gärtner (2005)</item>
+<item>Brick (2005)</item>
+<item>Das Parfum - Die Geschichte eines Mörders (2006)</item>
+<item>Die Geisha (2005)</item>
+<item>A History of Violence (2005)</item>
+<item>Lord of War - Händler des Todes (2005)</item>
+<item>Little Children (2006)</item>
+<item>Running Scared (2006)</item>
+<item>München (2005)</item>
+<item>Watchmen: Die Wächter (2009)</item>
+<item>The Fountain (2006)</item>
+<item>Match Point (2005)</item>
+<item>Harry Potter und der Halbblutprinz (2009)</item>
+<item>Schräger als Fiktion (2006)</item>
+<item>Clerks II (2006)</item>
+<item>Thank You for Smoking (2005)</item>
+<item>Good Night, and Good Luck. (2005)</item>
+<item>Die Queen (2006)</item>
+<item>Volver (2006)</item>
+<item>Lincoln (2012)</item>
+<item>The Illusionist - Nichts ist wie es scheint (2006)</item>
+<item>Zodiac - Die Spur des Killers (2007)</item>
+<item>Scott Pilgrim gegen den Rest der Welt (2010)</item>
+<item>The Painted Veil (2006)</item>
+<item>Sunshine (2007)</item>
+<item>Babel (2006)</item>
+<item>Gone Baby gone - Kein Kinderspiel (2007)</item>
+<item>Inside Man (2006)</item>
+<item>Rescue Dawn (2006)</item>
+<item>Die Simpsons: Der Film (2007)</item>
+<item>Das Waisenhaus (2007)</item>
+<item>Michael Clayton (2007)</item>
+<item>Juno (2007)</item>
+<item>This Is England (2006)</item>
+<item>Die Croods (2013)</item>
+<item>Tödliche Versprechen (2007)</item>
+<item>Man of Steel (2013)</item>
+<item>Mr. Brooks - Der Mörder in Dir (2007)</item>
+<item>Sterben für Anfänger (2007)</item>
+<item>Lars und die Frauen (2007)</item>
+<item>Sieben Leben (2008)</item>
+<item>Das Beste kommt zum Schluss (2007)</item>
+<item>Superbad (2007)</item>
+<item>The Town - Stadt ohne Gnade (2010)</item>
+<item>Blind Side - Die große Chance (2009)</item>
+<item>Tödliches Kommando - The Hurt Locker (2008)</item>
+<item>The Road (2009)</item>
+<item>Glaubensfrage (2008)</item>
+<item>Harry Potter und die Heiligtümer des Todes - Teil 1 (2010)</item>
+<item>Precious - Das Leben ist kostbar (2009)</item>
+<item>Source Code (2011)</item>
+<item>Zeiten des Aufruhrs (2008)</item>
+<item>Hugo Cabret (2011)</item>
+<item>Der Vorleser (2008)</item>
+<item>Die Abenteuer von Tim und Struppi - Das Geheimnis der Einhorn (2011)</item>
+<item>Sherlock Holmes (2009)</item>
+<item>Milk (2008)</item>
+<item>The Way Back (2010)</item>
+<item>RocknRolla (2008)</item>
+<item>The Descendants - Familie und andere Angelegenheiten (2011)</item>
+<item>[Rec] (2007)</item>
+<item>Invictus - Unbezwungen (2009)</item>
+<item>Blue Valentine (2010)</item>
+<item>Der Ghostwriter (2010)</item>
+<item>An Education (2009)</item>
+<item>Die Haut, in der ich wohne (2011)</item>
+<item>Der Mandant (2011)</item>
+<item>Rango (2011)</item>
+<item>Up in the Air (2009)</item>
+<item>Gesetz der Rache (2009)</item>
+<item>Die Kunst zu gewinnen - Moneyball (2011)</item>
+<item>Lawless - Die Gesetzlosen (2012)</item>
+<item>Ohne Limit (2011)</item>
+<item>Mission: Impossible - Phantom Protokoll (2011)</item>
+<item>We Need to Talk About Kevin (2011)</item>
+<item>Harry Brown (2009)</item>
+<item>Iron Man 3 (2013)</item>
+<item>Planet der Affen: Prevolution (2011)</item>
+<item>True Grit - Vergeltung (2010)</item>
+<item>Die Hüter des Lichts (2012)</item>
+<item>Die Monster Uni (2013)</item>
+<item>Conjuring - Die Heimsuchung (2013)</item>
+<item>72 Stunden - The Next Three Days (2010)</item>
+<item>127 Hours (2010)</item>
+<item>Crazy, Stupid, Love. (2011)</item>
+<item>Fast &amp; Furious Five (2011)</item>
+<item>Midnight in Paris (2011)</item>
+<item>The Impossible - Nichts ist stärker als der Wille, zu überleben (2012)</item>
+<item>Die Unfassbaren - Now You See Me (2013)</item>
+<item>Shame (2011)</item>
+<item>Ganz weit hinten (2013)</item>
+<item>Zero Dark Thirty (2012)</item>
+<item>American Hustle (2013)</item>
+<item>The Place Beyond the Pines (2012)</item>
+<item>End of Watch (2012)</item>
+<item>The Raid (2011)</item>
+<item>Flight (2012)</item>
+<item>Mud - Kein Ausweg (2012)</item>
+<item>Thor - The Dark Kingdom (2013)</item>
+<item>Pitch Perfect (2012)</item>
+<item>The Raid 2: Berandal (2014)</item>
+<item>Blue Jasmine (2013)</item>
+<item>Queen (2014)</item>
+<item>Apollo 13 (1995)</item>
+<item>Jim Carroll - In den Straßen von New York (1995)</item>
+<item>Stirb langsam - Jetzt erst recht (1995)</item>
+<item>Leaving Las Vegas - Liebe bis in den Tod (1995)</item>
+<item>Sinn und Sinnlichkeit (1995)</item>
+<item>Der englische Patient (1996)</item>
+<item>Jerry Maguire: Spiel des Lebens (1996)</item>
+<item>Lost Highway (1997)</item>
+<item>Larry Flynt - Die nackte Wahrheit (1996)</item>
+<item>Zwielicht (1996)</item>
+<item>The Rock - Fels der Entscheidung (1996)</item>
+<item>Sleepers (1996)</item>
+<item>Star Trek: Der erste Kontakt (1996)</item>
+<item>Die Jury (1996)</item>
+<item>Chasing Amy (1997)</item>
+<item>Contact (1997)</item>
+<item>Im Auftrag des Teufels (1997)</item>
+<item>Im Körper des Feindes (1997)</item>
+<item>Das fünfte Element (1997)</item>
+<item>Ein Mann, ein Mord (1997)</item>
+<item>Jackie Brown (1997)</item>
+<item>Dogma (1999)</item>
+<item>Eyes Wide Shut (1999)</item>
+<item>Mulan (1998)</item>
+<item>Verhandlungssache (1998)</item>
+<item>Pleasantville - Zu schön, um wahr zu sein (1998)</item>
+<item>The Thin Red Line (1998)</item>
+<item>X-Men (2000)</item>
+<item>Ein Königreich für ein Lama (2000)</item>
+<item>Ronin (1998)</item>
+<item>Cube (1997)</item>
+<item>Gottes Werk &amp; Teufels Beitrag (1999)</item>
+<item>Election (1999)</item>
+<item>Elizabeth (1998)</item>
+<item>Rounders (1998)</item>
+<item>Pi - Der Film (1998)</item>
+<item>Training Day (2001)</item>
+<item>American Psycho (2000)</item>
+<item>Spider-Man (2002)</item>
+<item>The Virgin Suicides - Verlorene Jugend (1999)</item>
+<item>Cast Away - Verschollen (2000)</item>
+<item>Ghost World (2001)</item>
+<item>Sleepy Hollow (1999)</item>
+<item>Boys Don\'t Cry (1999)</item>
+<item>Durchgeknallt (1999)</item>
+<item>Hurricane (1999)</item>
+<item>Galaxy Quest - Planlos durchs Weltall (1999)</item>
+<item>Minority Report (2002)</item>
+<item>Traffic - Die Macht des Kartells (2000)</item>
+<item>Frequency (2000)</item>
+<item>Erin Brockovich (2000)</item>
+<item>Gegen jede Regel (2000)</item>
+<item>Duell - Enemy at the Gates (2001)</item>
+<item>Gangs of New York (2002)</item>
+<item>Blow (2001)</item>
+<item>The Others (2001)</item>
+<item>Chocolat... ein kleiner Biss genügt (2000)</item>
+<item>Harry Potter und der Stein der Weisen (2001)</item>
+<item>The Man Who Wasn\'t There (2001)</item>
+<item>...mit deiner Mutter auch! (2001)</item>
+<item>Monte Cristo (2002)</item>
+<item>Black Hawk Down (2001)</item>
+<item>Die Royal Tenenbaums (2001)</item>
+<item>Ice Age (2002)</item>
+<item>K-PAX - Alles ist möglich (2001)</item>
+<item>Punch-Drunk Love (2002)</item>
+<item>Ich bin Sam (2001)</item>
+<item>Nur mit Dir (2002)</item>
+<item>28 Tage später (2002)</item>
+<item>Butterfly Effect (2004)</item>
+<item>Das Leben des David Gale (2003)</item>
+<item>X-Men 2 (2003)</item>
+<item>Irreversibel (2002)</item>
+<item>Das Phantom der Oper (2004)</item>
+<item>Harry Potter und die Kammer des Schreckens (2002)</item>
+<item>Shrek 2 - Der tollkühne Held kehrt zurück (2004)</item>
+<item>25 Stunden (2002)</item>
+<item>Identität - Identity (2003)</item>
+<item>Master &amp; Commander - Bis ans Ende der Welt (2003)</item>
+<item>Tatsächlich... Liebe (2003)</item>
+<item>Spider-Man 2 (2004)</item>
+<item>Last Samurai (2003)</item>
+<item>Tricks (2003)</item>
+<item>Garden State (2004)</item>
+<item>Aviator (2004)</item>
+<item>Monster (2003)</item>
+<item>Terminal (2004)</item>
+<item>Die Tiefseetaucher (2004)</item>
+<item>Collateral (2004)</item>
+<item>Sideways (2004)</item>
+<item>Layer Cake (2004)</item>
+<item>Hautnah (2004)</item>
+<item>House of Flying Daggers (2004)</item>
+<item>Big Trouble in Little China (1986)</item>
+<item>Die Fliege (1986)</item>
+<item>Die Reise ins Labyrinth (1986)</item>
+<item>Lethal Weapon - Zwei stahlharte Profis (1987)</item>
+<item>Arizona Junior (1987)</item>
+<item>RoboCop (1987)</item>
+<item>Wall Street (1987)</item>
+<item>Big (1988)</item>
+<item>Ein Fisch namens Wanda (1988)</item>
+<item>Abyss - Abgrund des Todes (1989)</item>
+<item>Batman (1989)</item>
+<item>Feld der Träume (1989)</item>
+<item>Arielle, die Meerjungfrau (1989)</item>
+<item>Hilfe, es weihnachtet sehr (1989)</item>
+<item>Harry und Sally (1989)</item>
+<item>Zeit des Erwachens (1990)</item>
+<item>Zurück in die Zukunft III (1990)</item>
+<item>Der Pate - Teil III (1990)</item>
+<item>Kevin - Allein zu Haus (1990)</item>
+<item>Jagd auf \'Roter Oktober\' (1990)</item>
+<item>Jacob\'s Ladder - In der Gewalt des Jenseits (1990)</item>
+<item>Total Recall - Die totale Erinnerung (1990)</item>
+<item>Kap der Angst (1991)</item>
+<item>Braindead (1992)</item>
+<item>Bram Stokers Dracula (1992)</item>
+<item>Eine Frage der Ehre (1992)</item>
+<item>Mein Vetter Winnie (1992)</item>
+<item>Confusion - Sommer der Ausgeflippten (1993)</item>
+<item>Falling Down - Ein ganz normaler Tag (1993)</item>
+<item>Philadelphia (1993)</item>
+<item>Die Krähe (1994)</item>
+<item>Dumm und Dümmer (1994)</item>
+<item>Interview mit einem Vampir - Aus der Chronik der Vampire (1994)</item>
+<item>Natural Born Killers (1994)</item>
+<item>The Rocky Horror Picture Show (1975)</item>
+<item>Carrie - Des Satans jüngste Tochter (1976)</item>
+<item>Das Omen (1976)</item>
+<item>Unheimliche Begegnung der dritten Art (1977)</item>
+<item>Superman (1978)</item>
+<item>Flucht von Alcatraz (1979)</item>
+<item>Mad Max 2 - Der Vollstrecker (1981)</item>
+<item>Tanz der Teufel (1981)</item>
+<item>Rambo (1982)</item>
+<item>Poltergeist (1982)</item>
+<item>Tootsie (1982)</item>
+<item>Der Sinn des Lebens (1983)</item>
+<item>Die Glücksritter (1983)</item>
+<item>Indiana Jones und der Tempel des Todes (1984)</item>
+<item>Die unendliche Geschichte (1984)</item>
+<item>Das Dschungelbuch (1967)</item>
+<item>Easy Rider (1969)</item>
+<item>Der Mann mit der Todeskralle (1973)</item>
+<item>Blutgericht in Texas (1974)</item>
+<item>Dornröschen (1959)</item>
+<item>James Bond 007 jagt Dr. No (1962)</item>
+<item>James Bond 007 - Liebesgrüße aus Moskau (1963)</item>
+<item>Aschenputtel (1950)</item>
+<item>Alice im Wunderland (1951)</item>
+<item>Schneewittchen und die sieben Zwerge (1937)</item>
+<item>Bambi (1942)</item>
+<item>Rang De Basanti (2006)</item>
+<item>Taare Zameen Par (2007)</item>
+<item>Zeitgeist (Video 2007)</item>
+<item>Die Bucht (2009)</item>
+<item>Senna (2010)</item>
+<item>Lego (2014)</item>
+<item>Udaan (2010)</item>
+<item>Inside Job (2010)</item>
+<item>Barfi! (2012)</item>
+<item>Grand Budapest Hotel (2014)</item>
+<item>Himmelskinder (1997)</item>
+<item>Lagaan: Once Upon a Time in India (2001)</item>
+<item>Hera Pheri (2000)</item>
+<item>Dil Chahta Hai (2001)</item>
+<item>Filantropica (2002)</item>
+<item>Swades: We, the People (2004)</item>
+<item>Ran (1985)</item>
+<item>Ein kurzer Film über die Liebe (1988)</item>
+<item>Die Zeit der Zigeuner (1988)</item>
+<item>Jo Jeeta Wohi Sikandar (1992)</item>
+<item>Andaz Apna Apna (1994)</item>
+<item>Mission: Impossible III (2006)</item>
+<item>Königreich der Himmel (2005)</item>
+<item>Ab durch die Hecke (2006)</item>
+<item>Unleashed - Entfesselt (2005)</item>
+<item>Madagascar (2005)</item>
+<item>Constantine (2005)</item>
+<item>Die Chroniken von Narnia - Der König von Narnia (2005)</item>
+<item>Syriana (2005)</item>
+<item>The Jacket (2005)</item>
+<item>Charlie und die Schokoladenfabrik (2005)</item>
+<item>X-Men - Der letzte Widerstand (2006)</item>
+<item>Wo die wilden Kerle wohnen (2009)</item>
+<item>Coach Carter (2005)</item>
+<item>Bolt: Ein Hund für alle Fälle (2008)</item>
+<item>Brücke nach Terabithia (2007)</item>
+<item>Die Insel (2005)</item>
+<item>A Scanner Darkly - Der dunkle Schirm (2006)</item>
+<item>Jede Sekunde zählt - The Guardian (2006)</item>
+<item>Das Haus am See (2006)</item>
+<item>Hellboy 2 - Die goldene Armee (2008)</item>
+<item>Broken Flowers (2005)</item>
+<item>Transformers (2007)</item>
+<item>Flags of Our Fathers (2006)</item>
+<item>Jarhead - Willkommen im Dreck (2005)</item>
+<item>Street Kings (2008)</item>
+<item>Hard Candy (2005)</item>
+<item>Solange Du da bist (2005)</item>
+<item>Alpha Dog - Tödliche Freundschaft (2006)</item>
+<item>Hairspray (2007)</item>
+<item>Das A-Team - Der Film (2010)</item>
+<item>Vier Brüder (2005)</item>
+<item>Vorbilder?! (2008)</item>
+<item>P.S. Ich Liebe Dich (2007)</item>
+<item>Ice Age 2 - Jetzt taut\'s (2006)</item>
+<item>Pirates of the Caribbean - Am Ende der Welt (2007)</item>
+<item>Zimmer 1408 (2007)</item>
+<item>Horton hört ein Hu (2008)</item>
+<item>Die Frau des Zeitreisenden (2009)</item>
+<item>Déjà Vu - Wettlauf gegen die Zeit (2006)</item>
+<item>Liebe braucht keine Ferien (2006)</item>
+<item>Captain America: The First Avenger (2011)</item>
+<item>Der Teufel trägt Prada (2006)</item>
+<item>Verwünscht (2007)</item>
+<item>28 Weeks Later (2007)</item>
+<item>#9 (2009)</item>
+<item>State of Play - Stand der Dinge (2009)</item>
+<item>Extrem laut und unglaublich nah (2011)</item>
+<item>21 (2008)</item>
+<item>Beim ersten Mal (2007)</item>
+<item>Rocky Balboa (2006)</item>
+<item>Crank (2006)</item>
+<item>Madagascar 2 (2008)</item>
+<item>Dan - Mitten im Leben! (2007)</item>
+<item>I Am Legend (2007)</item>
+<item>Disturbia - Auch Killer haben Nachbarn (2007)</item>
+<item>Das perfekte Verbrechen (2007)</item>
+<item>Ocean\'s Thirteen (2007)</item>
+<item>Vicky Cristina Barcelona (2008)</item>
+<item>Helden der Nacht (2007)</item>
+<item>Der Mann, der niemals lebte (2008)</item>
+<item>Brothers (2009)</item>
+<item>Küss den Frosch (2009)</item>
+<item>Jack Reacher (2012)</item>
+<item>Der unglaubliche Hulk (2008)</item>
+<item>Thor (2011)</item>
+<item>It\'s Kind of a Funny Story (2010)</item>
+<item>World War Z (2013)</item>
+<item>Marley &amp; ich (2008)</item>
+<item>Shooter (2007)</item>
+<item>Vielleicht, vielleicht auch nicht (2008)</item>
+<item>Darjeeling Limited (2007)</item>
+<item>Stiefbrüder (2008)</item>
+<item>The Kids Are All Right (2010)</item>
+<item>Der Nebel (2007)</item>
+<item>Burn After Reading - Wer verbrennt sich hier die Finger? (2008)</item>
+<item>Unthinkable (2010)</item>
+<item>Tropic Thunder (2008)</item>
+<item>Green Zone (2010)</item>
+<item>The Amazing Spider-Man (2012)</item>
+<item>Operation Walküre - Das Stauffenberg-Attentat (2008)</item>
+<item>Wer ist Hanna? (2011)</item>
+<item>Death Proof - Todsicher (2007)</item>
+<item>Unbeugsam (2008)</item>
+<item>The Book of Eli (2010)</item>
+<item>Das Kabinett des Doktor Parnassus (2009)</item>
+<item>Cloverfield (2008)</item>
+<item>Ice Age 3 - Die Dinosaurier sind los (2009)</item>
+<item>Adventureland (2009)</item>
+<item>Paul - Ein Alien auf der Flucht (2011)</item>
+<item>TRON: Legacy (2010)</item>
+<item>The Ides of March - Tage des Verrats (2011)</item>
+<item>Julie &amp; Julia (2009)</item>
+<item>Orphan - Das Waisenkind (2009)</item>
+<item>Public Enemies (2009)</item>
+<item>Pandorum (2009)</item>
+<item>Die Muppets (2011)</item>
+<item>Escape Plan (2013)</item>
+<item>Iron Man 2 (2010)</item>
+<item>Let Me In (2010)</item>
+<item>21 Jump Street (2012)</item>
+<item>Das ist das Ende (2013)</item>
+<item>The Cabin in the Woods (2012)</item>
+<item>2 Guns (2013)</item>
+<item>Madagascar 3: Flucht durch Europa (2012)</item>
+<item>Gangster Squad (2013)</item>
+<item>Alles, was wir geben mussten (2010)</item>
+<item>Dame, König, As, Spion (2011)</item>
+<item>Der Plan (2011)</item>
+<item>Wir kaufen einen Zoo (2011)</item>
+<item>Winter\'s Bone (2010)</item>
+<item>Unknown Identity (2011)</item>
+<item>Remember Me (2010)</item>
+<item>Men in Black 3 (2012)</item>
+<item>Wolverine: Weg des Kriegers (2013)</item>
+<item>Rio (2011)</item>
+<item>Buried - Lebend begraben (2010)</item>
+<item>Oblivion (2013)</item>
+<item>Kill the Boss (2011)</item>
+<item>Melancholia (2011)</item>
+<item>Get the Gringo (2012)</item>
+<item>The Grey - Unter Wölfen (2011)</item>
+<item>Für immer Liebe (2012)</item>
+<item>Der große Crash (2011)</item>
+<item>Ted (2012)</item>
+<item>Pacific Rim (2013)</item>
+<item>Wir sind die Millers (2013)</item>
+<item>The Expendables 2 (2012)</item>
+<item>Journey of Love - Das wahre Abenteuer ist die Liebe (2012)</item>
+<item>Fast &amp; Furious 6 (2013)</item>
+<item>7 Psychos (2012)</item>
+<item>Side Effects - Tödliche Nebenwirkungen (2013)</item>
+<item>Don Jon (2013)</item>
+<item>Mohammed - Der Gesandte Gottes (1977)</item>
+<item>Koyaanisqatsi - Prophezeiung (1982)</item>
+<item>Ein Schweinchen namens Babe (1995)</item>
+<item>Desperado (1995)</item>
+<item>James Bond 007 - GoldenEye (1995)</item>
+<item>Der Glöckner von Notre Dame (1996)</item>
+<item>Independence Day (1996)</item>
+<item>Matilda (1996)</item>
+<item>Mission: Impossible (1996)</item>
+<item>William Shakespeares Romeo &amp; Julia (1996)</item>
+<item>Anastasia (1997)</item>
+<item>Austin Powers - Das Schärfste, was Ihre Majestät zu bieten hat (1997)</item>
+<item>Con Air (1997)</item>
+<item>Ganz oder gar nicht (1997)</item>
+<item>Hercules (1997)</item>
+<item>Rendezvous mit Joe Black (1998)</item>
+<item>Men in Black (1997)</item>
+<item>Sieben Jahre in Tibet (1997)</item>
+<item>Three Kings - Es ist schön König zu sein (1999)</item>
+<item>Starship Troopers (1997)</item>
+<item>Die Mumie (1999)</item>
+<item>Das große Krabbeln (1998)</item>
+<item>From Hell (2001)</item>
+<item>Out of Sight (1998)</item>
+<item>Payback - Zahltag (1999)</item>
+<item>Der Prinz von Ägypten (1998)</item>
+<item>Rush Hour (1998)</item>
+<item>Tarzan (1999)</item>
+<item>Eine Hochzeit zum Verlieben (1998)</item>
+<item>Hinter dem Horizont (1998)</item>
+<item>Akte X: Der Film (1998)</item>
+<item>eXistenZ (1999)</item>
+<item>Star Wars: Episode II - Angriff der Klonkrieger (2002)</item>
+<item>Notting Hill (1999)</item>
+<item>Riddick - Planet der Finsternis (2000)</item>
+<item>Arlington Road (1999)</item>
+<item>Shakespeare in Love (1998)</item>
+<item>Eiskalte Engel (1999)</item>
+<item>An jedem verdammten Sonntag (1999)</item>
+<item>Die Thomas Crown Affäre (1999)</item>
+<item>Unterwegs nach Cold Mountain (2003)</item>
+<item>American Pie: Wie ein Heisser Apfelkuchen (1999)</item>
+<item>Hellboy (2004)</item>
+<item>Nicht auflegen! (2002)</item>
+<item>Der Patriot (2000)</item>
+<item>Final Destination (2000)</item>
+<item>Men of Honor (2000)</item>
+<item>A.I. Künstliche Intelligenz (2001)</item>
+<item>Unbreakable - Unzerbrechlich (2000)</item>
+<item>Das Glücksprinzip (2000)</item>
+<item>The Score (2001)</item>
+<item>Matrix Reloaded (2003)</item>
+<item>Weil es Dich gibt (2001)</item>
+<item>Super Troopers - Die Superbullen (2001)</item>
+<item>John Q. - Verzweifelte Wut (2002)</item>
+<item>About Schmidt (2002)</item>
+<item>Panic Room (2002)</item>
+<item>Vanilla Sky (2001)</item>
+<item>Jay und Silent Bob schlagen zurück (2001)</item>
+<item>The Girl Next Door (2004)</item>
+<item>One Hour Photo (2002)</item>
+<item>Spy Game - Der finale Countdown (2001)</item>
+<item>Lilo &amp; Stitch (2002)</item>
+<item>About a Boy oder: Der Tag der toten Ente (2002)</item>
+<item>Insomnia - Schlaflos (2002)</item>
+<item>Roter Drache (2002)</item>
+<item>The Transporter (2002)</item>
+<item>Ring (2002)</item>
+<item>Chicago (2002)</item>
+<item>Old School - Wir lassen absolut nichts anbrennen (2003)</item>
+<item>Bad Santa (2003)</item>
+<item>Das Urteil (2003)</item>
+<item>The Italian Job - Jagd auf Millionen (2003)</item>
+<item>Buddy - Der Weihnachtself (2003)</item>
+<item>Underworld (2003)</item>
+<item>School of Rock (2003)</item>
+<item>Troja (2004)</item>
+<item>Die Passion Christi (2004)</item>
+<item>Lemony Snicket - Rätselhafte Ereignisse (2004)</item>
+<item>I, Robot (2004)</item>
+<item>Elephant (2003)</item>
+<item>Harold &amp; Kumar Go to White Castle (2004)</item>
+<item>Das Vermächtnis der Tempelritter (2004)</item>
+<item>Team America (2004)</item>
+<item>Napoleon Dynamite (2004)</item>
+<item>Girls Club - Vorsicht bissig! (2004)</item>
+<item>Andrej Rubljow (1966)</item>
+<item>Highlander - Es kann nur Einen geben (1986)</item>
+<item>Top Gun - Sie fürchten weder Tod noch Teufel (1986)</item>
+<item>Dirty Dancing (1987)</item>
+<item>Good Morning, Vietnam (1987)</item>
+<item>Hellraiser - Das Tor zur Hölle (1987)</item>
+<item>Mel Brooks Spaceballs (1987)</item>
+<item>Willow (1988)</item>
+<item>Bill &amp; Ted\'s verrückte Reise durch die Zeit (1989)</item>
+<item>Geboren am 4. Juli (1989)</item>
+<item>Lethal Weapon 2 - Brennpunkt L.A. (1989)</item>
+<item>Stirb Langsam 2 (1990)</item>
+<item>Ghost - Nachricht von Sam (1990)</item>
+<item>Pretty Woman (1990)</item>
+<item>Die Addams Family (1991)</item>
+<item>Last Boy Scout - Das Ziel ist Überleben (1991)</item>
+<item>Gefährliche Brandung (1991)</item>
+<item>Robin Hood - König der Diebe (1991)</item>
+<item>Basic Instinct (1992)</item>
+<item>Batmans Rückkehr (1992)</item>
+<item>Die Stunde der Patrioten (1992)</item>
+<item>Wayne\'s World (1992)</item>
+<item>Die Firma (1993)</item>
+<item>In the Line of Fire - Die zweite Chance (1993)</item>
+<item>Mrs. Doubtfire - Das stachelige Kindermädchen (1993)</item>
+<item>Schlaflos in Seattle (1993)</item>
+<item>Ace Ventura - Ein tierischer Detektiv (1994)</item>
+<item>Vier Hochzeiten und ein Todesfall (1994)</item>
+<item>Die Maske (1994)</item>
+<item>Speed (1994)</item>
+<item>Stargate (1994)</item>
+<item>True Lies - Wahre Lügen (1994)</item>
+<item>Die Teuflischen (1955)</item>
+<item>Die Nächte der Cabiria (1957)</item>
+<item>Wilde Erdbeeren (1957)</item>
+<item>Zeugin der Anklage (1957)</item>
+<item>Rocco und seine Brüder (1960)</item>
+<item>Das Urteil von Nürnberg (1961)</item>
+<item>Die Leibwache (1961)</item>
+<item>Harakiri (1962)</item>
+<item>La jetée (1962)</item>
+<item>Zwischen Himmel und Hölle (1963)</item>
+<item>Die Frau in den Dünen (1964)</item>
+<item>Grease (1978)</item>
+<item>Mad Max (1979)</item>
+<item>Rocky II (1979)</item>
+<item>Conan, der Barbar (1982)</item>
+<item>Die Klapperschlange (1981)</item>
+<item>Tron (1982)</item>
+<item>Karate Kid (1984)</item>
+<item>Die besten Jahre unseres Lebens (1946)</item>
+<item>Kinder des Olymp (1945)</item>
+<item>Der Schatz der Sierra Madre (1948)</item>
+<item>Ikiru - Einmal richtig leben (1952)</item>
+<item>Lohn der Angst (1953)</item>
+<item>Die Reise nach Tokio (1953)</item>
+<item>James Bond 007 - Feuerball (1965)</item>
+<item>Mr. Smith geht nach Washington (1939)</item>
+<item>Sein oder Nichtsein (1942)</item>
+<item>101 Dalmatiner (1961)</item>
+<item>Goldrausch (1925)</item>
+<item>Der General (1926)</item>
+<item>Sonnenaufgang (1927)</item>
+<item>Es geschah in einer Nacht (1934)</item>
+<item>Der Vagabund und das Kind (1921)</item>
+<item>Ausgerechnet Wolkenkratzer (1923)</item>
+<item>Water (2005)</item>
+<item>Black (2005)</item>
+<item>Black Book (2006)</item>
+<item>Mit Herz und Hand (2005)</item>
+<item>Adams Äpfel (2005)</item>
+<item>Control (2007)</item>
+<item>Murderball (2005)</item>
+<item>Lage Raho Munna Bhai (2006)</item>
+<item>Der Tod des Herrn Lazarescu (2005)</item>
+<item>Efter brylluppet (2006)</item>
+<item>Persepolis (2007)</item>
+<item>Auf der anderen Seite (2007)</item>
+<item>The King of Kong (2007)</item>
+<item>Evangerion shin gekijôban: Jo (2007)</item>
+<item>4 Monate, 3 Wochen und 2 Tage (2007)</item>
+<item>Kabadayi - Für Liebe und Ehre (2007)</item>
+<item>Ein Leben für den Tod (TV Movie 2010)</item>
+<item>Das weiße Band - Eine deutsche Kindergeschichte (2009)</item>
+<item>Waltz with Bashir (2008)</item>
+<item>My Name Is Khan (2010)</item>
+<item>The Chaser (2008)</item>
+<item>Madeo (2009)</item>
+<item>Die Frau die singt - Incendies (2010)</item>
+<item>Food, Inc. (2008)</item>
+<item>Dev.D (2009)</item>
+<item>Alles über Elly (2009)</item>
+<item>The Man from Nowhere (2010)</item>
+<item>Tropa de Elite 2 - O Inimigo Agora É Outro (2010)</item>
+<item>Man lebt nur einmal (2011)</item>
+<item>Batman: Under the Red Hood (Video 2010)</item>
+<item>I Saw the Devil (2010)</item>
+<item>Liebe (2012)</item>
+<item>Jiro Dreams of Sushi (2011)</item>
+<item>Nebraska (2013)</item>
+<item>Indie Game: The Movie (2012)</item>
+<item>Searching for Sugar Man (2012)</item>
+<item>Englisch für Anfänger (2012)</item>
+<item>Before Midnight (2013)</item>
+<item>Kai po che! (2013)</item>
+<item>OMG: Oh My God! (2012)</item>
+<item>Short Term 12 (2013)</item>
+<item>The Act of Killing (2012)</item>
+<item>Special Chabbis (2013)</item>
+<item>Le Passé - Das Vergangene (2013)</item>
+<item>Blackfish (2013)</item>
+<item>Dead Man (1995)</item>
+<item>Ghost in the Shell (1995)</item>
+<item>Stimme des Herzens (1995)</item>
+<item>Underground (1995)</item>
+<item>Die erste Liebe (1996)</item>
+<item>Breaking the Waves (1996)</item>
+</string-array>
+  <string-array name="tid">
+<item>tt0111161</item>
+<item>tt0468569</item>
+<item>tt1375666</item>
+<item>tt0120737</item>
+<item>tt0137523</item>
+<item>tt0167260</item>
+<item>tt0167261</item>
+<item>tt0099685</item>
+<item>tt0108052</item>
+<item>tt0109830</item>
+<item>tt0110912</item>
+<item>tt0073486</item>
+<item>tt0080684</item>
+<item>tt0068646</item>
+<item>tt0071562</item>
+<item>tt0361748</item>
+<item>tt0372784</item>
+<item>tt0407887</item>
+<item>tt0482571</item>
+<item>tt0910970</item>
+<item>tt1345836</item>
+<item>tt1853728</item>
+<item>tt0112573</item>
+<item>tt0114369</item>
+<item>tt0114814</item>
+<item>tt0120586</item>
+<item>tt0120689</item>
+<item>tt0120815</item>
+<item>tt0133093</item>
+<item>tt0169547</item>
+<item>tt0172495</item>
+<item>tt0209144</item>
+<item>tt0338013</item>
+<item>tt0088763</item>
+<item>tt0102926</item>
+<item>tt0103064</item>
+<item>tt0105236</item>
+<item>tt0110413</item>
+<item>tt0076759</item>
+<item>tt0082971</item>
+<item>tt0086190</item>
+<item>tt0371746</item>
+<item>tt0401792</item>
+<item>tt0416449</item>
+<item>tt0434409</item>
+<item>tt0499549</item>
+<item>tt0848228</item>
+<item>tt1010048</item>
+<item>tt1130884</item>
+<item>tt0120382</item>
+<item>tt0167404</item>
+<item>tt0266543</item>
+<item>tt0266697</item>
+<item>tt0325980</item>
+<item>tt0060196</item>
+<item>tt0050083</item>
+<item>tt0047478</item>
+<item>tt0120338</item>
+<item>tt0405094</item>
+<item>tt0435761</item>
+<item>tt0457430</item>
+<item>tt0993846</item>
+<item>tt1049413</item>
+<item>tt1187043</item>
+<item>tt1291584</item>
+<item>tt1305806</item>
+<item>tt1675434</item>
+<item>tt1798709</item>
+<item>tt1832382</item>
+<item>tt1979320</item>
+<item>tt2024544</item>
+<item>tt2106476</item>
+<item>tt0113277</item>
+<item>tt0114709</item>
+<item>tt0118799</item>
+<item>tt0119488</item>
+<item>tt0119698</item>
+<item>tt0180093</item>
+<item>tt0208092</item>
+<item>tt0211915</item>
+<item>tt0245429</item>
+<item>tt0253474</item>
+<item>tt0317248</item>
+<item>tt0363163</item>
+<item>tt0364569</item>
+<item>tt0090605</item>
+<item>tt0093058</item>
+<item>tt0095016</item>
+<item>tt0095327</item>
+<item>tt0095765</item>
+<item>tt0096283</item>
+<item>tt0097576</item>
+<item>tt0105695</item>
+<item>tt0110357</item>
+<item>tt0071853</item>
+<item>tt0075314</item>
+<item>tt0078748</item>
+<item>tt0078788</item>
+<item>tt0080678</item>
+<item>tt0081398</item>
+<item>tt0081505</item>
+<item>tt0082096</item>
+<item>tt0083658</item>
+<item>tt0086250</item>
+<item>tt0086879</item>
+<item>tt0087843</item>
+<item>tt0059578</item>
+<item>tt0062622</item>
+<item>tt0064116</item>
+<item>tt0066921</item>
+<item>tt0070735</item>
+<item>tt0071315</item>
+<item>tt0050212</item>
+<item>tt0050825</item>
+<item>tt0050976</item>
+<item>tt0052357</item>
+<item>tt0053125</item>
+<item>tt0053291</item>
+<item>tt0053604</item>
+<item>tt0054215</item>
+<item>tt0056172</item>
+<item>tt0056592</item>
+<item>tt0057012</item>
+<item>tt0057115</item>
+<item>tt0038650</item>
+<item>tt0040522</item>
+<item>tt0041959</item>
+<item>tt0042192</item>
+<item>tt0042876</item>
+<item>tt0043014</item>
+<item>tt0045152</item>
+<item>tt0047296</item>
+<item>tt0047396</item>
+<item>tt0027977</item>
+<item>tt0032553</item>
+<item>tt0032976</item>
+<item>tt0033467</item>
+<item>tt0034583</item>
+<item>tt0036775</item>
+<item>tt0017136</item>
+<item>tt0021749</item>
+<item>tt0022100</item>
+<item>tt0206634</item>
+<item>tt0352248</item>
+<item>tt0379786</item>
+<item>tt0381061</item>
+<item>tt0381849</item>
+<item>tt0401383</item>
+<item>tt0414387</item>
+<item>tt0421715</item>
+<item>tt0425112</item>
+<item>tt0425210</item>
+<item>tt0432283</item>
+<item>tt0440963</item>
+<item>tt0449059</item>
+<item>tt0450259</item>
+<item>tt0454876</item>
+<item>tt0454921</item>
+<item>tt0455590</item>
+<item>tt0460791</item>
+<item>tt0469494</item>
+<item>tt0472043</item>
+<item>tt0477348</item>
+<item>tt0485947</item>
+<item>tt0486655</item>
+<item>tt0498380</item>
+<item>tt0756683</item>
+<item>tt0758758</item>
+<item>tt0765429</item>
+<item>tt0780504</item>
+<item>tt0780536</item>
+<item>tt0783233</item>
+<item>tt0790636</item>
+<item>tt0796366</item>
+<item>tt0824747</item>
+<item>tt0861739</item>
+<item>tt0870111</item>
+<item>tt0892769</item>
+<item>tt0903624</item>
+<item>tt0907657</item>
+<item>tt0914798</item>
+<item>tt0936501</item>
+<item>tt0947798</item>
+<item>tt0964517</item>
+<item>tt0978762</item>
+<item>tt1022603</item>
+<item>tt1024648</item>
+<item>tt1028532</item>
+<item>tt1045658</item>
+<item>tt1074638</item>
+<item>tt1091191</item>
+<item>tt1119646</item>
+<item>tt1125849</item>
+<item>tt1132620</item>
+<item>tt1136608</item>
+<item>tt1139797</item>
+<item>tt1170358</item>
+<item>tt1182345</item>
+<item>tt1201607</item>
+<item>tt1205489</item>
+<item>tt1220719</item>
+<item>tt1235166</item>
+<item>tt1250777</item>
+<item>tt1270798</item>
+<item>tt1285016</item>
+<item>tt1306980</item>
+<item>tt1392214</item>
+<item>tt1408101</item>
+<item>tt1454029</item>
+<item>tt1454468</item>
+<item>tt1504320</item>
+<item>tt1535109</item>
+<item>tt1568346</item>
+<item>tt1659337</item>
+<item>tt1748122</item>
+<item>tt1951264</item>
+<item>tt2294629</item>
+<item>tt0112471</item>
+<item>tt0112641</item>
+<item>tt0113247</item>
+<item>tt0114746</item>
+<item>tt0116282</item>
+<item>tt0117951</item>
+<item>tt0118715</item>
+<item>tt0118749</item>
+<item>tt0118929</item>
+<item>tt0119008</item>
+<item>tt0119174</item>
+<item>tt0119177</item>
+<item>tt0119217</item>
+<item>tt0119822</item>
+<item>tt0120363</item>
+<item>tt0120601</item>
+<item>tt0120669</item>
+<item>tt0120735</item>
+<item>tt0126029</item>
+<item>tt0128445</item>
+<item>tt0129167</item>
+<item>tt0130827</item>
+<item>tt0140352</item>
+<item>tt0144117</item>
+<item>tt0151804</item>
+<item>tt0158983</item>
+<item>tt0166924</item>
+<item>tt0175880</item>
+<item>tt0190332</item>
+<item>tt0190590</item>
+<item>tt0198781</item>
+<item>tt0245712</item>
+<item>tt0246578</item>
+<item>tt0250258</item>
+<item>tt0257044</item>
+<item>tt0258463</item>
+<item>tt0264464</item>
+<item>tt0268126</item>
+<item>tt0268978</item>
+<item>tt0276919</item>
+<item>tt0287467</item>
+<item>tt0299977</item>
+<item>tt0301357</item>
+<item>tt0304141</item>
+<item>tt0308644</item>
+<item>tt0315733</item>
+<item>tt0317705</item>
+<item>tt0318462</item>
+<item>tt0319061</item>
+<item>tt0327056</item>
+<item>tt0328107</item>
+<item>tt0332280</item>
+<item>tt0335266</item>
+<item>tt0338564</item>
+<item>tt0347149</item>
+<item>tt0350258</item>
+<item>tt0361862</item>
+<item>tt0372183</item>
+<item>tt0375679</item>
+<item>tt0378194</item>
+<item>tt0381681</item>
+<item>tt0395169</item>
+<item>tt0405159</item>
+<item>tt0088846</item>
+<item>tt0088847</item>
+<item>tt0089218</item>
+<item>tt0090756</item>
+<item>tt0091042</item>
+<item>tt0091605</item>
+<item>tt0091763</item>
+<item>tt0092005</item>
+<item>tt0092067</item>
+<item>tt0092965</item>
+<item>tt0093773</item>
+<item>tt0093779</item>
+<item>tt0094226</item>
+<item>tt0094625</item>
+<item>tt0095953</item>
+<item>tt0096874</item>
+<item>tt0097165</item>
+<item>tt0097441</item>
+<item>tt0099348</item>
+<item>tt0099487</item>
+<item>tt0100150</item>
+<item>tt0100157</item>
+<item>tt0101410</item>
+<item>tt0101414</item>
+<item>tt0101507</item>
+<item>tt0103639</item>
+<item>tt0105323</item>
+<item>tt0106489</item>
+<item>tt0106519</item>
+<item>tt0106977</item>
+<item>tt0107048</item>
+<item>tt0107207</item>
+<item>tt0107290</item>
+<item>tt0107688</item>
+<item>tt0108358</item>
+<item>tt0108399</item>
+<item>tt0108550</item>
+<item>tt0109445</item>
+<item>tt0072684</item>
+<item>tt0072890</item>
+<item>tt0073195</item>
+<item>tt0074958</item>
+<item>tt0075148</item>
+<item>tt0075686</item>
+<item>tt0077416</item>
+<item>tt0077651</item>
+<item>tt0079417</item>
+<item>tt0079470</item>
+<item>tt0079522</item>
+<item>tt0080455</item>
+<item>tt0083866</item>
+<item>tt0083987</item>
+<item>tt0084726</item>
+<item>tt0084787</item>
+<item>tt0085334</item>
+<item>tt0087332</item>
+<item>tt0087544</item>
+<item>tt0088247</item>
+<item>tt0088258</item>
+<item>tt0059742</item>
+<item>tt0061418</item>
+<item>tt0061512</item>
+<item>tt0061722</item>
+<item>tt0063350</item>
+<item>tt0063442</item>
+<item>tt0063522</item>
+<item>tt0064115</item>
+<item>tt0064665</item>
+<item>tt0066206</item>
+<item>tt0066999</item>
+<item>tt0067116</item>
+<item>tt0067992</item>
+<item>tt0068473</item>
+<item>tt0070047</item>
+<item>tt0070511</item>
+<item>tt0071230</item>
+<item>tt0071360</item>
+<item>tt0072431</item>
+<item>tt0052618</item>
+<item>tt0054331</item>
+<item>tt0054698</item>
+<item>tt0056869</item>
+<item>tt0058150</item>
+<item>tt0058331</item>
+<item>tt0058461</item>
+<item>tt0040746</item>
+<item>tt0044079</item>
+<item>tt0044081</item>
+<item>tt0044706</item>
+<item>tt0046250</item>
+<item>tt0046912</item>
+<item>tt0031381</item>
+<item>tt0032138</item>
+<item>tt0033870</item>
+<item>tt0121766</item>
+<item>tt0200465</item>
+<item>tt0292963</item>
+<item>tt0312004</item>
+<item>tt0327597</item>
+<item>tt0330373</item>
+<item>tt0337978</item>
+<item>tt0359950</item>
+<item>tt0360717</item>
+<item>tt0373469</item>
+<item>tt0373889</item>
+<item>tt0379725</item>
+<item>tt0383574</item>
+<item>tt0385002</item>
+<item>tt0387131</item>
+<item>tt0393109</item>
+<item>tt0396171</item>
+<item>tt0397535</item>
+<item>tt0399146</item>
+<item>tt0399295</item>
+<item>tt0404203</item>
+<item>tt0404390</item>
+<item>tt0408306</item>
+<item>tt0409459</item>
+<item>tt0414993</item>
+<item>tt0416320</item>
+<item>tt0417741</item>
+<item>tt0420223</item>
+<item>tt0424345</item>
+<item>tt0427944</item>
+<item>tt0433383</item>
+<item>tt0436697</item>
+<item>tt0441909</item>
+<item>tt0443272</item>
+<item>tt0443543</item>
+<item>tt0443706</item>
+<item>tt0446029</item>
+<item>tt0446755</item>
+<item>tt0448134</item>
+<item>tt0449467</item>
+<item>tt0452623</item>
+<item>tt0454848</item>
+<item>tt0462504</item>
+<item>tt0462538</item>
+<item>tt0464141</item>
+<item>tt0465538</item>
+<item>tt0467406</item>
+<item>tt0480025</item>
+<item>tt0481499</item>
+<item>tt0765443</item>
+<item>tt0770828</item>
+<item>tt0780571</item>
+<item>tt0795368</item>
+<item>tt0805564</item>
+<item>tt0814314</item>
+<item>tt0825232</item>
+<item>tt0829482</item>
+<item>tt0840361</item>
+<item>tt0878804</item>
+<item>tt0887912</item>
+<item>tt0898367</item>
+<item>tt0918927</item>
+<item>tt0926084</item>
+<item>tt0929632</item>
+<item>tt0945513</item>
+<item>tt0959337</item>
+<item>tt0970179</item>
+<item>tt0976051</item>
+<item>tt0983193</item>
+<item>tt0988045</item>
+<item>tt1013753</item>
+<item>tt1023114</item>
+<item>tt1032755</item>
+<item>tt1033575</item>
+<item>tt1038988</item>
+<item>tt1057500</item>
+<item>tt1120985</item>
+<item>tt1139328</item>
+<item>tt1174732</item>
+<item>tt1189073</item>
+<item>tt1189340</item>
+<item>tt1192628</item>
+<item>tt1193138</item>
+<item>tt1197624</item>
+<item>tt1210166</item>
+<item>tt1212450</item>
+<item>tt1219289</item>
+<item>tt1229238</item>
+<item>tt1242460</item>
+<item>tt1289406</item>
+<item>tt1300854</item>
+<item>tt1318514</item>
+<item>tt1403865</item>
+<item>tt1446192</item>
+<item>tt1453405</item>
+<item>tt1457767</item>
+<item>tt1458175</item>
+<item>tt1542344</item>
+<item>tt1570728</item>
+<item>tt1596343</item>
+<item>tt1605783</item>
+<item>tt1649419</item>
+<item>tt1670345</item>
+<item>tt1723811</item>
+<item>tt1727388</item>
+<item>tt1790885</item>
+<item>tt1800241</item>
+<item>tt1817273</item>
+<item>tt1855199</item>
+<item>tt1899353</item>
+<item>tt1907668</item>
+<item>tt1935179</item>
+<item>tt1981115</item>
+<item>tt1981677</item>
+<item>tt2265171</item>
+<item>tt2334873</item>
+<item>tt3322420</item>
+<item>tt0112384</item>
+<item>tt0112461</item>
+<item>tt0112864</item>
+<item>tt0113627</item>
+<item>tt0114388</item>
+<item>tt0116209</item>
+<item>tt0116695</item>
+<item>tt0116922</item>
+<item>tt0117318</item>
+<item>tt0117381</item>
+<item>tt0117500</item>
+<item>tt0117665</item>
+<item>tt0117731</item>
+<item>tt0117913</item>
+<item>tt0118842</item>
+<item>tt0118884</item>
+<item>tt0118971</item>
+<item>tt0119094</item>
+<item>tt0119116</item>
+<item>tt0119229</item>
+<item>tt0119396</item>
+<item>tt0120655</item>
+<item>tt0120663</item>
+<item>tt0120762</item>
+<item>tt0120768</item>
+<item>tt0120789</item>
+<item>tt0120863</item>
+<item>tt0120903</item>
+<item>tt0120917</item>
+<item>tt0122690</item>
+<item>tt0123755</item>
+<item>tt0124315</item>
+<item>tt0126886</item>
+<item>tt0127536</item>
+<item>tt0128442</item>
+<item>tt0138704</item>
+<item>tt0139654</item>
+<item>tt0144084</item>
+<item>tt0145487</item>
+<item>tt0159097</item>
+<item>tt0162222</item>
+<item>tt0162346</item>
+<item>tt0162661</item>
+<item>tt0171804</item>
+<item>tt0172493</item>
+<item>tt0174856</item>
+<item>tt0177789</item>
+<item>tt0181689</item>
+<item>tt0181865</item>
+<item>tt0186151</item>
+<item>tt0195685</item>
+<item>tt0210945</item>
+<item>tt0215750</item>
+<item>tt0217505</item>
+<item>tt0221027</item>
+<item>tt0230600</item>
+<item>tt0241303</item>
+<item>tt0241527</item>
+<item>tt0243133</item>
+<item>tt0245574</item>
+<item>tt0245844</item>
+<item>tt0265086</item>
+<item>tt0265666</item>
+<item>tt0268380</item>
+<item>tt0272152</item>
+<item>tt0272338</item>
+<item>tt0277027</item>
+<item>tt0281358</item>
+<item>tt0289043</item>
+<item>tt0289879</item>
+<item>tt0289992</item>
+<item>tt0290334</item>
+<item>tt0290673</item>
+<item>tt0293508</item>
+<item>tt0295297</item>
+<item>tt0298148</item>
+<item>tt0307901</item>
+<item>tt0309698</item>
+<item>tt0311113</item>
+<item>tt0314331</item>
+<item>tt0316654</item>
+<item>tt0325710</item>
+<item>tt0325805</item>
+<item>tt0333766</item>
+<item>tt0338751</item>
+<item>tt0340855</item>
+<item>tt0362227</item>
+<item>tt0362270</item>
+<item>tt0369339</item>
+<item>tt0375063</item>
+<item>tt0375912</item>
+<item>tt0376541</item>
+<item>tt0385004</item>
+<item>tt0090728</item>
+<item>tt0091064</item>
+<item>tt0091369</item>
+<item>tt0093409</item>
+<item>tt0093822</item>
+<item>tt0093870</item>
+<item>tt0094291</item>
+<item>tt0094737</item>
+<item>tt0095159</item>
+<item>tt0096754</item>
+<item>tt0096895</item>
+<item>tt0097351</item>
+<item>tt0097757</item>
+<item>tt0097958</item>
+<item>tt0098635</item>
+<item>tt0099077</item>
+<item>tt0099088</item>
+<item>tt0099674</item>
+<item>tt0099785</item>
+<item>tt0099810</item>
+<item>tt0099871</item>
+<item>tt0100802</item>
+<item>tt0101540</item>
+<item>tt0103873</item>
+<item>tt0103874</item>
+<item>tt0104257</item>
+<item>tt0104952</item>
+<item>tt0106677</item>
+<item>tt0106856</item>
+<item>tt0107818</item>
+<item>tt0109506</item>
+<item>tt0109686</item>
+<item>tt0110148</item>
+<item>tt0110632</item>
+<item>tt0073629</item>
+<item>tt0074285</item>
+<item>tt0075005</item>
+<item>tt0075860</item>
+<item>tt0078346</item>
+<item>tt0079116</item>
+<item>tt0082694</item>
+<item>tt0083907</item>
+<item>tt0083944</item>
+<item>tt0084516</item>
+<item>tt0084805</item>
+<item>tt0085959</item>
+<item>tt0086465</item>
+<item>tt0087469</item>
+<item>tt0088323</item>
+<item>tt0061852</item>
+<item>tt0064276</item>
+<item>tt0070034</item>
+<item>tt0072271</item>
+<item>tt0053285</item>
+<item>tt0055928</item>
+<item>tt0057076</item>
+<item>tt0042332</item>
+<item>tt0043274</item>
+<item>tt0029583</item>
+<item>tt0034492</item>
+<item>tt0405508</item>
+<item>tt0986264</item>
+<item>tt1166827</item>
+<item>tt1313104</item>
+<item>tt1424432</item>
+<item>tt1490017</item>
+<item>tt1639426</item>
+<item>tt1645089</item>
+<item>tt2082197</item>
+<item>tt2278388</item>
+<item>tt0118849</item>
+<item>tt0169102</item>
+<item>tt0242519</item>
+<item>tt0292490</item>
+<item>tt0314067</item>
+<item>tt0367110</item>
+<item>tt0089881</item>
+<item>tt0095467</item>
+<item>tt0097223</item>
+<item>tt0104561</item>
+<item>tt0109117</item>
+<item>tt0317919</item>
+<item>tt0320661</item>
+<item>tt0327084</item>
+<item>tt0342258</item>
+<item>tt0351283</item>
+<item>tt0360486</item>
+<item>tt0363771</item>
+<item>tt0365737</item>
+<item>tt0366627</item>
+<item>tt0367594</item>
+<item>tt0376994</item>
+<item>tt0386117</item>
+<item>tt0393162</item>
+<item>tt0397892</item>
+<item>tt0398808</item>
+<item>tt0399201</item>
+<item>tt0405296</item>
+<item>tt0406816</item>
+<item>tt0410297</item>
+<item>tt0411477</item>
+<item>tt0412019</item>
+<item>tt0418279</item>
+<item>tt0418689</item>
+<item>tt0418763</item>
+<item>tt0421073</item>
+<item>tt0424136</item>
+<item>tt0425123</item>
+<item>tt0426883</item>
+<item>tt0427327</item>
+<item>tt0429493</item>
+<item>tt0430105</item>
+<item>tt0430922</item>
+<item>tt0431308</item>
+<item>tt0438097</item>
+<item>tt0449088</item>
+<item>tt0450385</item>
+<item>tt0451079</item>
+<item>tt0452694</item>
+<item>tt0453467</item>
+<item>tt0457939</item>
+<item>tt0458339</item>
+<item>tt0458352</item>
+<item>tt0461770</item>
+<item>tt0463854</item>
+<item>tt0472033</item>
+<item>tt0473705</item>
+<item>tt0477302</item>
+<item>tt0478087</item>
+<item>tt0478311</item>
+<item>tt0479143</item>
+<item>tt0479884</item>
+<item>tt0479952</item>
+<item>tt0480242</item>
+<item>tt0480249</item>
+<item>tt0486822</item>
+<item>tt0488120</item>
+<item>tt0496806</item>
+<item>tt0497465</item>
+<item>tt0498399</item>
+<item>tt0758774</item>
+<item>tt0765010</item>
+<item>tt0780521</item>
+<item>tt0790724</item>
+<item>tt0800080</item>
+<item>tt0800369</item>
+<item>tt0804497</item>
+<item>tt0816711</item>
+<item>tt0822832</item>
+<item>tt0822854</item>
+<item>tt0832266</item>
+<item>tt0838221</item>
+<item>tt0838283</item>
+<item>tt0842926</item>
+<item>tt0884328</item>
+<item>tt0887883</item>
+<item>tt0914863</item>
+<item>tt0942385</item>
+<item>tt0947810</item>
+<item>tt0948470</item>
+<item>tt0985699</item>
+<item>tt0993842</item>
+<item>tt1028528</item>
+<item>tt1034303</item>
+<item>tt1037705</item>
+<item>tt1054606</item>
+<item>tt1060277</item>
+<item>tt1080016</item>
+<item>tt1091722</item>
+<item>tt1092026</item>
+<item>tt1104001</item>
+<item>tt1124035</item>
+<item>tt1135503</item>
+<item>tt1148204</item>
+<item>tt1152836</item>
+<item>tt1188729</item>
+<item>tt1204342</item>
+<item>tt1211956</item>
+<item>tt1228705</item>
+<item>tt1228987</item>
+<item>tt1232829</item>
+<item>tt1245492</item>
+<item>tt1259521</item>
+<item>tt1272878</item>
+<item>tt1277953</item>
+<item>tt1321870</item>
+<item>tt1334260</item>
+<item>tt1340800</item>
+<item>tt1385826</item>
+<item>tt1389137</item>
+<item>tt1399683</item>
+<item>tt1401152</item>
+<item>tt1403981</item>
+<item>tt1409024</item>
+<item>tt1430132</item>
+<item>tt1436562</item>
+<item>tt1462758</item>
+<item>tt1483013</item>
+<item>tt1499658</item>
+<item>tt1527186</item>
+<item>tt1567609</item>
+<item>tt1601913</item>
+<item>tt1606389</item>
+<item>tt1615147</item>
+<item>tt1637725</item>
+<item>tt1663662</item>
+<item>tt1723121</item>
+<item>tt1764651</item>
+<item>tt1862079</item>
+<item>tt1905041</item>
+<item>tt1931533</item>
+<item>tt2053463</item>
+<item>tt2229499</item>
+<item>tt0074896</item>
+<item>tt0085809</item>
+<item>tt0112431</item>
+<item>tt0112851</item>
+<item>tt0113189</item>
+<item>tt0116583</item>
+<item>tt0116629</item>
+<item>tt0117008</item>
+<item>tt0117060</item>
+<item>tt0117509</item>
+<item>tt0118617</item>
+<item>tt0118655</item>
+<item>tt0118880</item>
+<item>tt0119164</item>
+<item>tt0119282</item>
+<item>tt0119643</item>
+<item>tt0119654</item>
+<item>tt0120102</item>
+<item>tt0120188</item>
+<item>tt0120201</item>
+<item>tt0120616</item>
+<item>tt0120623</item>
+<item>tt0120681</item>
+<item>tt0120780</item>
+<item>tt0120784</item>
+<item>tt0120794</item>
+<item>tt0120812</item>
+<item>tt0120855</item>
+<item>tt0120888</item>
+<item>tt0120889</item>
+<item>tt0120902</item>
+<item>tt0120907</item>
+<item>tt0121765</item>
+<item>tt0125439</item>
+<item>tt0134847</item>
+<item>tt0137363</item>
+<item>tt0138097</item>
+<item>tt0139134</item>
+<item>tt0146838</item>
+<item>tt0155267</item>
+<item>tt0159365</item>
+<item>tt0163651</item>
+<item>tt0167190</item>
+<item>tt0183649</item>
+<item>tt0187393</item>
+<item>tt0195714</item>
+<item>tt0203019</item>
+<item>tt0212720</item>
+<item>tt0217869</item>
+<item>tt0223897</item>
+<item>tt0227445</item>
+<item>tt0234215</item>
+<item>tt0240890</item>
+<item>tt0247745</item>
+<item>tt0251160</item>
+<item>tt0257360</item>
+<item>tt0258000</item>
+<item>tt0259711</item>
+<item>tt0261392</item>
+<item>tt0265208</item>
+<item>tt0265459</item>
+<item>tt0266987</item>
+<item>tt0275847</item>
+<item>tt0276751</item>
+<item>tt0278504</item>
+<item>tt0289765</item>
+<item>tt0293662</item>
+<item>tt0298130</item>
+<item>tt0299658</item>
+<item>tt0302886</item>
+<item>tt0307987</item>
+<item>tt0313542</item>
+<item>tt0317740</item>
+<item>tt0319343</item>
+<item>tt0320691</item>
+<item>tt0332379</item>
+<item>tt0332452</item>
+<item>tt0335345</item>
+<item>tt0339291</item>
+<item>tt0343818</item>
+<item>tt0363589</item>
+<item>tt0366551</item>
+<item>tt0368891</item>
+<item>tt0372588</item>
+<item>tt0374900</item>
+<item>tt0377092</item>
+<item>tt0060107</item>
+<item>tt0091203</item>
+<item>tt0092099</item>
+<item>tt0092890</item>
+<item>tt0093105</item>
+<item>tt0093177</item>
+<item>tt0094012</item>
+<item>tt0096446</item>
+<item>tt0096928</item>
+<item>tt0096969</item>
+<item>tt0097733</item>
+<item>tt0099423</item>
+<item>tt0099653</item>
+<item>tt0100405</item>
+<item>tt0101272</item>
+<item>tt0102266</item>
+<item>tt0102685</item>
+<item>tt0102798</item>
+<item>tt0103772</item>
+<item>tt0103776</item>
+<item>tt0105112</item>
+<item>tt0105793</item>
+<item>tt0106918</item>
+<item>tt0107206</item>
+<item>tt0107614</item>
+<item>tt0108160</item>
+<item>tt0109040</item>
+<item>tt0109831</item>
+<item>tt0110475</item>
+<item>tt0111257</item>
+<item>tt0111282</item>
+<item>tt0111503</item>
+<item>tt0046911</item>
+<item>tt0050783</item>
+<item>tt0050986</item>
+<item>tt0051201</item>
+<item>tt0054248</item>
+<item>tt0055031</item>
+<item>tt0055630</item>
+<item>tt0056058</item>
+<item>tt0056119</item>
+<item>tt0057565</item>
+<item>tt0058625</item>
+<item>tt0077631</item>
+<item>tt0079501</item>
+<item>tt0079817</item>
+<item>tt0082198</item>
+<item>tt0082340</item>
+<item>tt0084827</item>
+<item>tt0087538</item>
+<item>tt0036868</item>
+<item>tt0037674</item>
+<item>tt0040897</item>
+<item>tt0044741</item>
+<item>tt0046268</item>
+<item>tt0046438</item>
+<item>tt0059800</item>
+<item>tt0031679</item>
+<item>tt0035446</item>
+<item>tt0055254</item>
+<item>tt0015864</item>
+<item>tt0017925</item>
+<item>tt0018455</item>
+<item>tt0025316</item>
+<item>tt0012349</item>
+<item>tt0014429</item>
+<item>tt0240200</item>
+<item>tt0375611</item>
+<item>tt0389557</item>
+<item>tt0412080</item>
+<item>tt0418455</item>
+<item>tt0421082</item>
+<item>tt0436613</item>
+<item>tt0456144</item>
+<item>tt0456149</item>
+<item>tt0457655</item>
+<item>tt0808417</item>
+<item>tt0880502</item>
+<item>tt0923752</item>
+<item>tt0923811</item>
+<item>tt1032846</item>
+<item>tt1051907</item>
+<item>tt1132623</item>
+<item>tt1149362</item>
+<item>tt1185616</item>
+<item>tt1188996</item>
+<item>tt1190539</item>
+<item>tt1216496</item>
+<item>tt1255953</item>
+<item>tt1286537</item>
+<item>tt1327035</item>
+<item>tt1360860</item>
+<item>tt1527788</item>
+<item>tt1555149</item>
+<item>tt1562872</item>
+<item>tt1569923</item>
+<item>tt1588170</item>
+<item>tt1602620</item>
+<item>tt1772925</item>
+<item>tt1821549</item>
+<item>tt1942884</item>
+<item>tt2125608</item>
+<item>tt2181931</item>
+<item>tt2209418</item>
+<item>tt2213054</item>
+<item>tt2283748</item>
+<item>tt2370248</item>
+<item>tt2375605</item>
+<item>tt2377938</item>
+<item>tt2404461</item>
+<item>tt2545118</item>
+<item>tt0112817</item>
+<item>tt0113568</item>
+<item>tt0113824</item>
+<item>tt0114787</item>
+<item>tt0115640</item>
+<item>tt0115751</item>
+</string-array>
+  <string-array name="url">
+<item>http://www.imdb.com/title/tt0111161/</item>
+<item>http://www.imdb.com/title/tt0468569/</item>
+<item>http://www.imdb.com/title/tt1375666/</item>
+<item>http://www.imdb.com/title/tt0120737/</item>
+<item>http://www.imdb.com/title/tt0137523/</item>
+<item>http://www.imdb.com/title/tt0167260/</item>
+<item>http://www.imdb.com/title/tt0167261/</item>
+<item>http://www.imdb.com/title/tt0099685/</item>
+<item>http://www.imdb.com/title/tt0108052/</item>
+<item>http://www.imdb.com/title/tt0109830/</item>
+<item>http://www.imdb.com/title/tt0110912/</item>
+<item>http://www.imdb.com/title/tt0073486/</item>
+<item>http://www.imdb.com/title/tt0080684/</item>
+<item>http://www.imdb.com/title/tt0068646/</item>
+<item>http://www.imdb.com/title/tt0071562/</item>
+<item>http://www.imdb.com/title/tt0361748/</item>
+<item>http://www.imdb.com/title/tt0372784/</item>
+<item>http://www.imdb.com/title/tt0407887/</item>
+<item>http://www.imdb.com/title/tt0482571/</item>
+<item>http://www.imdb.com/title/tt0910970/</item>
+<item>http://www.imdb.com/title/tt1345836/</item>
+<item>http://www.imdb.com/title/tt1853728/</item>
+<item>http://www.imdb.com/title/tt0112573/</item>
+<item>http://www.imdb.com/title/tt0114369/</item>
+<item>http://www.imdb.com/title/tt0114814/</item>
+<item>http://www.imdb.com/title/tt0120586/</item>
+<item>http://www.imdb.com/title/tt0120689/</item>
+<item>http://www.imdb.com/title/tt0120815/</item>
+<item>http://www.imdb.com/title/tt0133093/</item>
+<item>http://www.imdb.com/title/tt0169547/</item>
+<item>http://www.imdb.com/title/tt0172495/</item>
+<item>http://www.imdb.com/title/tt0209144/</item>
+<item>http://www.imdb.com/title/tt0338013/</item>
+<item>http://www.imdb.com/title/tt0088763/</item>
+<item>http://www.imdb.com/title/tt0102926/</item>
+<item>http://www.imdb.com/title/tt0103064/</item>
+<item>http://www.imdb.com/title/tt0105236/</item>
+<item>http://www.imdb.com/title/tt0110413/</item>
+<item>http://www.imdb.com/title/tt0076759/</item>
+<item>http://www.imdb.com/title/tt0082971/</item>
+<item>http://www.imdb.com/title/tt0086190/</item>
+<item>http://www.imdb.com/title/tt0371746/</item>
+<item>http://www.imdb.com/title/tt0401792/</item>
+<item>http://www.imdb.com/title/tt0416449/</item>
+<item>http://www.imdb.com/title/tt0434409/</item>
+<item>http://www.imdb.com/title/tt0499549/</item>
+<item>http://www.imdb.com/title/tt0848228/</item>
+<item>http://www.imdb.com/title/tt1010048/</item>
+<item>http://www.imdb.com/title/tt1130884/</item>
+<item>http://www.imdb.com/title/tt0120382/</item>
+<item>http://www.imdb.com/title/tt0167404/</item>
+<item>http://www.imdb.com/title/tt0266543/</item>
+<item>http://www.imdb.com/title/tt0266697/</item>
+<item>http://www.imdb.com/title/tt0325980/</item>
+<item>http://www.imdb.com/title/tt0060196/</item>
+<item>http://www.imdb.com/title/tt0050083/</item>
+<item>http://www.imdb.com/title/tt0047478/</item>
+<item>http://www.imdb.com/title/tt0120338/</item>
+<item>http://www.imdb.com/title/tt0405094/</item>
+<item>http://www.imdb.com/title/tt0435761/</item>
+<item>http://www.imdb.com/title/tt0457430/</item>
+<item>http://www.imdb.com/title/tt0993846/</item>
+<item>http://www.imdb.com/title/tt1049413/</item>
+<item>http://www.imdb.com/title/tt1187043/</item>
+<item>http://www.imdb.com/title/tt1291584/</item>
+<item>http://www.imdb.com/title/tt1305806/</item>
+<item>http://www.imdb.com/title/tt1675434/</item>
+<item>http://www.imdb.com/title/tt1798709/</item>
+<item>http://www.imdb.com/title/tt1832382/</item>
+<item>http://www.imdb.com/title/tt1979320/</item>
+<item>http://www.imdb.com/title/tt2024544/</item>
+<item>http://www.imdb.com/title/tt2106476/</item>
+<item>http://www.imdb.com/title/tt0113277/</item>
+<item>http://www.imdb.com/title/tt0114709/</item>
+<item>http://www.imdb.com/title/tt0118799/</item>
+<item>http://www.imdb.com/title/tt0119488/</item>
+<item>http://www.imdb.com/title/tt0119698/</item>
+<item>http://www.imdb.com/title/tt0180093/</item>
+<item>http://www.imdb.com/title/tt0208092/</item>
+<item>http://www.imdb.com/title/tt0211915/</item>
+<item>http://www.imdb.com/title/tt0245429/</item>
+<item>http://www.imdb.com/title/tt0253474/</item>
+<item>http://www.imdb.com/title/tt0317248/</item>
+<item>http://www.imdb.com/title/tt0363163/</item>
+<item>http://www.imdb.com/title/tt0364569/</item>
+<item>http://www.imdb.com/title/tt0090605/</item>
+<item>http://www.imdb.com/title/tt0093058/</item>
+<item>http://www.imdb.com/title/tt0095016/</item>
+<item>http://www.imdb.com/title/tt0095327/</item>
+<item>http://www.imdb.com/title/tt0095765/</item>
+<item>http://www.imdb.com/title/tt0096283/</item>
+<item>http://www.imdb.com/title/tt0097576/</item>
+<item>http://www.imdb.com/title/tt0105695/</item>
+<item>http://www.imdb.com/title/tt0110357/</item>
+<item>http://www.imdb.com/title/tt0071853/</item>
+<item>http://www.imdb.com/title/tt0075314/</item>
+<item>http://www.imdb.com/title/tt0078748/</item>
+<item>http://www.imdb.com/title/tt0078788/</item>
+<item>http://www.imdb.com/title/tt0080678/</item>
+<item>http://www.imdb.com/title/tt0081398/</item>
+<item>http://www.imdb.com/title/tt0081505/</item>
+<item>http://www.imdb.com/title/tt0082096/</item>
+<item>http://www.imdb.com/title/tt0083658/</item>
+<item>http://www.imdb.com/title/tt0086250/</item>
+<item>http://www.imdb.com/title/tt0086879/</item>
+<item>http://www.imdb.com/title/tt0087843/</item>
+<item>http://www.imdb.com/title/tt0059578/</item>
+<item>http://www.imdb.com/title/tt0062622/</item>
+<item>http://www.imdb.com/title/tt0064116/</item>
+<item>http://www.imdb.com/title/tt0066921/</item>
+<item>http://www.imdb.com/title/tt0070735/</item>
+<item>http://www.imdb.com/title/tt0071315/</item>
+<item>http://www.imdb.com/title/tt0050212/</item>
+<item>http://www.imdb.com/title/tt0050825/</item>
+<item>http://www.imdb.com/title/tt0050976/</item>
+<item>http://www.imdb.com/title/tt0052357/</item>
+<item>http://www.imdb.com/title/tt0053125/</item>
+<item>http://www.imdb.com/title/tt0053291/</item>
+<item>http://www.imdb.com/title/tt0053604/</item>
+<item>http://www.imdb.com/title/tt0054215/</item>
+<item>http://www.imdb.com/title/tt0056172/</item>
+<item>http://www.imdb.com/title/tt0056592/</item>
+<item>http://www.imdb.com/title/tt0057012/</item>
+<item>http://www.imdb.com/title/tt0057115/</item>
+<item>http://www.imdb.com/title/tt0038650/</item>
+<item>http://www.imdb.com/title/tt0040522/</item>
+<item>http://www.imdb.com/title/tt0041959/</item>
+<item>http://www.imdb.com/title/tt0042192/</item>
+<item>http://www.imdb.com/title/tt0042876/</item>
+<item>http://www.imdb.com/title/tt0043014/</item>
+<item>http://www.imdb.com/title/tt0045152/</item>
+<item>http://www.imdb.com/title/tt0047296/</item>
+<item>http://www.imdb.com/title/tt0047396/</item>
+<item>http://www.imdb.com/title/tt0027977/</item>
+<item>http://www.imdb.com/title/tt0032553/</item>
+<item>http://www.imdb.com/title/tt0032976/</item>
+<item>http://www.imdb.com/title/tt0033467/</item>
+<item>http://www.imdb.com/title/tt0034583/</item>
+<item>http://www.imdb.com/title/tt0036775/</item>
+<item>http://www.imdb.com/title/tt0017136/</item>
+<item>http://www.imdb.com/title/tt0021749/</item>
+<item>http://www.imdb.com/title/tt0022100/</item>
+<item>http://www.imdb.com/title/tt0206634/</item>
+<item>http://www.imdb.com/title/tt0352248/</item>
+<item>http://www.imdb.com/title/tt0379786/</item>
+<item>http://www.imdb.com/title/tt0381061/</item>
+<item>http://www.imdb.com/title/tt0381849/</item>
+<item>http://www.imdb.com/title/tt0401383/</item>
+<item>http://www.imdb.com/title/tt0414387/</item>
+<item>http://www.imdb.com/title/tt0421715/</item>
+<item>http://www.imdb.com/title/tt0425112/</item>
+<item>http://www.imdb.com/title/tt0425210/</item>
+<item>http://www.imdb.com/title/tt0432283/</item>
+<item>http://www.imdb.com/title/tt0440963/</item>
+<item>http://www.imdb.com/title/tt0449059/</item>
+<item>http://www.imdb.com/title/tt0450259/</item>
+<item>http://www.imdb.com/title/tt0454876/</item>
+<item>http://www.imdb.com/title/tt0454921/</item>
+<item>http://www.imdb.com/title/tt0455590/</item>
+<item>http://www.imdb.com/title/tt0460791/</item>
+<item>http://www.imdb.com/title/tt0469494/</item>
+<item>http://www.imdb.com/title/tt0472043/</item>
+<item>http://www.imdb.com/title/tt0477348/</item>
+<item>http://www.imdb.com/title/tt0485947/</item>
+<item>http://www.imdb.com/title/tt0486655/</item>
+<item>http://www.imdb.com/title/tt0498380/</item>
+<item>http://www.imdb.com/title/tt0756683/</item>
+<item>http://www.imdb.com/title/tt0758758/</item>
+<item>http://www.imdb.com/title/tt0765429/</item>
+<item>http://www.imdb.com/title/tt0780504/</item>
+<item>http://www.imdb.com/title/tt0780536/</item>
+<item>http://www.imdb.com/title/tt0783233/</item>
+<item>http://www.imdb.com/title/tt0790636/</item>
+<item>http://www.imdb.com/title/tt0796366/</item>
+<item>http://www.imdb.com/title/tt0824747/</item>
+<item>http://www.imdb.com/title/tt0861739/</item>
+<item>http://www.imdb.com/title/tt0870111/</item>
+<item>http://www.imdb.com/title/tt0892769/</item>
+<item>http://www.imdb.com/title/tt0903624/</item>
+<item>http://www.imdb.com/title/tt0907657/</item>
+<item>http://www.imdb.com/title/tt0914798/</item>
+<item>http://www.imdb.com/title/tt0936501/</item>
+<item>http://www.imdb.com/title/tt0947798/</item>
+<item>http://www.imdb.com/title/tt0964517/</item>
+<item>http://www.imdb.com/title/tt0978762/</item>
+<item>http://www.imdb.com/title/tt1022603/</item>
+<item>http://www.imdb.com/title/tt1024648/</item>
+<item>http://www.imdb.com/title/tt1028532/</item>
+<item>http://www.imdb.com/title/tt1045658/</item>
+<item>http://www.imdb.com/title/tt1074638/</item>
+<item>http://www.imdb.com/title/tt1091191/</item>
+<item>http://www.imdb.com/title/tt1119646/</item>
+<item>http://www.imdb.com/title/tt1125849/</item>
+<item>http://www.imdb.com/title/tt1132620/</item>
+<item>http://www.imdb.com/title/tt1136608/</item>
+<item>http://www.imdb.com/title/tt1139797/</item>
+<item>http://www.imdb.com/title/tt1170358/</item>
+<item>http://www.imdb.com/title/tt1182345/</item>
+<item>http://www.imdb.com/title/tt1201607/</item>
+<item>http://www.imdb.com/title/tt1205489/</item>
+<item>http://www.imdb.com/title/tt1220719/</item>
+<item>http://www.imdb.com/title/tt1235166/</item>
+<item>http://www.imdb.com/title/tt1250777/</item>
+<item>http://www.imdb.com/title/tt1270798/</item>
+<item>http://www.imdb.com/title/tt1285016/</item>
+<item>http://www.imdb.com/title/tt1306980/</item>
+<item>http://www.imdb.com/title/tt1392214/</item>
+<item>http://www.imdb.com/title/tt1408101/</item>
+<item>http://www.imdb.com/title/tt1454029/</item>
+<item>http://www.imdb.com/title/tt1454468/</item>
+<item>http://www.imdb.com/title/tt1504320/</item>
+<item>http://www.imdb.com/title/tt1535109/</item>
+<item>http://www.imdb.com/title/tt1568346/</item>
+<item>http://www.imdb.com/title/tt1659337/</item>
+<item>http://www.imdb.com/title/tt1748122/</item>
+<item>http://www.imdb.com/title/tt1951264/</item>
+<item>http://www.imdb.com/title/tt2294629/</item>
+<item>http://www.imdb.com/title/tt0112471/</item>
+<item>http://www.imdb.com/title/tt0112641/</item>
+<item>http://www.imdb.com/title/tt0113247/</item>
+<item>http://www.imdb.com/title/tt0114746/</item>
+<item>http://www.imdb.com/title/tt0116282/</item>
+<item>http://www.imdb.com/title/tt0117951/</item>
+<item>http://www.imdb.com/title/tt0118715/</item>
+<item>http://www.imdb.com/title/tt0118749/</item>
+<item>http://www.imdb.com/title/tt0118929/</item>
+<item>http://www.imdb.com/title/tt0119008/</item>
+<item>http://www.imdb.com/title/tt0119174/</item>
+<item>http://www.imdb.com/title/tt0119177/</item>
+<item>http://www.imdb.com/title/tt0119217/</item>
+<item>http://www.imdb.com/title/tt0119822/</item>
+<item>http://www.imdb.com/title/tt0120363/</item>
+<item>http://www.imdb.com/title/tt0120601/</item>
+<item>http://www.imdb.com/title/tt0120669/</item>
+<item>http://www.imdb.com/title/tt0120735/</item>
+<item>http://www.imdb.com/title/tt0126029/</item>
+<item>http://www.imdb.com/title/tt0128445/</item>
+<item>http://www.imdb.com/title/tt0129167/</item>
+<item>http://www.imdb.com/title/tt0130827/</item>
+<item>http://www.imdb.com/title/tt0140352/</item>
+<item>http://www.imdb.com/title/tt0144117/</item>
+<item>http://www.imdb.com/title/tt0151804/</item>
+<item>http://www.imdb.com/title/tt0158983/</item>
+<item>http://www.imdb.com/title/tt0166924/</item>
+<item>http://www.imdb.com/title/tt0175880/</item>
+<item>http://www.imdb.com/title/tt0190332/</item>
+<item>http://www.imdb.com/title/tt0190590/</item>
+<item>http://www.imdb.com/title/tt0198781/</item>
+<item>http://www.imdb.com/title/tt0245712/</item>
+<item>http://www.imdb.com/title/tt0246578/</item>
+<item>http://www.imdb.com/title/tt0250258/</item>
+<item>http://www.imdb.com/title/tt0257044/</item>
+<item>http://www.imdb.com/title/tt0258463/</item>
+<item>http://www.imdb.com/title/tt0264464/</item>
+<item>http://www.imdb.com/title/tt0268126/</item>
+<item>http://www.imdb.com/title/tt0268978/</item>
+<item>http://www.imdb.com/title/tt0276919/</item>
+<item>http://www.imdb.com/title/tt0287467/</item>
+<item>http://www.imdb.com/title/tt0299977/</item>
+<item>http://www.imdb.com/title/tt0301357/</item>
+<item>http://www.imdb.com/title/tt0304141/</item>
+<item>http://www.imdb.com/title/tt0308644/</item>
+<item>http://www.imdb.com/title/tt0315733/</item>
+<item>http://www.imdb.com/title/tt0317705/</item>
+<item>http://www.imdb.com/title/tt0318462/</item>
+<item>http://www.imdb.com/title/tt0319061/</item>
+<item>http://www.imdb.com/title/tt0327056/</item>
+<item>http://www.imdb.com/title/tt0328107/</item>
+<item>http://www.imdb.com/title/tt0332280/</item>
+<item>http://www.imdb.com/title/tt0335266/</item>
+<item>http://www.imdb.com/title/tt0338564/</item>
+<item>http://www.imdb.com/title/tt0347149/</item>
+<item>http://www.imdb.com/title/tt0350258/</item>
+<item>http://www.imdb.com/title/tt0361862/</item>
+<item>http://www.imdb.com/title/tt0372183/</item>
+<item>http://www.imdb.com/title/tt0375679/</item>
+<item>http://www.imdb.com/title/tt0378194/</item>
+<item>http://www.imdb.com/title/tt0381681/</item>
+<item>http://www.imdb.com/title/tt0395169/</item>
+<item>http://www.imdb.com/title/tt0405159/</item>
+<item>http://www.imdb.com/title/tt0088846/</item>
+<item>http://www.imdb.com/title/tt0088847/</item>
+<item>http://www.imdb.com/title/tt0089218/</item>
+<item>http://www.imdb.com/title/tt0090756/</item>
+<item>http://www.imdb.com/title/tt0091042/</item>
+<item>http://www.imdb.com/title/tt0091605/</item>
+<item>http://www.imdb.com/title/tt0091763/</item>
+<item>http://www.imdb.com/title/tt0092005/</item>
+<item>http://www.imdb.com/title/tt0092067/</item>
+<item>http://www.imdb.com/title/tt0092965/</item>
+<item>http://www.imdb.com/title/tt0093773/</item>
+<item>http://www.imdb.com/title/tt0093779/</item>
+<item>http://www.imdb.com/title/tt0094226/</item>
+<item>http://www.imdb.com/title/tt0094625/</item>
+<item>http://www.imdb.com/title/tt0095953/</item>
+<item>http://www.imdb.com/title/tt0096874/</item>
+<item>http://www.imdb.com/title/tt0097165/</item>
+<item>http://www.imdb.com/title/tt0097441/</item>
+<item>http://www.imdb.com/title/tt0099348/</item>
+<item>http://www.imdb.com/title/tt0099487/</item>
+<item>http://www.imdb.com/title/tt0100150/</item>
+<item>http://www.imdb.com/title/tt0100157/</item>
+<item>http://www.imdb.com/title/tt0101410/</item>
+<item>http://www.imdb.com/title/tt0101414/</item>
+<item>http://www.imdb.com/title/tt0101507/</item>
+<item>http://www.imdb.com/title/tt0103639/</item>
+<item>http://www.imdb.com/title/tt0105323/</item>
+<item>http://www.imdb.com/title/tt0106489/</item>
+<item>http://www.imdb.com/title/tt0106519/</item>
+<item>http://www.imdb.com/title/tt0106977/</item>
+<item>http://www.imdb.com/title/tt0107048/</item>
+<item>http://www.imdb.com/title/tt0107207/</item>
+<item>http://www.imdb.com/title/tt0107290/</item>
+<item>http://www.imdb.com/title/tt0107688/</item>
+<item>http://www.imdb.com/title/tt0108358/</item>
+<item>http://www.imdb.com/title/tt0108399/</item>
+<item>http://www.imdb.com/title/tt0108550/</item>
+<item>http://www.imdb.com/title/tt0109445/</item>
+<item>http://www.imdb.com/title/tt0072684/</item>
+<item>http://www.imdb.com/title/tt0072890/</item>
+<item>http://www.imdb.com/title/tt0073195/</item>
+<item>http://www.imdb.com/title/tt0074958/</item>
+<item>http://www.imdb.com/title/tt0075148/</item>
+<item>http://www.imdb.com/title/tt0075686/</item>
+<item>http://www.imdb.com/title/tt0077416/</item>
+<item>http://www.imdb.com/title/tt0077651/</item>
+<item>http://www.imdb.com/title/tt0079417/</item>
+<item>http://www.imdb.com/title/tt0079470/</item>
+<item>http://www.imdb.com/title/tt0079522/</item>
+<item>http://www.imdb.com/title/tt0080455/</item>
+<item>http://www.imdb.com/title/tt0083866/</item>
+<item>http://www.imdb.com/title/tt0083987/</item>
+<item>http://www.imdb.com/title/tt0084726/</item>
+<item>http://www.imdb.com/title/tt0084787/</item>
+<item>http://www.imdb.com/title/tt0085334/</item>
+<item>http://www.imdb.com/title/tt0087332/</item>
+<item>http://www.imdb.com/title/tt0087544/</item>
+<item>http://www.imdb.com/title/tt0088247/</item>
+<item>http://www.imdb.com/title/tt0088258/</item>
+<item>http://www.imdb.com/title/tt0059742/</item>
+<item>http://www.imdb.com/title/tt0061418/</item>
+<item>http://www.imdb.com/title/tt0061512/</item>
+<item>http://www.imdb.com/title/tt0061722/</item>
+<item>http://www.imdb.com/title/tt0063350/</item>
+<item>http://www.imdb.com/title/tt0063442/</item>
+<item>http://www.imdb.com/title/tt0063522/</item>
+<item>http://www.imdb.com/title/tt0064115/</item>
+<item>http://www.imdb.com/title/tt0064665/</item>
+<item>http://www.imdb.com/title/tt0066206/</item>
+<item>http://www.imdb.com/title/tt0066999/</item>
+<item>http://www.imdb.com/title/tt0067116/</item>
+<item>http://www.imdb.com/title/tt0067992/</item>
+<item>http://www.imdb.com/title/tt0068473/</item>
+<item>http://www.imdb.com/title/tt0070047/</item>
+<item>http://www.imdb.com/title/tt0070511/</item>
+<item>http://www.imdb.com/title/tt0071230/</item>
+<item>http://www.imdb.com/title/tt0071360/</item>
+<item>http://www.imdb.com/title/tt0072431/</item>
+<item>http://www.imdb.com/title/tt0052618/</item>
+<item>http://www.imdb.com/title/tt0054331/</item>
+<item>http://www.imdb.com/title/tt0054698/</item>
+<item>http://www.imdb.com/title/tt0056869/</item>
+<item>http://www.imdb.com/title/tt0058150/</item>
+<item>http://www.imdb.com/title/tt0058331/</item>
+<item>http://www.imdb.com/title/tt0058461/</item>
+<item>http://www.imdb.com/title/tt0040746/</item>
+<item>http://www.imdb.com/title/tt0044079/</item>
+<item>http://www.imdb.com/title/tt0044081/</item>
+<item>http://www.imdb.com/title/tt0044706/</item>
+<item>http://www.imdb.com/title/tt0046250/</item>
+<item>http://www.imdb.com/title/tt0046912/</item>
+<item>http://www.imdb.com/title/tt0031381/</item>
+<item>http://www.imdb.com/title/tt0032138/</item>
+<item>http://www.imdb.com/title/tt0033870/</item>
+<item>http://www.imdb.com/title/tt0121766/</item>
+<item>http://www.imdb.com/title/tt0200465/</item>
+<item>http://www.imdb.com/title/tt0292963/</item>
+<item>http://www.imdb.com/title/tt0312004/</item>
+<item>http://www.imdb.com/title/tt0327597/</item>
+<item>http://www.imdb.com/title/tt0330373/</item>
+<item>http://www.imdb.com/title/tt0337978/</item>
+<item>http://www.imdb.com/title/tt0359950/</item>
+<item>http://www.imdb.com/title/tt0360717/</item>
+<item>http://www.imdb.com/title/tt0373469/</item>
+<item>http://www.imdb.com/title/tt0373889/</item>
+<item>http://www.imdb.com/title/tt0379725/</item>
+<item>http://www.imdb.com/title/tt0383574/</item>
+<item>http://www.imdb.com/title/tt0385002/</item>
+<item>http://www.imdb.com/title/tt0387131/</item>
+<item>http://www.imdb.com/title/tt0393109/</item>
+<item>http://www.imdb.com/title/tt0396171/</item>
+<item>http://www.imdb.com/title/tt0397535/</item>
+<item>http://www.imdb.com/title/tt0399146/</item>
+<item>http://www.imdb.com/title/tt0399295/</item>
+<item>http://www.imdb.com/title/tt0404203/</item>
+<item>http://www.imdb.com/title/tt0404390/</item>
+<item>http://www.imdb.com/title/tt0408306/</item>
+<item>http://www.imdb.com/title/tt0409459/</item>
+<item>http://www.imdb.com/title/tt0414993/</item>
+<item>http://www.imdb.com/title/tt0416320/</item>
+<item>http://www.imdb.com/title/tt0417741/</item>
+<item>http://www.imdb.com/title/tt0420223/</item>
+<item>http://www.imdb.com/title/tt0424345/</item>
+<item>http://www.imdb.com/title/tt0427944/</item>
+<item>http://www.imdb.com/title/tt0433383/</item>
+<item>http://www.imdb.com/title/tt0436697/</item>
+<item>http://www.imdb.com/title/tt0441909/</item>
+<item>http://www.imdb.com/title/tt0443272/</item>
+<item>http://www.imdb.com/title/tt0443543/</item>
+<item>http://www.imdb.com/title/tt0443706/</item>
+<item>http://www.imdb.com/title/tt0446029/</item>
+<item>http://www.imdb.com/title/tt0446755/</item>
+<item>http://www.imdb.com/title/tt0448134/</item>
+<item>http://www.imdb.com/title/tt0449467/</item>
+<item>http://www.imdb.com/title/tt0452623/</item>
+<item>http://www.imdb.com/title/tt0454848/</item>
+<item>http://www.imdb.com/title/tt0462504/</item>
+<item>http://www.imdb.com/title/tt0462538/</item>
+<item>http://www.imdb.com/title/tt0464141/</item>
+<item>http://www.imdb.com/title/tt0465538/</item>
+<item>http://www.imdb.com/title/tt0467406/</item>
+<item>http://www.imdb.com/title/tt0480025/</item>
+<item>http://www.imdb.com/title/tt0481499/</item>
+<item>http://www.imdb.com/title/tt0765443/</item>
+<item>http://www.imdb.com/title/tt0770828/</item>
+<item>http://www.imdb.com/title/tt0780571/</item>
+<item>http://www.imdb.com/title/tt0795368/</item>
+<item>http://www.imdb.com/title/tt0805564/</item>
+<item>http://www.imdb.com/title/tt0814314/</item>
+<item>http://www.imdb.com/title/tt0825232/</item>
+<item>http://www.imdb.com/title/tt0829482/</item>
+<item>http://www.imdb.com/title/tt0840361/</item>
+<item>http://www.imdb.com/title/tt0878804/</item>
+<item>http://www.imdb.com/title/tt0887912/</item>
+<item>http://www.imdb.com/title/tt0898367/</item>
+<item>http://www.imdb.com/title/tt0918927/</item>
+<item>http://www.imdb.com/title/tt0926084/</item>
+<item>http://www.imdb.com/title/tt0929632/</item>
+<item>http://www.imdb.com/title/tt0945513/</item>
+<item>http://www.imdb.com/title/tt0959337/</item>
+<item>http://www.imdb.com/title/tt0970179/</item>
+<item>http://www.imdb.com/title/tt0976051/</item>
+<item>http://www.imdb.com/title/tt0983193/</item>
+<item>http://www.imdb.com/title/tt0988045/</item>
+<item>http://www.imdb.com/title/tt1013753/</item>
+<item>http://www.imdb.com/title/tt1023114/</item>
+<item>http://www.imdb.com/title/tt1032755/</item>
+<item>http://www.imdb.com/title/tt1033575/</item>
+<item>http://www.imdb.com/title/tt1038988/</item>
+<item>http://www.imdb.com/title/tt1057500/</item>
+<item>http://www.imdb.com/title/tt1120985/</item>
+<item>http://www.imdb.com/title/tt1139328/</item>
+<item>http://www.imdb.com/title/tt1174732/</item>
+<item>http://www.imdb.com/title/tt1189073/</item>
+<item>http://www.imdb.com/title/tt1189340/</item>
+<item>http://www.imdb.com/title/tt1192628/</item>
+<item>http://www.imdb.com/title/tt1193138/</item>
+<item>http://www.imdb.com/title/tt1197624/</item>
+<item>http://www.imdb.com/title/tt1210166/</item>
+<item>http://www.imdb.com/title/tt1212450/</item>
+<item>http://www.imdb.com/title/tt1219289/</item>
+<item>http://www.imdb.com/title/tt1229238/</item>
+<item>http://www.imdb.com/title/tt1242460/</item>
+<item>http://www.imdb.com/title/tt1289406/</item>
+<item>http://www.imdb.com/title/tt1300854/</item>
+<item>http://www.imdb.com/title/tt1318514/</item>
+<item>http://www.imdb.com/title/tt1403865/</item>
+<item>http://www.imdb.com/title/tt1446192/</item>
+<item>http://www.imdb.com/title/tt1453405/</item>
+<item>http://www.imdb.com/title/tt1457767/</item>
+<item>http://www.imdb.com/title/tt1458175/</item>
+<item>http://www.imdb.com/title/tt1542344/</item>
+<item>http://www.imdb.com/title/tt1570728/</item>
+<item>http://www.imdb.com/title/tt1596343/</item>
+<item>http://www.imdb.com/title/tt1605783/</item>
+<item>http://www.imdb.com/title/tt1649419/</item>
+<item>http://www.imdb.com/title/tt1670345/</item>
+<item>http://www.imdb.com/title/tt1723811/</item>
+<item>http://www.imdb.com/title/tt1727388/</item>
+<item>http://www.imdb.com/title/tt1790885/</item>
+<item>http://www.imdb.com/title/tt1800241/</item>
+<item>http://www.imdb.com/title/tt1817273/</item>
+<item>http://www.imdb.com/title/tt1855199/</item>
+<item>http://www.imdb.com/title/tt1899353/</item>
+<item>http://www.imdb.com/title/tt1907668/</item>
+<item>http://www.imdb.com/title/tt1935179/</item>
+<item>http://www.imdb.com/title/tt1981115/</item>
+<item>http://www.imdb.com/title/tt1981677/</item>
+<item>http://www.imdb.com/title/tt2265171/</item>
+<item>http://www.imdb.com/title/tt2334873/</item>
+<item>http://www.imdb.com/title/tt3322420/</item>
+<item>http://www.imdb.com/title/tt0112384/</item>
+<item>http://www.imdb.com/title/tt0112461/</item>
+<item>http://www.imdb.com/title/tt0112864/</item>
+<item>http://www.imdb.com/title/tt0113627/</item>
+<item>http://www.imdb.com/title/tt0114388/</item>
+<item>http://www.imdb.com/title/tt0116209/</item>
+<item>http://www.imdb.com/title/tt0116695/</item>
+<item>http://www.imdb.com/title/tt0116922/</item>
+<item>http://www.imdb.com/title/tt0117318/</item>
+<item>http://www.imdb.com/title/tt0117381/</item>
+<item>http://www.imdb.com/title/tt0117500/</item>
+<item>http://www.imdb.com/title/tt0117665/</item>
+<item>http://www.imdb.com/title/tt0117731/</item>
+<item>http://www.imdb.com/title/tt0117913/</item>
+<item>http://www.imdb.com/title/tt0118842/</item>
+<item>http://www.imdb.com/title/tt0118884/</item>
+<item>http://www.imdb.com/title/tt0118971/</item>
+<item>http://www.imdb.com/title/tt0119094/</item>
+<item>http://www.imdb.com/title/tt0119116/</item>
+<item>http://www.imdb.com/title/tt0119229/</item>
+<item>http://www.imdb.com/title/tt0119396/</item>
+<item>http://www.imdb.com/title/tt0120655/</item>
+<item>http://www.imdb.com/title/tt0120663/</item>
+<item>http://www.imdb.com/title/tt0120762/</item>
+<item>http://www.imdb.com/title/tt0120768/</item>
+<item>http://www.imdb.com/title/tt0120789/</item>
+<item>http://www.imdb.com/title/tt0120863/</item>
+<item>http://www.imdb.com/title/tt0120903/</item>
+<item>http://www.imdb.com/title/tt0120917/</item>
+<item>http://www.imdb.com/title/tt0122690/</item>
+<item>http://www.imdb.com/title/tt0123755/</item>
+<item>http://www.imdb.com/title/tt0124315/</item>
+<item>http://www.imdb.com/title/tt0126886/</item>
+<item>http://www.imdb.com/title/tt0127536/</item>
+<item>http://www.imdb.com/title/tt0128442/</item>
+<item>http://www.imdb.com/title/tt0138704/</item>
+<item>http://www.imdb.com/title/tt0139654/</item>
+<item>http://www.imdb.com/title/tt0144084/</item>
+<item>http://www.imdb.com/title/tt0145487/</item>
+<item>http://www.imdb.com/title/tt0159097/</item>
+<item>http://www.imdb.com/title/tt0162222/</item>
+<item>http://www.imdb.com/title/tt0162346/</item>
+<item>http://www.imdb.com/title/tt0162661/</item>
+<item>http://www.imdb.com/title/tt0171804/</item>
+<item>http://www.imdb.com/title/tt0172493/</item>
+<item>http://www.imdb.com/title/tt0174856/</item>
+<item>http://www.imdb.com/title/tt0177789/</item>
+<item>http://www.imdb.com/title/tt0181689/</item>
+<item>http://www.imdb.com/title/tt0181865/</item>
+<item>http://www.imdb.com/title/tt0186151/</item>
+<item>http://www.imdb.com/title/tt0195685/</item>
+<item>http://www.imdb.com/title/tt0210945/</item>
+<item>http://www.imdb.com/title/tt0215750/</item>
+<item>http://www.imdb.com/title/tt0217505/</item>
+<item>http://www.imdb.com/title/tt0221027/</item>
+<item>http://www.imdb.com/title/tt0230600/</item>
+<item>http://www.imdb.com/title/tt0241303/</item>
+<item>http://www.imdb.com/title/tt0241527/</item>
+<item>http://www.imdb.com/title/tt0243133/</item>
+<item>http://www.imdb.com/title/tt0245574/</item>
+<item>http://www.imdb.com/title/tt0245844/</item>
+<item>http://www.imdb.com/title/tt0265086/</item>
+<item>http://www.imdb.com/title/tt0265666/</item>
+<item>http://www.imdb.com/title/tt0268380/</item>
+<item>http://www.imdb.com/title/tt0272152/</item>
+<item>http://www.imdb.com/title/tt0272338/</item>
+<item>http://www.imdb.com/title/tt0277027/</item>
+<item>http://www.imdb.com/title/tt0281358/</item>
+<item>http://www.imdb.com/title/tt0289043/</item>
+<item>http://www.imdb.com/title/tt0289879/</item>
+<item>http://www.imdb.com/title/tt0289992/</item>
+<item>http://www.imdb.com/title/tt0290334/</item>
+<item>http://www.imdb.com/title/tt0290673/</item>
+<item>http://www.imdb.com/title/tt0293508/</item>
+<item>http://www.imdb.com/title/tt0295297/</item>
+<item>http://www.imdb.com/title/tt0298148/</item>
+<item>http://www.imdb.com/title/tt0307901/</item>
+<item>http://www.imdb.com/title/tt0309698/</item>
+<item>http://www.imdb.com/title/tt0311113/</item>
+<item>http://www.imdb.com/title/tt0314331/</item>
+<item>http://www.imdb.com/title/tt0316654/</item>
+<item>http://www.imdb.com/title/tt0325710/</item>
+<item>http://www.imdb.com/title/tt0325805/</item>
+<item>http://www.imdb.com/title/tt0333766/</item>
+<item>http://www.imdb.com/title/tt0338751/</item>
+<item>http://www.imdb.com/title/tt0340855/</item>
+<item>http://www.imdb.com/title/tt0362227/</item>
+<item>http://www.imdb.com/title/tt0362270/</item>
+<item>http://www.imdb.com/title/tt0369339/</item>
+<item>http://www.imdb.com/title/tt0375063/</item>
+<item>http://www.imdb.com/title/tt0375912/</item>
+<item>http://www.imdb.com/title/tt0376541/</item>
+<item>http://www.imdb.com/title/tt0385004/</item>
+<item>http://www.imdb.com/title/tt0090728/</item>
+<item>http://www.imdb.com/title/tt0091064/</item>
+<item>http://www.imdb.com/title/tt0091369/</item>
+<item>http://www.imdb.com/title/tt0093409/</item>
+<item>http://www.imdb.com/title/tt0093822/</item>
+<item>http://www.imdb.com/title/tt0093870/</item>
+<item>http://www.imdb.com/title/tt0094291/</item>
+<item>http://www.imdb.com/title/tt0094737/</item>
+<item>http://www.imdb.com/title/tt0095159/</item>
+<item>http://www.imdb.com/title/tt0096754/</item>
+<item>http://www.imdb.com/title/tt0096895/</item>
+<item>http://www.imdb.com/title/tt0097351/</item>
+<item>http://www.imdb.com/title/tt0097757/</item>
+<item>http://www.imdb.com/title/tt0097958/</item>
+<item>http://www.imdb.com/title/tt0098635/</item>
+<item>http://www.imdb.com/title/tt0099077/</item>
+<item>http://www.imdb.com/title/tt0099088/</item>
+<item>http://www.imdb.com/title/tt0099674/</item>
+<item>http://www.imdb.com/title/tt0099785/</item>
+<item>http://www.imdb.com/title/tt0099810/</item>
+<item>http://www.imdb.com/title/tt0099871/</item>
+<item>http://www.imdb.com/title/tt0100802/</item>
+<item>http://www.imdb.com/title/tt0101540/</item>
+<item>http://www.imdb.com/title/tt0103873/</item>
+<item>http://www.imdb.com/title/tt0103874/</item>
+<item>http://www.imdb.com/title/tt0104257/</item>
+<item>http://www.imdb.com/title/tt0104952/</item>
+<item>http://www.imdb.com/title/tt0106677/</item>
+<item>http://www.imdb.com/title/tt0106856/</item>
+<item>http://www.imdb.com/title/tt0107818/</item>
+<item>http://www.imdb.com/title/tt0109506/</item>
+<item>http://www.imdb.com/title/tt0109686/</item>
+<item>http://www.imdb.com/title/tt0110148/</item>
+<item>http://www.imdb.com/title/tt0110632/</item>
+<item>http://www.imdb.com/title/tt0073629/</item>
+<item>http://www.imdb.com/title/tt0074285/</item>
+<item>http://www.imdb.com/title/tt0075005/</item>
+<item>http://www.imdb.com/title/tt0075860/</item>
+<item>http://www.imdb.com/title/tt0078346/</item>
+<item>http://www.imdb.com/title/tt0079116/</item>
+<item>http://www.imdb.com/title/tt0082694/</item>
+<item>http://www.imdb.com/title/tt0083907/</item>
+<item>http://www.imdb.com/title/tt0083944/</item>
+<item>http://www.imdb.com/title/tt0084516/</item>
+<item>http://www.imdb.com/title/tt0084805/</item>
+<item>http://www.imdb.com/title/tt0085959/</item>
+<item>http://www.imdb.com/title/tt0086465/</item>
+<item>http://www.imdb.com/title/tt0087469/</item>
+<item>http://www.imdb.com/title/tt0088323/</item>
+<item>http://www.imdb.com/title/tt0061852/</item>
+<item>http://www.imdb.com/title/tt0064276/</item>
+<item>http://www.imdb.com/title/tt0070034/</item>
+<item>http://www.imdb.com/title/tt0072271/</item>
+<item>http://www.imdb.com/title/tt0053285/</item>
+<item>http://www.imdb.com/title/tt0055928/</item>
+<item>http://www.imdb.com/title/tt0057076/</item>
+<item>http://www.imdb.com/title/tt0042332/</item>
+<item>http://www.imdb.com/title/tt0043274/</item>
+<item>http://www.imdb.com/title/tt0029583/</item>
+<item>http://www.imdb.com/title/tt0034492/</item>
+<item>http://www.imdb.com/title/tt0405508/</item>
+<item>http://www.imdb.com/title/tt0986264/</item>
+<item>http://www.imdb.com/title/tt1166827/</item>
+<item>http://www.imdb.com/title/tt1313104/</item>
+<item>http://www.imdb.com/title/tt1424432/</item>
+<item>http://www.imdb.com/title/tt1490017/</item>
+<item>http://www.imdb.com/title/tt1639426/</item>
+<item>http://www.imdb.com/title/tt1645089/</item>
+<item>http://www.imdb.com/title/tt2082197/</item>
+<item>http://www.imdb.com/title/tt2278388/</item>
+<item>http://www.imdb.com/title/tt0118849/</item>
+<item>http://www.imdb.com/title/tt0169102/</item>
+<item>http://www.imdb.com/title/tt0242519/</item>
+<item>http://www.imdb.com/title/tt0292490/</item>
+<item>http://www.imdb.com/title/tt0314067/</item>
+<item>http://www.imdb.com/title/tt0367110/</item>
+<item>http://www.imdb.com/title/tt0089881/</item>
+<item>http://www.imdb.com/title/tt0095467/</item>
+<item>http://www.imdb.com/title/tt0097223/</item>
+<item>http://www.imdb.com/title/tt0104561/</item>
+<item>http://www.imdb.com/title/tt0109117/</item>
+<item>http://www.imdb.com/title/tt0317919/</item>
+<item>http://www.imdb.com/title/tt0320661/</item>
+<item>http://www.imdb.com/title/tt0327084/</item>
+<item>http://www.imdb.com/title/tt0342258/</item>
+<item>http://www.imdb.com/title/tt0351283/</item>
+<item>http://www.imdb.com/title/tt0360486/</item>
+<item>http://www.imdb.com/title/tt0363771/</item>
+<item>http://www.imdb.com/title/tt0365737/</item>
+<item>http://www.imdb.com/title/tt0366627/</item>
+<item>http://www.imdb.com/title/tt0367594/</item>
+<item>http://www.imdb.com/title/tt0376994/</item>
+<item>http://www.imdb.com/title/tt0386117/</item>
+<item>http://www.imdb.com/title/tt0393162/</item>
+<item>http://www.imdb.com/title/tt0397892/</item>
+<item>http://www.imdb.com/title/tt0398808/</item>
+<item>http://www.imdb.com/title/tt0399201/</item>
+<item>http://www.imdb.com/title/tt0405296/</item>
+<item>http://www.imdb.com/title/tt0406816/</item>
+<item>http://www.imdb.com/title/tt0410297/</item>
+<item>http://www.imdb.com/title/tt0411477/</item>
+<item>http://www.imdb.com/title/tt0412019/</item>
+<item>http://www.imdb.com/title/tt0418279/</item>
+<item>http://www.imdb.com/title/tt0418689/</item>
+<item>http://www.imdb.com/title/tt0418763/</item>
+<item>http://www.imdb.com/title/tt0421073/</item>
+<item>http://www.imdb.com/title/tt0424136/</item>
+<item>http://www.imdb.com/title/tt0425123/</item>
+<item>http://www.imdb.com/title/tt0426883/</item>
+<item>http://www.imdb.com/title/tt0427327/</item>
+<item>http://www.imdb.com/title/tt0429493/</item>
+<item>http://www.imdb.com/title/tt0430105/</item>
+<item>http://www.imdb.com/title/tt0430922/</item>
+<item>http://www.imdb.com/title/tt0431308/</item>
+<item>http://www.imdb.com/title/tt0438097/</item>
+<item>http://www.imdb.com/title/tt0449088/</item>
+<item>http://www.imdb.com/title/tt0450385/</item>
+<item>http://www.imdb.com/title/tt0451079/</item>
+<item>http://www.imdb.com/title/tt0452694/</item>
+<item>http://www.imdb.com/title/tt0453467/</item>
+<item>http://www.imdb.com/title/tt0457939/</item>
+<item>http://www.imdb.com/title/tt0458339/</item>
+<item>http://www.imdb.com/title/tt0458352/</item>
+<item>http://www.imdb.com/title/tt0461770/</item>
+<item>http://www.imdb.com/title/tt0463854/</item>
+<item>http://www.imdb.com/title/tt0472033/</item>
+<item>http://www.imdb.com/title/tt0473705/</item>
+<item>http://www.imdb.com/title/tt0477302/</item>
+<item>http://www.imdb.com/title/tt0478087/</item>
+<item>http://www.imdb.com/title/tt0478311/</item>
+<item>http://www.imdb.com/title/tt0479143/</item>
+<item>http://www.imdb.com/title/tt0479884/</item>
+<item>http://www.imdb.com/title/tt0479952/</item>
+<item>http://www.imdb.com/title/tt0480242/</item>
+<item>http://www.imdb.com/title/tt0480249/</item>
+<item>http://www.imdb.com/title/tt0486822/</item>
+<item>http://www.imdb.com/title/tt0488120/</item>
+<item>http://www.imdb.com/title/tt0496806/</item>
+<item>http://www.imdb.com/title/tt0497465/</item>
+<item>http://www.imdb.com/title/tt0498399/</item>
+<item>http://www.imdb.com/title/tt0758774/</item>
+<item>http://www.imdb.com/title/tt0765010/</item>
+<item>http://www.imdb.com/title/tt0780521/</item>
+<item>http://www.imdb.com/title/tt0790724/</item>
+<item>http://www.imdb.com/title/tt0800080/</item>
+<item>http://www.imdb.com/title/tt0800369/</item>
+<item>http://www.imdb.com/title/tt0804497/</item>
+<item>http://www.imdb.com/title/tt0816711/</item>
+<item>http://www.imdb.com/title/tt0822832/</item>
+<item>http://www.imdb.com/title/tt0822854/</item>
+<item>http://www.imdb.com/title/tt0832266/</item>
+<item>http://www.imdb.com/title/tt0838221/</item>
+<item>http://www.imdb.com/title/tt0838283/</item>
+<item>http://www.imdb.com/title/tt0842926/</item>
+<item>http://www.imdb.com/title/tt0884328/</item>
+<item>http://www.imdb.com/title/tt0887883/</item>
+<item>http://www.imdb.com/title/tt0914863/</item>
+<item>http://www.imdb.com/title/tt0942385/</item>
+<item>http://www.imdb.com/title/tt0947810/</item>
+<item>http://www.imdb.com/title/tt0948470/</item>
+<item>http://www.imdb.com/title/tt0985699/</item>
+<item>http://www.imdb.com/title/tt0993842/</item>
+<item>http://www.imdb.com/title/tt1028528/</item>
+<item>http://www.imdb.com/title/tt1034303/</item>
+<item>http://www.imdb.com/title/tt1037705/</item>
+<item>http://www.imdb.com/title/tt1054606/</item>
+<item>http://www.imdb.com/title/tt1060277/</item>
+<item>http://www.imdb.com/title/tt1080016/</item>
+<item>http://www.imdb.com/title/tt1091722/</item>
+<item>http://www.imdb.com/title/tt1092026/</item>
+<item>http://www.imdb.com/title/tt1104001/</item>
+<item>http://www.imdb.com/title/tt1124035/</item>
+<item>http://www.imdb.com/title/tt1135503/</item>
+<item>http://www.imdb.com/title/tt1148204/</item>
+<item>http://www.imdb.com/title/tt1152836/</item>
+<item>http://www.imdb.com/title/tt1188729/</item>
+<item>http://www.imdb.com/title/tt1204342/</item>
+<item>http://www.imdb.com/title/tt1211956/</item>
+<item>http://www.imdb.com/title/tt1228705/</item>
+<item>http://www.imdb.com/title/tt1228987/</item>
+<item>http://www.imdb.com/title/tt1232829/</item>
+<item>http://www.imdb.com/title/tt1245492/</item>
+<item>http://www.imdb.com/title/tt1259521/</item>
+<item>http://www.imdb.com/title/tt1272878/</item>
+<item>http://www.imdb.com/title/tt1277953/</item>
+<item>http://www.imdb.com/title/tt1321870/</item>
+<item>http://www.imdb.com/title/tt1334260/</item>
+<item>http://www.imdb.com/title/tt1340800/</item>
+<item>http://www.imdb.com/title/tt1385826/</item>
+<item>http://www.imdb.com/title/tt1389137/</item>
+<item>http://www.imdb.com/title/tt1399683/</item>
+<item>http://www.imdb.com/title/tt1401152/</item>
+<item>http://www.imdb.com/title/tt1403981/</item>
+<item>http://www.imdb.com/title/tt1409024/</item>
+<item>http://www.imdb.com/title/tt1430132/</item>
+<item>http://www.imdb.com/title/tt1436562/</item>
+<item>http://www.imdb.com/title/tt1462758/</item>
+<item>http://www.imdb.com/title/tt1483013/</item>
+<item>http://www.imdb.com/title/tt1499658/</item>
+<item>http://www.imdb.com/title/tt1527186/</item>
+<item>http://www.imdb.com/title/tt1567609/</item>
+<item>http://www.imdb.com/title/tt1601913/</item>
+<item>http://www.imdb.com/title/tt1606389/</item>
+<item>http://www.imdb.com/title/tt1615147/</item>
+<item>http://www.imdb.com/title/tt1637725/</item>
+<item>http://www.imdb.com/title/tt1663662/</item>
+<item>http://www.imdb.com/title/tt1723121/</item>
+<item>http://www.imdb.com/title/tt1764651/</item>
+<item>http://www.imdb.com/title/tt1862079/</item>
+<item>http://www.imdb.com/title/tt1905041/</item>
+<item>http://www.imdb.com/title/tt1931533/</item>
+<item>http://www.imdb.com/title/tt2053463/</item>
+<item>http://www.imdb.com/title/tt2229499/</item>
+<item>http://www.imdb.com/title/tt0074896/</item>
+<item>http://www.imdb.com/title/tt0085809/</item>
+<item>http://www.imdb.com/title/tt0112431/</item>
+<item>http://www.imdb.com/title/tt0112851/</item>
+<item>http://www.imdb.com/title/tt0113189/</item>
+<item>http://www.imdb.com/title/tt0116583/</item>
+<item>http://www.imdb.com/title/tt0116629/</item>
+<item>http://www.imdb.com/title/tt0117008/</item>
+<item>http://www.imdb.com/title/tt0117060/</item>
+<item>http://www.imdb.com/title/tt0117509/</item>
+<item>http://www.imdb.com/title/tt0118617/</item>
+<item>http://www.imdb.com/title/tt0118655/</item>
+<item>http://www.imdb.com/title/tt0118880/</item>
+<item>http://www.imdb.com/title/tt0119164/</item>
+<item>http://www.imdb.com/title/tt0119282/</item>
+<item>http://www.imdb.com/title/tt0119643/</item>
+<item>http://www.imdb.com/title/tt0119654/</item>
+<item>http://www.imdb.com/title/tt0120102/</item>
+<item>http://www.imdb.com/title/tt0120188/</item>
+<item>http://www.imdb.com/title/tt0120201/</item>
+<item>http://www.imdb.com/title/tt0120616/</item>
+<item>http://www.imdb.com/title/tt0120623/</item>
+<item>http://www.imdb.com/title/tt0120681/</item>
+<item>http://www.imdb.com/title/tt0120780/</item>
+<item>http://www.imdb.com/title/tt0120784/</item>
+<item>http://www.imdb.com/title/tt0120794/</item>
+<item>http://www.imdb.com/title/tt0120812/</item>
+<item>http://www.imdb.com/title/tt0120855/</item>
+<item>http://www.imdb.com/title/tt0120888/</item>
+<item>http://www.imdb.com/title/tt0120889/</item>
+<item>http://www.imdb.com/title/tt0120902/</item>
+<item>http://www.imdb.com/title/tt0120907/</item>
+<item>http://www.imdb.com/title/tt0121765/</item>
+<item>http://www.imdb.com/title/tt0125439/</item>
+<item>http://www.imdb.com/title/tt0134847/</item>
+<item>http://www.imdb.com/title/tt0137363/</item>
+<item>http://www.imdb.com/title/tt0138097/</item>
+<item>http://www.imdb.com/title/tt0139134/</item>
+<item>http://www.imdb.com/title/tt0146838/</item>
+<item>http://www.imdb.com/title/tt0155267/</item>
+<item>http://www.imdb.com/title/tt0159365/</item>
+<item>http://www.imdb.com/title/tt0163651/</item>
+<item>http://www.imdb.com/title/tt0167190/</item>
+<item>http://www.imdb.com/title/tt0183649/</item>
+<item>http://www.imdb.com/title/tt0187393/</item>
+<item>http://www.imdb.com/title/tt0195714/</item>
+<item>http://www.imdb.com/title/tt0203019/</item>
+<item>http://www.imdb.com/title/tt0212720/</item>
+<item>http://www.imdb.com/title/tt0217869/</item>
+<item>http://www.imdb.com/title/tt0223897/</item>
+<item>http://www.imdb.com/title/tt0227445/</item>
+<item>http://www.imdb.com/title/tt0234215/</item>
+<item>http://www.imdb.com/title/tt0240890/</item>
+<item>http://www.imdb.com/title/tt0247745/</item>
+<item>http://www.imdb.com/title/tt0251160/</item>
+<item>http://www.imdb.com/title/tt0257360/</item>
+<item>http://www.imdb.com/title/tt0258000/</item>
+<item>http://www.imdb.com/title/tt0259711/</item>
+<item>http://www.imdb.com/title/tt0261392/</item>
+<item>http://www.imdb.com/title/tt0265208/</item>
+<item>http://www.imdb.com/title/tt0265459/</item>
+<item>http://www.imdb.com/title/tt0266987/</item>
+<item>http://www.imdb.com/title/tt0275847/</item>
+<item>http://www.imdb.com/title/tt0276751/</item>
+<item>http://www.imdb.com/title/tt0278504/</item>
+<item>http://www.imdb.com/title/tt0289765/</item>
+<item>http://www.imdb.com/title/tt0293662/</item>
+<item>http://www.imdb.com/title/tt0298130/</item>
+<item>http://www.imdb.com/title/tt0299658/</item>
+<item>http://www.imdb.com/title/tt0302886/</item>
+<item>http://www.imdb.com/title/tt0307987/</item>
+<item>http://www.imdb.com/title/tt0313542/</item>
+<item>http://www.imdb.com/title/tt0317740/</item>
+<item>http://www.imdb.com/title/tt0319343/</item>
+<item>http://www.imdb.com/title/tt0320691/</item>
+<item>http://www.imdb.com/title/tt0332379/</item>
+<item>http://www.imdb.com/title/tt0332452/</item>
+<item>http://www.imdb.com/title/tt0335345/</item>
+<item>http://www.imdb.com/title/tt0339291/</item>
+<item>http://www.imdb.com/title/tt0343818/</item>
+<item>http://www.imdb.com/title/tt0363589/</item>
+<item>http://www.imdb.com/title/tt0366551/</item>
+<item>http://www.imdb.com/title/tt0368891/</item>
+<item>http://www.imdb.com/title/tt0372588/</item>
+<item>http://www.imdb.com/title/tt0374900/</item>
+<item>http://www.imdb.com/title/tt0377092/</item>
+<item>http://www.imdb.com/title/tt0060107/</item>
+<item>http://www.imdb.com/title/tt0091203/</item>
+<item>http://www.imdb.com/title/tt0092099/</item>
+<item>http://www.imdb.com/title/tt0092890/</item>
+<item>http://www.imdb.com/title/tt0093105/</item>
+<item>http://www.imdb.com/title/tt0093177/</item>
+<item>http://www.imdb.com/title/tt0094012/</item>
+<item>http://www.imdb.com/title/tt0096446/</item>
+<item>http://www.imdb.com/title/tt0096928/</item>
+<item>http://www.imdb.com/title/tt0096969/</item>
+<item>http://www.imdb.com/title/tt0097733/</item>
+<item>http://www.imdb.com/title/tt0099423/</item>
+<item>http://www.imdb.com/title/tt0099653/</item>
+<item>http://www.imdb.com/title/tt0100405/</item>
+<item>http://www.imdb.com/title/tt0101272/</item>
+<item>http://www.imdb.com/title/tt0102266/</item>
+<item>http://www.imdb.com/title/tt0102685/</item>
+<item>http://www.imdb.com/title/tt0102798/</item>
+<item>http://www.imdb.com/title/tt0103772/</item>
+<item>http://www.imdb.com/title/tt0103776/</item>
+<item>http://www.imdb.com/title/tt0105112/</item>
+<item>http://www.imdb.com/title/tt0105793/</item>
+<item>http://www.imdb.com/title/tt0106918/</item>
+<item>http://www.imdb.com/title/tt0107206/</item>
+<item>http://www.imdb.com/title/tt0107614/</item>
+<item>http://www.imdb.com/title/tt0108160/</item>
+<item>http://www.imdb.com/title/tt0109040/</item>
+<item>http://www.imdb.com/title/tt0109831/</item>
+<item>http://www.imdb.com/title/tt0110475/</item>
+<item>http://www.imdb.com/title/tt0111257/</item>
+<item>http://www.imdb.com/title/tt0111282/</item>
+<item>http://www.imdb.com/title/tt0111503/</item>
+<item>http://www.imdb.com/title/tt0046911/</item>
+<item>http://www.imdb.com/title/tt0050783/</item>
+<item>http://www.imdb.com/title/tt0050986/</item>
+<item>http://www.imdb.com/title/tt0051201/</item>
+<item>http://www.imdb.com/title/tt0054248/</item>
+<item>http://www.imdb.com/title/tt0055031/</item>
+<item>http://www.imdb.com/title/tt0055630/</item>
+<item>http://www.imdb.com/title/tt0056058/</item>
+<item>http://www.imdb.com/title/tt0056119/</item>
+<item>http://www.imdb.com/title/tt0057565/</item>
+<item>http://www.imdb.com/title/tt0058625/</item>
+<item>http://www.imdb.com/title/tt0077631/</item>
+<item>http://www.imdb.com/title/tt0079501/</item>
+<item>http://www.imdb.com/title/tt0079817/</item>
+<item>http://www.imdb.com/title/tt0082198/</item>
+<item>http://www.imdb.com/title/tt0082340/</item>
+<item>http://www.imdb.com/title/tt0084827/</item>
+<item>http://www.imdb.com/title/tt0087538/</item>
+<item>http://www.imdb.com/title/tt0036868/</item>
+<item>http://www.imdb.com/title/tt0037674/</item>
+<item>http://www.imdb.com/title/tt0040897/</item>
+<item>http://www.imdb.com/title/tt0044741/</item>
+<item>http://www.imdb.com/title/tt0046268/</item>
+<item>http://www.imdb.com/title/tt0046438/</item>
+<item>http://www.imdb.com/title/tt0059800/</item>
+<item>http://www.imdb.com/title/tt0031679/</item>
+<item>http://www.imdb.com/title/tt0035446/</item>
+<item>http://www.imdb.com/title/tt0055254/</item>
+<item>http://www.imdb.com/title/tt0015864/</item>
+<item>http://www.imdb.com/title/tt0017925/</item>
+<item>http://www.imdb.com/title/tt0018455/</item>
+<item>http://www.imdb.com/title/tt0025316/</item>
+<item>http://www.imdb.com/title/tt0012349/</item>
+<item>http://www.imdb.com/title/tt0014429/</item>
+<item>http://www.imdb.com/title/tt0240200/</item>
+<item>http://www.imdb.com/title/tt0375611/</item>
+<item>http://www.imdb.com/title/tt0389557/</item>
+<item>http://www.imdb.com/title/tt0412080/</item>
+<item>http://www.imdb.com/title/tt0418455/</item>
+<item>http://www.imdb.com/title/tt0421082/</item>
+<item>http://www.imdb.com/title/tt0436613/</item>
+<item>http://www.imdb.com/title/tt0456144/</item>
+<item>http://www.imdb.com/title/tt0456149/</item>
+<item>http://www.imdb.com/title/tt0457655/</item>
+<item>http://www.imdb.com/title/tt0808417/</item>
+<item>http://www.imdb.com/title/tt0880502/</item>
+<item>http://www.imdb.com/title/tt0923752/</item>
+<item>http://www.imdb.com/title/tt0923811/</item>
+<item>http://www.imdb.com/title/tt1032846/</item>
+<item>http://www.imdb.com/title/tt1051907/</item>
+<item>http://www.imdb.com/title/tt1132623/</item>
+<item>http://www.imdb.com/title/tt1149362/</item>
+<item>http://www.imdb.com/title/tt1185616/</item>
+<item>http://www.imdb.com/title/tt1188996/</item>
+<item>http://www.imdb.com/title/tt1190539/</item>
+<item>http://www.imdb.com/title/tt1216496/</item>
+<item>http://www.imdb.com/title/tt1255953/</item>
+<item>http://www.imdb.com/title/tt1286537/</item>
+<item>http://www.imdb.com/title/tt1327035/</item>
+<item>http://www.imdb.com/title/tt1360860/</item>
+<item>http://www.imdb.com/title/tt1527788/</item>
+<item>http://www.imdb.com/title/tt1555149/</item>
+<item>http://www.imdb.com/title/tt1562872/</item>
+<item>http://www.imdb.com/title/tt1569923/</item>
+<item>http://www.imdb.com/title/tt1588170/</item>
+<item>http://www.imdb.com/title/tt1602620/</item>
+<item>http://www.imdb.com/title/tt1772925/</item>
+<item>http://www.imdb.com/title/tt1821549/</item>
+<item>http://www.imdb.com/title/tt1942884/</item>
+<item>http://www.imdb.com/title/tt2125608/</item>
+<item>http://www.imdb.com/title/tt2181931/</item>
+<item>http://www.imdb.com/title/tt2209418/</item>
+<item>http://www.imdb.com/title/tt2213054/</item>
+<item>http://www.imdb.com/title/tt2283748/</item>
+<item>http://www.imdb.com/title/tt2370248/</item>
+<item>http://www.imdb.com/title/tt2375605/</item>
+<item>http://www.imdb.com/title/tt2377938/</item>
+<item>http://www.imdb.com/title/tt2404461/</item>
+<item>http://www.imdb.com/title/tt2545118/</item>
+<item>http://www.imdb.com/title/tt0112817/</item>
+<item>http://www.imdb.com/title/tt0113568/</item>
+<item>http://www.imdb.com/title/tt0113824/</item>
+<item>http://www.imdb.com/title/tt0114787/</item>
+<item>http://www.imdb.com/title/tt0115640/</item>
+<item>http://www.imdb.com/title/tt0115751/</item>
+</string-array>
+  <string-array name="year">
+<item>1994</item>
+<item>2008</item>
+<item>2010</item>
+<item>2001</item>
+<item>1999</item>
+<item>2003</item>
+<item>2002</item>
+<item>1990</item>
+<item>1993</item>
+<item>1994</item>
+<item>1994</item>
+<item>1975</item>
+<item>1980</item>
+<item>1972</item>
+<item>1974</item>
+<item>2009</item>
+<item>2005</item>
+<item>2006</item>
+<item>2006</item>
+<item>2008</item>
+<item>2012</item>
+<item>2012</item>
+<item>1995</item>
+<item>1995</item>
+<item>1995</item>
+<item>1998</item>
+<item>1999</item>
+<item>1998</item>
+<item>1999</item>
+<item>1999</item>
+<item>2000</item>
+<item>2000</item>
+<item>2004</item>
+<item>1985</item>
+<item>1991</item>
+<item>1991</item>
+<item>1992</item>
+<item>1994</item>
+<item>1977</item>
+<item>1981</item>
+<item>1983</item>
+<item>2008</item>
+<item>2005</item>
+<item>2006</item>
+<item>2005</item>
+<item>2009</item>
+<item>2012</item>
+<item>2008</item>
+<item>2010</item>
+<item>1998</item>
+<item>1999</item>
+<item>2003</item>
+<item>2003</item>
+<item>2003</item>
+<item>1966</item>
+<item>1957</item>
+<item>1954</item>
+<item>1997</item>
+<item>2006</item>
+<item>2010</item>
+<item>2006</item>
+<item>2013</item>
+<item>2009</item>
+<item>2009</item>
+<item>2011</item>
+<item>2009</item>
+<item>2011</item>
+<item>2013</item>
+<item>2011</item>
+<item>2013</item>
+<item>2013</item>
+<item>2012</item>
+<item>1995</item>
+<item>1995</item>
+<item>1997</item>
+<item>1997</item>
+<item>1997</item>
+<item>2000</item>
+<item>2000</item>
+<item>2001</item>
+<item>2001</item>
+<item>2002</item>
+<item>2002</item>
+<item>2004</item>
+<item>2003</item>
+<item>1986</item>
+<item>1987</item>
+<item>1988</item>
+<item>1988</item>
+<item>1988</item>
+<item>1988</item>
+<item>1989</item>
+<item>1992</item>
+<item>1994</item>
+<item>1975</item>
+<item>1976</item>
+<item>1979</item>
+<item>1979</item>
+<item>1980</item>
+<item>1980</item>
+<item>1980</item>
+<item>1981</item>
+<item>1982</item>
+<item>1983</item>
+<item>1984</item>
+<item>1984</item>
+<item>1965</item>
+<item>1968</item>
+<item>1968</item>
+<item>1971</item>
+<item>1973</item>
+<item>1974</item>
+<item>1957</item>
+<item>1957</item>
+<item>1957</item>
+<item>1958</item>
+<item>1959</item>
+<item>1959</item>
+<item>1960</item>
+<item>1960</item>
+<item>1962</item>
+<item>1962</item>
+<item>1964</item>
+<item>1963</item>
+<item>1946</item>
+<item>1948</item>
+<item>1949</item>
+<item>1950</item>
+<item>1950</item>
+<item>1950</item>
+<item>1952</item>
+<item>1954</item>
+<item>1954</item>
+<item>1936</item>
+<item>1940</item>
+<item>1940</item>
+<item>1941</item>
+<item>1942</item>
+<item>1944</item>
+<item>1927</item>
+<item>1931</item>
+<item>1931</item>
+<item>2006</item>
+<item>2005</item>
+<item>2005</item>
+<item>2006</item>
+<item>2007</item>
+<item>2007</item>
+<item>2005</item>
+<item>2008</item>
+<item>2007</item>
+<item>2006</item>
+<item>2009</item>
+<item>2007</item>
+<item>2006</item>
+<item>2006</item>
+<item>2012</item>
+<item>2006</item>
+<item>2006</item>
+<item>2006</item>
+<item>2007</item>
+<item>2006</item>
+<item>2007</item>
+<item>2009</item>
+<item>2007</item>
+<item>2006</item>
+<item>2007</item>
+<item>2007</item>
+<item>2007</item>
+<item>2011</item>
+<item>2008</item>
+<item>2007</item>
+<item>2013</item>
+<item>2009</item>
+<item>2008</item>
+<item>2007</item>
+<item>2008</item>
+<item>2010</item>
+<item>2012</item>
+<item>2006</item>
+<item>2008</item>
+<item>2008</item>
+<item>2010</item>
+<item>2010</item>
+<item>2009</item>
+<item>2009</item>
+<item>2012</item>
+<item>2009</item>
+<item>2012</item>
+<item>2012</item>
+<item>2013</item>
+<item>2009</item>
+<item>2008</item>
+<item>2009</item>
+<item>2009</item>
+<item>2008</item>
+<item>2013</item>
+<item>2009</item>
+<item>2011</item>
+<item>2008</item>
+<item>2008</item>
+<item>2009</item>
+<item>2010</item>
+<item>2011</item>
+<item>2010</item>
+<item>2011</item>
+<item>2013</item>
+<item>2013</item>
+<item>2011</item>
+<item>2013</item>
+<item>2010</item>
+<item>2013</item>
+<item>2011</item>
+<item>2012</item>
+<item>2012</item>
+<item>2013</item>
+<item>2013</item>
+<item>1995</item>
+<item>1995</item>
+<item>1995</item>
+<item>1995</item>
+<item>1996</item>
+<item>1996</item>
+<item>1998</item>
+<item>1997</item>
+<item>1998</item>
+<item>1997</item>
+<item>1997</item>
+<item>1997</item>
+<item>1997</item>
+<item>1997</item>
+<item>1999</item>
+<item>1999</item>
+<item>1998</item>
+<item>1998</item>
+<item>2001</item>
+<item>1998</item>
+<item>1999</item>
+<item>1998</item>
+<item>1999</item>
+<item>1999</item>
+<item>1999</item>
+<item>1999</item>
+<item>2001</item>
+<item>1999</item>
+<item>2000</item>
+<item>2000</item>
+<item>2001</item>
+<item>2000</item>
+<item>2001</item>
+<item>2001</item>
+<item>2002</item>
+<item>2002</item>
+<item>2002</item>
+<item>2002</item>
+<item>2001</item>
+<item>2003</item>
+<item>2002</item>
+<item>2002</item>
+<item>2003</item>
+<item>2004</item>
+<item>2004</item>
+<item>2003</item>
+<item>2004</item>
+<item>2004</item>
+<item>2003</item>
+<item>2003</item>
+<item>2004</item>
+<item>2004</item>
+<item>2003</item>
+<item>2002</item>
+<item>2004</item>
+<item>2004</item>
+<item>2004</item>
+<item>2004</item>
+<item>2004</item>
+<item>2004</item>
+<item>2004</item>
+<item>2004</item>
+<item>2004</item>
+<item>1985</item>
+<item>1985</item>
+<item>1985</item>
+<item>1986</item>
+<item>1986</item>
+<item>1986</item>
+<item>1986</item>
+<item>1986</item>
+<item>1986</item>
+<item>1987</item>
+<item>1987</item>
+<item>1987</item>
+<item>1987</item>
+<item>1988</item>
+<item>1988</item>
+<item>1989</item>
+<item>1989</item>
+<item>1989</item>
+<item>1990</item>
+<item>1990</item>
+<item>1990</item>
+<item>1990</item>
+<item>1991</item>
+<item>1991</item>
+<item>1991</item>
+<item>1992</item>
+<item>1992</item>
+<item>1993</item>
+<item>1993</item>
+<item>1993</item>
+<item>1993</item>
+<item>1993</item>
+<item>1993</item>
+<item>1993</item>
+<item>1993</item>
+<item>1993</item>
+<item>1993</item>
+<item>1994</item>
+<item>1975</item>
+<item>1975</item>
+<item>1975</item>
+<item>1976</item>
+<item>1976</item>
+<item>1977</item>
+<item>1978</item>
+<item>1978</item>
+<item>1979</item>
+<item>1979</item>
+<item>1979</item>
+<item>1980</item>
+<item>1982</item>
+<item>1982</item>
+<item>1982</item>
+<item>1982</item>
+<item>1983</item>
+<item>1984</item>
+<item>1984</item>
+<item>1984</item>
+<item>1984</item>
+<item>1965</item>
+<item>1967</item>
+<item>1967</item>
+<item>1967</item>
+<item>1968</item>
+<item>1968</item>
+<item>1968</item>
+<item>1969</item>
+<item>1969</item>
+<item>1970</item>
+<item>1971</item>
+<item>1971</item>
+<item>1971</item>
+<item>1972</item>
+<item>1973</item>
+<item>1973</item>
+<item>1974</item>
+<item>1974</item>
+<item>1974</item>
+<item>1959</item>
+<item>1960</item>
+<item>1961</item>
+<item>1963</item>
+<item>1964</item>
+<item>1964</item>
+<item>1964</item>
+<item>1948</item>
+<item>1951</item>
+<item>1951</item>
+<item>1952</item>
+<item>1953</item>
+<item>1954</item>
+<item>1939</item>
+<item>1939</item>
+<item>1941</item>
+<item>2005</item>
+<item>2008</item>
+<item>2007</item>
+<item>2005</item>
+<item>2009</item>
+<item>2005</item>
+<item>2007</item>
+<item>2013</item>
+<item>2005</item>
+<item>2005</item>
+<item>2007</item>
+<item>2005</item>
+<item>2006</item>
+<item>2005</item>
+<item>2005</item>
+<item>2005</item>
+<item>2006</item>
+<item>2005</item>
+<item>2005</item>
+<item>2005</item>
+<item>2006</item>
+<item>2006</item>
+<item>2005</item>
+<item>2009</item>
+<item>2006</item>
+<item>2005</item>
+<item>2009</item>
+<item>2006</item>
+<item>2006</item>
+<item>2005</item>
+<item>2005</item>
+<item>2006</item>
+<item>2006</item>
+<item>2012</item>
+<item>2006</item>
+<item>2007</item>
+<item>2010</item>
+<item>2006</item>
+<item>2007</item>
+<item>2006</item>
+<item>2007</item>
+<item>2006</item>
+<item>2006</item>
+<item>2007</item>
+<item>2007</item>
+<item>2007</item>
+<item>2007</item>
+<item>2006</item>
+<item>2013</item>
+<item>2007</item>
+<item>2013</item>
+<item>2007</item>
+<item>2007</item>
+<item>2007</item>
+<item>2008</item>
+<item>2007</item>
+<item>2007</item>
+<item>2010</item>
+<item>2009</item>
+<item>2008</item>
+<item>2009</item>
+<item>2008</item>
+<item>2010</item>
+<item>2009</item>
+<item>2011</item>
+<item>2008</item>
+<item>2011</item>
+<item>2008</item>
+<item>2011</item>
+<item>2009</item>
+<item>2008</item>
+<item>2010</item>
+<item>2008</item>
+<item>2011</item>
+<item>2007</item>
+<item>2009</item>
+<item>2010</item>
+<item>2010</item>
+<item>2009</item>
+<item>2011</item>
+<item>2011</item>
+<item>2011</item>
+<item>2009</item>
+<item>2009</item>
+<item>2011</item>
+<item>2012</item>
+<item>2011</item>
+<item>2011</item>
+<item>2011</item>
+<item>2009</item>
+<item>2013</item>
+<item>2011</item>
+<item>2010</item>
+<item>2012</item>
+<item>2013</item>
+<item>2013</item>
+<item>2010</item>
+<item>2010</item>
+<item>2011</item>
+<item>2011</item>
+<item>2011</item>
+<item>2012</item>
+<item>2013</item>
+<item>2011</item>
+<item>2013</item>
+<item>2012</item>
+<item>2013</item>
+<item>2012</item>
+<item>2012</item>
+<item>2011</item>
+<item>2012</item>
+<item>2012</item>
+<item>2013</item>
+<item>2012</item>
+<item>2014</item>
+<item>2013</item>
+<item>2014</item>
+<item>1995</item>
+<item>1995</item>
+<item>1995</item>
+<item>1995</item>
+<item>1995</item>
+<item>1996</item>
+<item>1996</item>
+<item>1997</item>
+<item>1996</item>
+<item>1996</item>
+<item>1996</item>
+<item>1996</item>
+<item>1996</item>
+<item>1996</item>
+<item>1997</item>
+<item>1997</item>
+<item>1997</item>
+<item>1997</item>
+<item>1997</item>
+<item>1997</item>
+<item>1997</item>
+<item>1999</item>
+<item>1999</item>
+<item>1998</item>
+<item>1998</item>
+<item>1998</item>
+<item>1998</item>
+<item>2000</item>
+<item>2000</item>
+<item>1998</item>
+<item>1997</item>
+<item>1999</item>
+<item>1999</item>
+<item>1998</item>
+<item>1998</item>
+<item>1998</item>
+<item>2001</item>
+<item>2000</item>
+<item>2002</item>
+<item>1999</item>
+<item>2000</item>
+<item>2001</item>
+<item>1999</item>
+<item>1999</item>
+<item>1999</item>
+<item>1999</item>
+<item>1999</item>
+<item>2002</item>
+<item>2000</item>
+<item>2000</item>
+<item>2000</item>
+<item>2000</item>
+<item>2001</item>
+<item>2002</item>
+<item>2001</item>
+<item>2001</item>
+<item>2000</item>
+<item>2001</item>
+<item>2001</item>
+<item>2001</item>
+<item>2002</item>
+<item>2001</item>
+<item>2001</item>
+<item>2002</item>
+<item>2001</item>
+<item>2002</item>
+<item>2001</item>
+<item>2002</item>
+<item>2002</item>
+<item>2004</item>
+<item>2003</item>
+<item>2003</item>
+<item>2002</item>
+<item>2004</item>
+<item>2002</item>
+<item>2004</item>
+<item>2002</item>
+<item>2003</item>
+<item>2003</item>
+<item>2003</item>
+<item>2004</item>
+<item>2003</item>
+<item>2003</item>
+<item>2004</item>
+<item>2004</item>
+<item>2003</item>
+<item>2004</item>
+<item>2004</item>
+<item>2004</item>
+<item>2004</item>
+<item>2004</item>
+<item>2004</item>
+<item>2004</item>
+<item>1986</item>
+<item>1986</item>
+<item>1986</item>
+<item>1987</item>
+<item>1987</item>
+<item>1987</item>
+<item>1987</item>
+<item>1988</item>
+<item>1988</item>
+<item>1989</item>
+<item>1989</item>
+<item>1989</item>
+<item>1989</item>
+<item>1989</item>
+<item>1989</item>
+<item>1990</item>
+<item>1990</item>
+<item>1990</item>
+<item>1990</item>
+<item>1990</item>
+<item>1990</item>
+<item>1990</item>
+<item>1991</item>
+<item>1992</item>
+<item>1992</item>
+<item>1992</item>
+<item>1992</item>
+<item>1993</item>
+<item>1993</item>
+<item>1993</item>
+<item>1994</item>
+<item>1994</item>
+<item>1994</item>
+<item>1994</item>
+<item>1975</item>
+<item>1976</item>
+<item>1976</item>
+<item>1977</item>
+<item>1978</item>
+<item>1979</item>
+<item>1981</item>
+<item>1981</item>
+<item>1982</item>
+<item>1982</item>
+<item>1982</item>
+<item>1983</item>
+<item>1983</item>
+<item>1984</item>
+<item>1984</item>
+<item>1967</item>
+<item>1969</item>
+<item>1973</item>
+<item>1974</item>
+<item>1959</item>
+<item>1962</item>
+<item>1963</item>
+<item>1950</item>
+<item>1951</item>
+<item>1937</item>
+<item>1942</item>
+<item>2006</item>
+<item>2007</item>
+<item>2007</item>
+<item>2009</item>
+<item>2010</item>
+<item>2014</item>
+<item>2010</item>
+<item>2010</item>
+<item>2012</item>
+<item>2014</item>
+<item>1997</item>
+<item>2001</item>
+<item>2000</item>
+<item>2001</item>
+<item>2002</item>
+<item>2004</item>
+<item>1985</item>
+<item>1988</item>
+<item>1988</item>
+<item>1992</item>
+<item>1994</item>
+<item>2006</item>
+<item>2005</item>
+<item>2006</item>
+<item>2005</item>
+<item>2005</item>
+<item>2005</item>
+<item>2005</item>
+<item>2005</item>
+<item>2005</item>
+<item>2005</item>
+<item>2006</item>
+<item>2009</item>
+<item>2005</item>
+<item>2008</item>
+<item>2007</item>
+<item>2005</item>
+<item>2006</item>
+<item>2006</item>
+<item>2006</item>
+<item>2008</item>
+<item>2005</item>
+<item>2007</item>
+<item>2006</item>
+<item>2005</item>
+<item>2008</item>
+<item>2005</item>
+<item>2005</item>
+<item>2006</item>
+<item>2007</item>
+<item>2010</item>
+<item>2005</item>
+<item>2008</item>
+<item>2007</item>
+<item>2006</item>
+<item>2007</item>
+<item>2007</item>
+<item>2008</item>
+<item>2009</item>
+<item>2006</item>
+<item>2006</item>
+<item>2011</item>
+<item>2006</item>
+<item>2007</item>
+<item>2007</item>
+<item>2009</item>
+<item>2009</item>
+<item>2011</item>
+<item>2008</item>
+<item>2007</item>
+<item>2006</item>
+<item>2006</item>
+<item>2008</item>
+<item>2007</item>
+<item>2007</item>
+<item>2007</item>
+<item>2007</item>
+<item>2007</item>
+<item>2008</item>
+<item>2007</item>
+<item>2008</item>
+<item>2009</item>
+<item>2009</item>
+<item>2012</item>
+<item>2008</item>
+<item>2011</item>
+<item>2010</item>
+<item>2013</item>
+<item>2008</item>
+<item>2007</item>
+<item>2008</item>
+<item>2007</item>
+<item>2008</item>
+<item>2010</item>
+<item>2007</item>
+<item>2008</item>
+<item>2010</item>
+<item>2008</item>
+<item>2010</item>
+<item>2012</item>
+<item>2008</item>
+<item>2011</item>
+<item>2007</item>
+<item>2008</item>
+<item>2010</item>
+<item>2009</item>
+<item>2008</item>
+<item>2009</item>
+<item>2009</item>
+<item>2011</item>
+<item>2010</item>
+<item>2011</item>
+<item>2009</item>
+<item>2009</item>
+<item>2009</item>
+<item>2009</item>
+<item>2011</item>
+<item>2013</item>
+<item>2010</item>
+<item>2010</item>
+<item>2012</item>
+<item>2013</item>
+<item>2012</item>
+<item>2013</item>
+<item>2012</item>
+<item>2013</item>
+<item>2010</item>
+<item>2011</item>
+<item>2011</item>
+<item>2011</item>
+<item>2010</item>
+<item>2011</item>
+<item>2010</item>
+<item>2012</item>
+<item>2013</item>
+<item>2011</item>
+<item>2010</item>
+<item>2013</item>
+<item>2011</item>
+<item>2011</item>
+<item>2012</item>
+<item>2011</item>
+<item>2012</item>
+<item>2011</item>
+<item>2012</item>
+<item>2013</item>
+<item>2013</item>
+<item>2012</item>
+<item>2012</item>
+<item>2013</item>
+<item>2012</item>
+<item>2013</item>
+<item>2013</item>
+<item>1977</item>
+<item>1982</item>
+<item>1995</item>
+<item>1995</item>
+<item>1995</item>
+<item>1996</item>
+<item>1996</item>
+<item>1996</item>
+<item>1996</item>
+<item>1996</item>
+<item>1997</item>
+<item>1997</item>
+<item>1997</item>
+<item>1997</item>
+<item>1997</item>
+<item>1998</item>
+<item>1997</item>
+<item>1997</item>
+<item>1999</item>
+<item>1997</item>
+<item>1999</item>
+<item>1998</item>
+<item>2001</item>
+<item>1998</item>
+<item>1999</item>
+<item>1998</item>
+<item>1998</item>
+<item>1999</item>
+<item>1998</item>
+<item>1998</item>
+<item>1998</item>
+<item>1999</item>
+<item>2002</item>
+<item>1999</item>
+<item>2000</item>
+<item>1999</item>
+<item>1998</item>
+<item>1999</item>
+<item>1999</item>
+<item>1999</item>
+<item>2003</item>
+<item>1999</item>
+<item>2004</item>
+<item>2002</item>
+<item>2000</item>
+<item>2000</item>
+<item>2000</item>
+<item>2001</item>
+<item>2000</item>
+<item>2000</item>
+<item>2001</item>
+<item>2003</item>
+<item>2001</item>
+<item>2001</item>
+<item>2002</item>
+<item>2002</item>
+<item>2002</item>
+<item>2001</item>
+<item>2001</item>
+<item>2004</item>
+<item>2002</item>
+<item>2001</item>
+<item>2002</item>
+<item>2002</item>
+<item>2002</item>
+<item>2002</item>
+<item>2002</item>
+<item>2002</item>
+<item>2002</item>
+<item>2003</item>
+<item>2003</item>
+<item>2003</item>
+<item>2003</item>
+<item>2003</item>
+<item>2003</item>
+<item>2003</item>
+<item>2004</item>
+<item>2004</item>
+<item>2004</item>
+<item>2004</item>
+<item>2003</item>
+<item>2004</item>
+<item>2004</item>
+<item>2004</item>
+<item>2004</item>
+<item>2004</item>
+<item>1966</item>
+<item>1986</item>
+<item>1986</item>
+<item>1987</item>
+<item>1987</item>
+<item>1987</item>
+<item>1987</item>
+<item>1988</item>
+<item>1989</item>
+<item>1989</item>
+<item>1989</item>
+<item>1990</item>
+<item>1990</item>
+<item>1990</item>
+<item>1991</item>
+<item>1991</item>
+<item>1991</item>
+<item>1991</item>
+<item>1992</item>
+<item>1992</item>
+<item>1992</item>
+<item>1992</item>
+<item>1993</item>
+<item>1993</item>
+<item>1993</item>
+<item>1993</item>
+<item>1994</item>
+<item>1994</item>
+<item>1994</item>
+<item>1994</item>
+<item>1994</item>
+<item>1994</item>
+<item>1955</item>
+<item>1957</item>
+<item>1957</item>
+<item>1957</item>
+<item>1960</item>
+<item>1961</item>
+<item>1961</item>
+<item>1962</item>
+<item>1962</item>
+<item>1963</item>
+<item>1964</item>
+<item>1978</item>
+<item>1979</item>
+<item>1979</item>
+<item>1982</item>
+<item>1981</item>
+<item>1982</item>
+<item>1984</item>
+<item>1946</item>
+<item>1945</item>
+<item>1948</item>
+<item>1952</item>
+<item>1953</item>
+<item>1953</item>
+<item>1965</item>
+<item>1939</item>
+<item>1942</item>
+<item>1961</item>
+<item>1925</item>
+<item>1926</item>
+<item>1927</item>
+<item>1934</item>
+<item>1921</item>
+<item>1923</item>
+<item>2005</item>
+<item>2005</item>
+<item>2006</item>
+<item>2005</item>
+<item>2005</item>
+<item>2007</item>
+<item>2005</item>
+<item>2006</item>
+<item>2005</item>
+<item>2006</item>
+<item>2007</item>
+<item>2007</item>
+<item>2007</item>
+<item>2007</item>
+<item>2007</item>
+<item>2007</item>
+<item>2010</item>
+<item>2009</item>
+<item>2008</item>
+<item>2010</item>
+<item>2008</item>
+<item>2009</item>
+<item>2010</item>
+<item>2008</item>
+<item>2009</item>
+<item>2009</item>
+<item>2010</item>
+<item>2010</item>
+<item>2011</item>
+<item>2010</item>
+<item>2010</item>
+<item>2012</item>
+<item>2011</item>
+<item>2013</item>
+<item>2012</item>
+<item>2012</item>
+<item>2012</item>
+<item>2013</item>
+<item>2013</item>
+<item>2012</item>
+<item>2013</item>
+<item>2012</item>
+<item>2013</item>
+<item>2013</item>
+<item>2013</item>
+<item>1995</item>
+<item>1995</item>
+<item>1995</item>
+<item>1995</item>
+<item>1996</item>
+<item>1996</item>
+</string-array>
+</resources>

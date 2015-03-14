@@ -1,0 +1,7 @@
+vorgegeben:
+1. links zwischen items, sortiert (als nächste nachbarn vorgegeben, z.b. durch benutzer: user die dieses buch kauften, kauften auch)
+2. zu jedem item einen vektor gesucht:
+"darstellung" des vektors, so dass seine nächsten nachbarn (euklidische distanz) am besten mit den vorgegebenen items aus 1. zusammenpassen
+
+mögliche lösung:
+zwischen je zwei items kürzeste wege als distanz -> multidimensionale skalierung -> fertig!

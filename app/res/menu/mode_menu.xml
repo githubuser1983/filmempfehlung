@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/select_recommendation"
+        android:title="@string/select_recommendation" />
+    <!-- <item android:id="@+id/select_help" android:title="@string/select_help" /> -->
+</menu>

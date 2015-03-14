@@ -1,0 +1,41 @@
+* app schickt zusatzinfo an den server: [ ]
+  1. Zeitangaben / differenzen (wie lange hat der User gebraucht um zu sortieren)
+  2. Anzahl der Vertauschungen
+  3. Liste der gelöschten Filme, die er nicht kennt oder nicht ordnen möchte
+
+* server schickt xml im Format: [X]
+  #<?xml version="1.0" encoding="utf-8"?>
+  #<votes>
+  #  <row Id="1" PostId="2" VoteTypeId="2" CreationDate="2010-07-28T00:00:00.000" />
+  #  <row Id="2" PostId="1" VoteTypeId="2" CreationDate="2010-07-28T00:00:00.000" />
+  #  <row Id="3" PostId="4" VoteTypeId="2" CreationDate="2010-07-28T00:00:00.000" />
+  zurück
+
+* app parst xml [x]
+
+* app stellt ergebnisse als listview (eigene activity aufrufen) dar [x]
+
+* weitere Attribute pro Film rausparsen [x]
+  pro Genre ein Attribut (ja = 1/nein = 0)
+           <div class="see-more inline canwrap" itemprop="genre">
+            <h4 class="inline">Genres:</h4>
+            <a href="/genre/Crime?ref_=tt_stry_gnr" > Crime</a>&nbsp;<span>|</span>
+            <a href="/genre/Drama?ref_=tt_stry_gnr" > Drama</a>&nbsp;<span>|</span>
+            <a href="/genre/Mystery?ref_=tt_stry_gnr" > Mystery</a>&nbsp;<span>|</span>
+            <a href="/genre/Thriller?ref_=tt_stry_gnr" > Thriller</a>
+          </div>   
+  number of wins and number of nominations [X]
+    <span itemprop="awards">3 wins & 3 nominations.</span>
+  number of photos [X]
+    <a href="/title/tt0057565/mediaindex?ref_=tt_pv_mi_sm" >14 photos</a>
+  number of news articles [X]
+    <a href="/title/tt0057565/news?ref_=tt_pv_nw_sm" >117 news articles</a>
+  number of first billed cast (keine gute Idee, weil diese Zahl fast immer gleich 15 ist)
+    count: itemprop="actor"
+  number of user reviews [X]
+    <a href="reviews?ref_=tt_ov_rt" title="72 IMDb user reviews" > <span itemprop="reviewCount">72 user</span>
+  number of critics reviews
+    <a href="externalreviews?ref_=tt_ov_rt" title="85 IMDb critic reviews" > <span itemprop="reviewCount">85 critic</span>
+  filming locations:
+    <a href="/search/title?locations=Enoshima, Kanagawa, Japan&ref_=tt_dt_dt" itemprop='url'>Enoshima, Kanagawa, Japan</a>
+

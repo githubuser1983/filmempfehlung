@@ -1,0 +1,19 @@
+# Python files
+*.py[cod]
+*.py.swo
+*.egg-info
+__pycache__
+keys.py
+build
+dist
+
+# Make files
+Makefile
+
+# editors
+## Vim files
+.*.swp
+
+# other
+notes
+

@@ -1,0 +1,9 @@
+www.metataste.com
+moviepilot
+imdb
+
+recommendations:
+http://techcrunch.com/tag/recommendations/
+
+
+http://www.themoviedb.org/

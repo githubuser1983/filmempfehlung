@@ -1,0 +1,18 @@
+A
+###############################################
+1. Log-Datei parsen nach ordered?items=1,2,3  
+   ( grep ordered log* | cut -f 4 -d ";" | uniq > requests.txt )
+2. die extrahierten Anfragen mit einem Skript an einem test-server schicken.
+3. der Server logt in eine Datei folgende Groessen:
+   die geordneten Items, die berechneten w-Vektoren, die Summe der w-Vektoren, die Scores der knn-Filme
+4. Es ist zu untersuchen:
+   1. Wie w_i mit w_(i+1) zusammenhaengt
+   2. Ob man direkt die Summe der w-Vektoren berechnen kann, ohne die einzelnen w-Vektoren ausrechnen zu muessen.
+   3. Ob die Scores der knn-Filme bei jeder Anfrage normalverteilt sind
+   4. Falls sie normalverteilt sind: Wie haengt der Mittelwert und die Standardabweichung mit der Anzahl der Items in der Anfrage zusammen? (Gibt es ueberhaupt einen Zusammenhang?)
+
+B
+###############################################
+Der Server schickt alle knn-Filme sortiert nach Score an die App.
+Die App merkt sich bei jeder Filmempfehlung welche Filme der User kennt und welche nicht.
+Die App filtert die vom User gekannten Filme aus und zeigt ihm nur solche, die er nicht kennt.

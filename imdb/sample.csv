@@ -1,0 +1,1001 @@
+filename,tid,title,wordsInTitle,url,imdbRating,ratingCount,duration,year,type,nrOfWins,nrOfNominations,nrOfPhotos,nrOfNewsArticles,nrOfUserReviews,nrOfGenre,meanGenre,sdGenre,minGenre,maxGenre
+titles01/tt0111161,tt0111161,Die Verurteilten (1994),die verurteilten,http://www.imdb.com/title/tt0111161/,9.3,1183395,8520,1994,video.movie,15,15,66,1913,3046,2,4184.50000,2176.50000,2008,6361
+titles01/tt0468569,tt0468569,The Dark Knight (2008),the dark knight,http://www.imdb.com/title/tt0468569/,9,1148515,9120,2008,video.movie,94,69,107,17229,3930,3,3512.00000,2015.59272,2008,6361
+titles01/tt1375666,tt1375666,Inception (2010),inception,http://www.imdb.com/title/tt1375666/,8.8,942259,8880,2010,video.movie,83,110,135,10101,2450,3,1777.66667,405.11836,1219,2167
+titles01/tt0120737,tt0120737,Der Herr der Ringe - Die Gefährten (2001),der herr der ringe die gef hrten,http://www.imdb.com/title/tt0120737/,8.9,871819,10680,2001,video.movie,82,90,220,801,4928,3,1707.66667,502.12969,1009,2167
+titles01/tt0137523,tt0137523,Fight Club (1999),fight club,http://www.imdb.com/title/tt0137523/,8.9,900388,8340,1999,video.movie,5,13,215,2613,2676,1,6361.00000,0.00000,6361,6361
+titles01/tt0167260,tt0167260,Der Herr der Ringe - Die Rückkehr des Königs (2003),der herr der ringe die r ckkehr des k nigs,http://www.imdb.com/title/tt0167260/,8.9,845383,12060,2003,video.movie,122,74,230,1294,3049,3,1707.66667,502.12969,1009,2167
+titles01/tt0167261,tt0167261,Der Herr der Ringe - Die zwei Türme (2002),der herr der ringe die zwei t rme,http://www.imdb.com/title/tt0167261/,8.8,760587,10740,2002,video.movie,76,83,164,527,2381,3,1707.66667,502.12969,1009,2167
+titles01/tt0099685,tt0099685,GoodFellas - Drei Jahrzehnte in der Mafia (1990),goodfellas drei jahrzehnte in der mafia,http://www.imdb.com/title/tt0099685/,8.8,515242,8760,1990,video.movie,40,23,68,1504,883,3,3018.00000,2424.77752,685,6361
+titles01/tt0108052,tt0108052,Schindlers Liste (1993),schindlers liste,http://www.imdb.com/title/tt0108052/,8.9,599579,11700,1993,video.movie,70,25,52,857,1095,3,2563.00000,2685.64629,643,6361
+titles01/tt0109830,tt0109830,Forrest Gump (1994),forrest gump,http://www.imdb.com/title/tt0109830/,8.8,799314,8520,1994,video.movie,38,46,56,1908,1133,2,4168.50000,2192.50000,1976,6361
+titles01/tt0110912,tt0110912,Pulp Fiction (1994),pulp fiction,http://www.imdb.com/title/tt0110912/,9,911042,9240,1994,video.movie,62,46,87,3824,1818,3,3458.00000,2052.73135,2005,6361
+titles01/tt0073486,tt0073486,Einer flog über das Kuckucksnest (1975),einer flog ber das kuckucksnest,http://www.imdb.com/title/tt0073486/,8.8,492141,7980,1975,video.movie,30,12,59,397,675,1,6361.00000,0.00000,6361,6361
+titles01/tt0080684,tt0080684,Das Imperium schlägt zurück (1980),das imperium schl gt zur ck,http://www.imdb.com/title/tt0080684/,8.8,563252,7440,1980,video.movie,12,16,105,1774,764,2,2057.00000,110.00000,1947,2167
+titles01/tt0068646,tt0068646,Der Pate (1972),der pate,http://www.imdb.com/title/tt0068646/,9.2,821410,10500,1972,video.movie,29,19,148,1307,1751,2,4184.50000,2176.50000,2008,6361
+titles01/tt0071562,tt0071562,Der Pate 2 (1974),der pate,http://www.imdb.com/title/tt0071562/,9.1,541351,12000,1974,video.movie,11,16,73,197,565,2,4184.50000,2176.50000,2008,6361
+titles01/tt0361748,tt0361748,Inglourious Basterds (2009),inglourious basterds,http://www.imdb.com/title/tt0361748/,8.3,561706,9180,2009,video.movie,76,63,394,7896,1391,3,3014.00000,2417.93976,734,6361
+titles01/tt0372784,tt0372784,Batman Begins (2005),batman begins,http://www.imdb.com/title/tt0372784/,8.3,659591,8400,2005,video.movie,9,44,202,6136,2607,3,3512.00000,2015.59272,2008,6361
+titles01/tt0407887,tt0407887,Departed - Unter Feinden (2006),departed unter feinden,http://www.imdb.com/title/tt0407887/,8.5,598844,9060,2006,video.movie,64,63,83,3043,1954,3,3458.00000,2052.73135,2005,6361
+titles01/tt0482571,tt0482571,Prestige - Die Meister der Magie (2006),prestige die meister der magie,http://www.imdb.com/title/tt0482571/,8.5,555345,7800,2006,video.movie,4,17,57,796,1011,3,3195.00000,2261.57998,1219,6361
+titles01/tt0910970,tt0910970,WALL·E - Der letzte räumt die Erde auf (2008),wall e der letzte r umt die erde auf,http://www.imdb.com/title/tt0910970/,8.5,476415,5880,2008,video.movie,52,49,71,751,966,3,1306.33333,458.42944,900,1947
+titles01/tt1345836,tt1345836,The Dark Knight Rises (2012),the dark knight rises,http://www.imdb.com/title/tt1345836/,8.6,758626,9900,2012,video.movie,28,64,131,22240,2576,3,2060.00000,75.67034,2005,2167
+titles01/tt1853728,tt1853728,Django Unchained (2012),django unchained,http://www.imdb.com/title/tt1853728/,8.5,568296,9900,2012,video.movie,36,58,108,7971,1012,3,2897.33333,2530.93953,384,6361
+titles01/tt0112573,tt0112573,Braveheart (1995),braveheart,http://www.imdb.com/title/tt0112573/,8.4,523797,10620,1995,video.movie,19,20,89,975,1008,3,3071.00000,2403.76871,685,6361
+titles01/tt0114369,tt0114369,Sieben (1995),sieben,http://www.imdb.com/title/tt0114369/,8.7,691425,7620,1995,video.movie,25,18,58,1953,977,3,1744.00000,371.23308,1219,2008
+titles01/tt0114814,tt0114814,Die üblichen Verdächtigen (1995),die blichen verd chtigen,http://www.imdb.com/title/tt0114814/,8.7,523742,6360,1995,video.movie,29,7,53,1212,1110,3,1744.00000,371.23308,1219,2008
+titles01/tt0120586,tt0120586,American History X (1998),american history x,http://www.imdb.com/title/tt0120586/,8.6,550302,7140,1998,video.movie,3,9,42,472,1344,2,4184.50000,2176.50000,2008,6361
+titles01/tt0120689,tt0120689,The Green Mile (1999),the green mile,http://www.imdb.com/title/tt0120689/,8.5,499240,11340,1999,video.movie,15,23,45,808,1290,3,3126.00000,2323.56321,1009,6361
+titles01/tt0120815,tt0120815,Der Soldat James Ryan (1998),der soldat james ryan,http://www.imdb.com/title/tt0120815/,8.6,600405,10140,1998,video.movie,58,56,129,1841,2191,3,3087.33333,2387.61280,734,6361
+titles01/tt0133093,tt0133093,Matrix (1999),matrix,http://www.imdb.com/title/tt0133093/,8.7,841150,8160,1999,video.movie,29,36,123,1931,3470,1,2167.00000,0.00000,2167,2167
+titles01/tt0169547,tt0169547,American Beauty (1999),american beauty,http://www.imdb.com/title/tt0169547/,8.5,602828,7320,1999,video.movie,91,74,88,2285,2648,1,6361.00000,0.00000,6361,6361
+titles01/tt0172495,tt0172495,Gladiator (2000),gladiator,http://www.imdb.com/title/tt0172495/,8.5,661296,9300,2000,video.movie,51,80,197,2447,2277,3,3491.66667,2030.91200,1947,6361
+titles01/tt0209144,tt0209144,Memento (2000),memento,http://www.imdb.com/title/tt0209144/,8.6,605480,6780,2000,video.movie,47,34,72,1748,1976,2,1612.00000,393.00000,1219,2005
+titles01/tt0338013,tt0338013,Vergiss mein nicht (2004),vergiss mein nicht,http://www.imdb.com/title/tt0338013/,8.4,475849,6480,2004,video.movie,46,54,52,1324,1448,2,4168.50000,2192.50000,1976,6361
+titles01/tt0088763,tt0088763,Zurück in die Zukunft (1985),zur ck in die zukunft,http://www.imdb.com/title/tt0088763/,8.5,478445,6960,1985,video.movie,13,24,78,3628,680,2,3289.00000,1342.00000,1947,4631
+titles01/tt0102926,tt0102926,Das Schweigen der Lämmer (1991),das schweigen der l mmer,http://www.imdb.com/title/tt0102926/,8.6,584102,7080,1991,video.movie,44,30,80,1076,798,3,3458.00000,2052.73135,2005,6361
+titles01/tt0103064,tt0103064,Terminator 2 - Tag der Abrechnung (1991),terminator tag der abrechnung,http://www.imdb.com/title/tt0103064/,8.5,523543,8220,1991,video.movie,20,19,71,855,869,2,2086.00000,81.00000,2005,2167
+titles01/tt0105236,tt0105236,Reservoir Dogs - Wilde Hunde (1992),reservoir dogs wilde hunde,http://www.imdb.com/title/tt0105236/,8.4,454684,5940,1992,video.movie,11,9,72,1603,855,2,2006.50000,1.50000,2005,2008
+titles01/tt0110413,tt0110413,Léon - Der Profi (1994),l on der profi,http://www.imdb.com/title/tt0110413/,8.6,501117,6600,1994,video.movie,3,8,58,1194,754,3,3458.00000,2052.73135,2005,6361
+titles01/tt0076759,tt0076759,Krieg der Sterne (1977),krieg der sterne,http://www.imdb.com/title/tt0076759/,8.7,631839,7260,1977,video.movie,35,26,190,23660,1325,3,1707.66667,502.12969,1009,2167
+titles01/tt0082971,tt0082971,Jäger des verlorenen Schatzes (1981),j ger des verlorenen schatzes,http://www.imdb.com/title/tt0082971/,8.6,473742,6900,1981,video.movie,25,22,69,2004,691,2,2057.00000,110.00000,1947,2167
+titles01/tt0086190,tt0086190,Die Rückkehr der Jedi-Ritter (1983),die r ckkehr der jedi ritter,http://www.imdb.com/title/tt0086190/,8.4,445123,8040,1983,video.movie,12,14,94,1879,558,3,1707.66667,502.12969,1009,2167
+titles03/index.html.3845,tt0371746,Iron Man (2008),iron man,http://www.imdb.com/title/tt0371746/,7.9,476288,7560,2008,video.movie,15,43,155,22252,993,2,2057.00000,110.00000,1947,2167
+titles01/tt0401792,tt0401792,Sin City (2005),sin city,http://www.imdb.com/title/tt0401792/,8.2,491210,7440,2005,video.movie,21,29,212,5239,1677,2,2006.50000,1.50000,2005,2008
+titles03/index.html.4105,tt0416449,300 (2006),,http://www.imdb.com/title/tt0416449/,7.8,466561,7020,2006,video.movie,9,28,115,68,2020,3,1273.00000,649.57217,643,2167
+titles01/tt0434409,tt0434409,V wie Vendetta (2005),v wie vendetta,http://www.imdb.com/title/tt0434409/,8.2,557042,7920,2005,video.movie,4,17,70,1459,1980,2,2086.00000,81.00000,2005,2167
+titles02/index.html.3137,tt0499549,Avatar - Aufbruch nach Pandora (2009),avatar aufbruch nach pandora,http://www.imdb.com/title/tt0499549/,8,658097,9720,2009,video.movie,58,74,240,14460,2991,3,1707.66667,502.12969,1009,2167
+titles01/tt0848228,tt0848228,Marvel's The Avengers (2012),marvel s the avengers,http://www.imdb.com/title/tt0848228/,8.2,638083,8580,2012,video.movie,22,55,324,21466,1550,2,1588.00000,579.00000,1009,2167
+titles01/tt1010048,tt1010048,Slumdog Millionär (2008),slumdog million r,http://www.imdb.com/title/tt1010048/,8.1,470400,7200,2008,video.movie,114,62,27,6741,972,3,3447.33333,2060.30747,1976,6361
+titles01/tt1130884,tt1130884,Shutter Island (2010),shutter island,http://www.imdb.com/title/tt1130884/,8.1,495936,8280,2010,video.movie,4,27,56,3907,884,3,3195.00000,2261.57998,1219,6361
+titles01/tt0120382,tt0120382,Die Truman Show (1998),die truman show,http://www.imdb.com/title/tt0120382/,8,455656,6180,1998,video.movie,32,37,113,702,789,2,5496.00000,865.00000,4631,6361
+titles01/tt0167404,tt0167404,Sixth Sense (1999),sixth sense,http://www.imdb.com/title/tt0167404/,8.2,516468,6420,1999,video.movie,32,37,50,1500,2019,3,3195.00000,2261.57998,1219,6361
+titles01/tt0266543,tt0266543,Findet Nemo (2003),findet nemo,http://www.imdb.com/title/tt0266543/,8.2,451631,6000,2003,video.movie,37,37,92,2563,804,3,2492.66667,1571.28490,900,4631
+titles01/tt0266697,tt0266697,Kill Bill: Vol. 1 (2003),kill bill vol,http://www.imdb.com/title/tt0266697/,8.2,509895,6660,2003,video.movie,16,43,97,3019,2044,2,2087.50000,79.50000,2008,2167
+titles01/tt0325980,tt0325980,Fluch der Karibik (2003),fluch der karibik,http://www.imdb.com/title/tt0325980/,8.1,572501,8580,2003,video.movie,28,71,125,429,2072,3,1707.66667,502.12969,1009,2167
+titles01/tt0060196,tt0060196,Zwei glorreiche Halunken (1966),zwei glorreiche halunken,http://www.imdb.com/title/tt0060196/,9,354997,9660,1966,video.movie,1,0,189,11,684,2,1165.50000,781.50000,384,1947
+titles01/tt0050083,tt0050083,Die zwölf Geschworenen (1957),die zw lf geschworenen,http://www.imdb.com/title/tt0050083/,8.9,293725,5760,1957,video.movie,16,6,31,68,726,1,6361.00000,0.00000,6361,6361
+titles01/tt0047478,tt0047478,Die sieben Samurai (1954),die sieben samurai,http://www.imdb.com/title/tt0047478/,8.8,172690,12420,1954,video.movie,4,5,33,576,548,2,4264.00000,2097.00000,2167,6361
+titles03/index.html.2715,tt0120338,Titanic (1997),titanic,http://www.imdb.com/title/tt0120338/,7.7,568769,11640,1997,video.movie,86,51,197,5208,2450,2,4168.50000,2192.50000,1976,6361
+titles01/tt0405094,tt0405094,Das Leben der Anderen (2006),das leben der anderen,http://www.imdb.com/title/tt0405094/,8.5,185524,8220,2006,video.movie,66,25,25,402,371,2,4183.00000,2178.00000,2005,6361
+titles01/tt0435761,tt0435761,Toy Story 3 (2010),toy story,http://www.imdb.com/title/tt0435761/,8.5,356405,6180,2010,video.movie,36,44,97,5842,657,3,2492.66667,1571.28490,900,4631
+titles01/tt0457430,tt0457430,Pans Labyrinth (2006),pans labyrinth,http://www.imdb.com/title/tt0457430/,8.3,339845,7080,2006,video.movie,76,63,50,81,1025,3,2701.33333,2590.20930,734,6361
+titles01/tt0993846,tt0993846,The Wolf of Wall Street (2013),the wolf of wall street,http://www.imdb.com/title/tt0993846/,8.4,285401,10800,2013,video.movie,17,62,73,3597,779,3,2441.33333,1639.82973,685,4631
+titles01/tt1049413,tt1049413,Oben (2009),oben,http://www.imdb.com/title/tt1049413/,8.3,425870,5760,2009,video.movie,53,37,68,2379,644,3,3069.33333,2366.48182,900,6361
+titles01/tt1187043,tt1187043,3 Idiots (2009),idiots,http://www.imdb.com/title/tt1187043/,8.5,103975,10200,2009,video.movie,20,13,20,10,267,3,4322.66667,1803.39649,1976,6361
+titles01/tt1291584,tt1291584,Warrior (2011),warrior,http://www.imdb.com/title/tt1291584/,8.3,220357,8400,2011,video.movie,2,10,44,1903,432,2,3309.00000,3052.00000,257,6361
+titles01/tt1305806,tt1305806,In ihren Augen (2009),in ihren augen,http://www.imdb.com/title/tt1305806/,8.3,82183,7740,2009,video.movie,48,34,11,514,197,3,3195.00000,2261.57998,1219,6361
+titles01/tt1675434,tt1675434,Ziemlich beste Freunde (2011),ziemlich beste freunde,http://www.imdb.com/title/tt1675434/,8.6,286016,6720,2011,video.movie,25,31,18,457,245,3,3892.33333,2375.35476,685,6361
+titles01/tt1798709,tt1798709,Her (2013),her,http://www.imdb.com/title/tt1798709/,8.3,98365,7560,2013,video.movie,42,58,63,2297,389,2,4168.50000,2192.50000,1976,6361
+titles01/tt1832382,tt1832382,Nader und Simin - eine Trennung (2011),nader und simin eine trennung,http://www.imdb.com/title/tt1832382/,8.5,105123,7380,2011,video.movie,60,23,16,39,230,1,6361.00000,0.00000,6361,6361
+titles01/tt1979320,tt1979320,Rush - Alles für den Sieg (2013),rush alles f r den sieg,http://www.imdb.com/title/tt1979320/,8.3,142959,7380,2013,video.movie,4,33,51,1573,352,3,3071.00000,2403.76871,685,6361
+titles01/tt2024544,tt2024544,12 Years a Slave (2013),years a slave,http://www.imdb.com/title/tt2024544/,8.3,161237,8040,2013,video.movie,131,137,88,351,455,3,2563.00000,2685.64629,643,6361
+titles01/tt2106476,tt2106476,Die Jagd (2012),die jagd,http://www.imdb.com/title/tt2106476/,8.3,80966,6900,2012,video.movie,29,37,27,220,163,1,6361.00000,0.00000,6361,6361
+titles01/tt0113277,tt0113277,Heat (1995),heat,http://www.imdb.com/title/tt0113277/,8.3,324264,10200,1995,video.movie,0,0,64,1030,841,3,3512.00000,2015.59272,2008,6361
+titles01/tt0114709,tt0114709,Toy Story (1995),toy story,http://www.imdb.com/title/tt0114709/,8.3,410650,4860,1995,video.movie,19,13,121,5068,311,3,2492.66667,1571.28490,900,4631
+titles01/tt0118799,tt0118799,Das Leben ist schön (1997),das leben ist sch n,http://www.imdb.com/title/tt0118799/,8.6,266261,6960,1997,video.movie,56,31,56,98,972,3,4322.66667,1803.39649,1976,6361
+titles01/tt0119488,tt0119488,L.A. Confidential (1997),l a confidential,http://www.imdb.com/title/tt0119488/,8.3,319796,8280,1997,video.movie,78,48,59,82,591,3,3196.00000,2261.05418,1219,6361
+titles01/tt0119698,tt0119698,Prinzessin Mononoke (1997),prinzessin mononoke,http://www.imdb.com/title/tt0119698/,8.5,150101,8040,1997,video.movie,11,5,49,297,516,3,1285.33333,469.98038,900,1947
+titles01/tt0180093,tt0180093,Requiem for a Dream (2000),requiem for a dream,http://www.imdb.com/title/tt0180093/,8.4,413539,6120,2000,video.movie,27,36,134,918,1842,1,6361.00000,0.00000,6361,6361
+titles01/tt0208092,tt0208092,Snatch - Schweine und Diamanten (2000),snatch schweine und diamanten,http://www.imdb.com/title/tt0208092/,8.4,432193,6240,2000,video.movie,4,5,132,902,696,2,3319.50000,1311.50000,2008,4631
+titles01/tt0211915,tt0211915,Die fabelhafte Welt der Amelie (2001),die fabelhafte welt der amelie,http://www.imdb.com/title/tt0211915/,8.5,380600,7320,2001,video.movie,54,50,57,359,1255,2,3303.50000,1327.50000,1976,4631
+titles01/tt0245429,tt0245429,Chihiros Reise ins Zauberland (2001),chihiros reise ins zauberland,http://www.imdb.com/title/tt0245429/,8.6,273502,7500,2001,video.movie,35,19,33,621,788,3,1306.33333,458.42944,900,1947
+titles01/tt0253474,tt0253474,Der Pianist (2002),der pianist,http://www.imdb.com/title/tt0253474/,8.5,331248,9000,2002,video.movie,49,47,74,700,718,3,2593.33333,2664.21775,685,6361
+titles01/tt0317248,tt0317248,City of God (2002),city of god,http://www.imdb.com/title/tt0317248/,8.7,386540,7800,2002,video.movie,57,26,27,528,681,2,4184.50000,2176.50000,2008,6361
+titles01/tt0363163,tt0363163,Der Untergang (2004),der untergang,http://www.imdb.com/title/tt0363163/,8.3,184234,9360,2004,video.movie,18,17,16,432,532,3,2563.00000,2685.64629,643,6361
+titles01/tt0364569,tt0364569,Oldboy (2003),oldboy,http://www.imdb.com/title/tt0364569/,8.4,245394,7200,2003,video.movie,18,11,19,121,742,3,3195.00000,2261.57998,1219,6361
+titles01/tt0090605,tt0090605,Aliens - Die Rückkehr (1986),aliens die r ckkehr,http://www.imdb.com/title/tt0090605/,8.5,353899,8220,1986,video.movie,16,21,95,2150,998,2,2057.00000,110.00000,1947,2167
+titles01/tt0093058,tt0093058,Full Metal Jacket (1987),full metal jacket,http://www.imdb.com/title/tt0093058/,8.4,334586,6960,1987,video.movie,7,7,53,621,621,2,3547.50000,2813.50000,734,6361
+titles01/tt0095016,tt0095016,Stirb langsam (1988),stirb langsam,http://www.imdb.com/title/tt0095016/,8.3,431906,7860,1988,video.movie,6,2,63,2360,667,2,2086.00000,81.00000,2005,2167
+titles01/tt0095327,tt0095327,Die letzten Leuchtkäfer (1988),die letzten leuchtk fer,http://www.imdb.com/title/tt0095327/,8.5,85046,5340,1988,video.movie,3,0,16,156,436,3,2665.00000,2614.34517,734,6361
+titles01/tt0095765,tt0095765,Cinema Paradiso (1988),cinema paradiso,http://www.imdb.com/title/tt0095765/,8.5,103093,9300,1988,video.movie,19,22,60,215,357,1,6361.00000,0.00000,6361,6361
+titles01/tt0096283,tt0096283,Mein Nachbar Totoro (1988),mein nachbar totoro,http://www.imdb.com/title/tt0096283/,8.3,101445,5160,1988,video.movie,5,1,39,330,273,3,993.66667,71.05084,900,1072
+titles01/tt0097576,tt0097576,Indiana Jones und der letzte Kreuzzug (1989),indiana jones und der letzte kreuzzug,http://www.imdb.com/title/tt0097576/,8.3,364585,7620,1989,video.movie,4,19,66,362,440,2,2057.00000,110.00000,1947,2167
+titles01/tt0105695,tt0105695,Erbarmungslos (1992),erbarmungslos,http://www.imdb.com/title/tt0105695/,8.3,205938,7860,1992,video.movie,40,20,67,568,453,1,384.00000,0.00000,384,384
+titles01/tt0110357,tt0110357,Der König der Löwen (1994),der k nig der l wen,http://www.imdb.com/title/tt0110357/,8.5,408078,5340,1994,video.movie,25,22,111,2908,542,3,3069.33333,2366.48182,900,6361
+titles01/tt0071853,tt0071853,Die Ritter der Kokosnuß (1975),die ritter der kokosnu,http://www.imdb.com/title/tt0071853/,8.4,284563,5460,1975,video.movie,0,0,48,260,613,3,2529.00000,1534.87546,1009,4631
+titles01/tt0075314,tt0075314,Taxi Driver (1976),taxi driver,http://www.imdb.com/title/tt0075314/,8.4,351181,6780,1976,video.movie,26,9,80,1830,768,2,4184.50000,2176.50000,2008,6361
+titles01/tt0078748,tt0078748,Alien - Das unheimliche Wesen aus einer fremden Welt (1979),alien das unheimliche wesen aus einer fremden welt,http://www.imdb.com/title/tt0078748/,8.5,391737,7020,1979,video.movie,12,18,126,5671,991,1,704.00000,0.00000,704,704
+titles01/tt0078788,tt0078788,Apocalypse Now (1979),apocalypse now,http://www.imdb.com/title/tt0078788/,8.5,333178,9180,1979,video.movie,17,30,76,1356,896,2,3547.50000,2813.50000,734,6361
+titles01/tt0080678,tt0080678,Der Elefantenmensch (1980),der elefantenmensch,http://www.imdb.com/title/tt0080678/,8.3,120156,7440,1980,video.movie,10,13,36,242,325,2,3523.00000,2838.00000,685,6361
+titles01/tt0081398,tt0081398,Wie ein wilder Stier (1980),wie ein wilder stier,http://www.imdb.com/title/tt0081398/,8.3,172854,7740,1980,video.movie,26,19,51,1478,454,3,2434.33333,2782.06510,257,6361
+titles01/tt0081505,tt0081505,Shining (1980),shining,http://www.imdb.com/title/tt0081505/,8.5,418163,8640,1980,video.movie,2,5,16,1528,1208,1,704.00000,0.00000,704,704
+titles01/tt0082096,tt0082096,Das Boot (1981),das boot,http://www.imdb.com/title/tt0082096/,8.5,127022,8940,1981,video.movie,13,5,94,67,397,3,3491.66667,2030.91200,1947,6361
+titles01/tt0083658,tt0083658,Der Blade Runner (1982),der blade runner,http://www.imdb.com/title/tt0083658/,8.3,350268,7020,1982,video.movie,10,15,104,4395,1072,2,4183.00000,2178.00000,2005,6361
+titles01/tt0086250,tt0086250,Scarface - Toni\, das Narbengesicht (1983),scarface toni das narbengesicht,http://www.imdb.com/title/tt0086250/,8.3,379114,10200,1983,video.movie,0,3,134,985,777,2,4184.50000,2176.50000,2008,6361
+titles01/tt0086879,tt0086879,Amadeus (1984),amadeus,http://www.imdb.com/title/tt0086879/,8.4,198201,9600,1984,video.movie,33,13,66,242,500,3,2503.00000,2729.52304,463,6361
+titles01/tt0087843,tt0087843,Es war einmal in Amerika (1984),es war einmal in amerika,http://www.imdb.com/title/tt0087843/,8.4,159607,13740,1984,video.movie,13,4,49,187,461,2,4184.50000,2176.50000,2008,6361
+titles01/tt0059578,tt0059578,Für ein paar Dollar mehr (1965),f r ein paar dollar mehr,http://www.imdb.com/title/tt0059578/,8.4,104305,7920,1965,video.movie,0,0,56,102,201,1,384.00000,0.00000,384,384
+titles01/tt0062622,tt0062622,2001: Odyssee im Weltraum (1968),odyssee im weltraum,http://www.imdb.com/title/tt0062622/,8.3,295641,9600,1968,video.movie,12,6,174,28,1568,2,1583.00000,364.00000,1219,1947
+titles01/tt0064116,tt0064116,Spiel mir das Lied vom Tod (1968),spiel mir das lied vom tod,http://www.imdb.com/title/tt0064116/,8.7,158065,10500,1968,video.movie,5,4,61,277,518,1,384.00000,0.00000,384,384
+titles01/tt0066921,tt0066921,Uhrwerk Orange (1971),uhrwerk orange,http://www.imdb.com/title/tt0066921/,8.4,386962,8160,1971,video.movie,11,13,80,1076,1250,2,4184.50000,2176.50000,2008,6361
+titles01/tt0070735,tt0070735,Der Clou (1973),der clou,http://www.imdb.com/title/tt0070735/,8.4,127640,7740,1973,video.movie,10,6,67,275,224,3,4333.33333,1789.52626,2008,6361
+titles01/tt0071315,tt0071315,Chinatown (1974),chinatown,http://www.imdb.com/title/tt0071315/,8.3,159935,7800,1974,video.movie,20,22,73,547,412,3,3195.00000,2261.57998,1219,6361
+titles01/tt0050212,tt0050212,Die Brücke am Kwai (1957),die br cke am kwai,http://www.imdb.com/title/tt0050212/,8.3,109972,9660,1957,video.movie,24,5,59,160,243,3,3014.00000,2417.93976,734,6361
+titles01/tt0050825,tt0050825,Wege zum Ruhm (1957),wege zum ruhm,http://www.imdb.com/title/tt0050825/,8.5,84945,5280,1957,video.movie,3,2,26,208,313,2,3547.50000,2813.50000,734,6361
+titles01/tt0050976,tt0050976,Das siebente Siegel (1957),das siebente siegel,http://www.imdb.com/title/tt0050976/,8.3,80684,5760,1957,video.movie,7,1,28,193,236,2,3685.00000,2676.00000,1009,6361
+titles01/tt0052357,tt0052357,Vertigo - Aus dem Reich der Toten (1958),vertigo aus dem reich der toten,http://www.imdb.com/title/tt0052357/,8.5,176267,7680,1958,video.movie,6,3,106,671,618,3,1733.33333,363.88124,1219,2005
+titles01/tt0053125,tt0053125,Der unsichtbare Dritte (1959),der unsichtbare dritte,http://www.imdb.com/title/tt0053125/,8.5,166029,8160,1959,video.movie,7,4,85,644,466,3,1777.66667,405.11836,1219,2167
+titles01/tt0053291,tt0053291,Manche mögen's heiß (1959),manche m gen s hei,http://www.imdb.com/title/tt0053291/,8.4,129721,7200,1959,video.movie,12,8,96,546,329,1,4631.00000,0.00000,4631,4631
+titles01/tt0053604,tt0053604,Das Appartement (1960),das appartement,http://www.imdb.com/title/tt0053604/,8.4,77601,7500,1960,video.movie,18,8,36,211,221,3,4322.66667,1803.39649,1976,6361
+titles01/tt0054215,tt0054215,Psycho (1960),psycho,http://www.imdb.com/title/tt0054215/,8.6,296676,6540,1960,video.movie,6,5,156,2059,885,3,1309.33333,534.95815,704,2005
+titles01/tt0056172,tt0056172,Lawrence von Arabien (1962),lawrence von arabien,http://www.imdb.com/title/tt0056172/,8.4,140727,12960,1962,video.movie,20,13,91,929,509,3,2997.66667,2433.40219,685,6361
+titles01/tt0056592,tt0056592,Wer die Nachtigall stört (1962),wer die nachtigall st rt,http://www.imdb.com/title/tt0056592/,8.4,154978,7740,1962,video.movie,12,12,49,524,407,3,3196.00000,2261.05418,1219,6361
+titles01/tt0057012,tt0057012,Dr. Seltsam\, oder wie ich lernte\, die Bombe zu lieben (1964),dr seltsam oder wie ich lernte die bombe zu lieben,http://www.imdb.com/title/tt0057012/,8.6,263157,5700,1964,video.movie,13,4,56,432,782,2,2682.50000,1948.50000,734,4631
+titles01/tt0057115,tt0057115,Gesprengte Ketten (1963),gesprengte ketten,http://www.imdb.com/title/tt0057115/,8.3,120161,10320,1963,video.movie,4,4,164,309,285,3,2983.66667,2446.75150,643,6361
+titles01/tt0038650,tt0038650,It's a Wonderful Life (1946),it s a wonderful life,http://www.imdb.com/title/tt0038650/,8.7,197764,7800,1946,video.movie,6,0,65,531,626,3,2814.00000,2508.23962,1009,6361
+titles01/tt0040522,tt0040522,Fahrraddiebe (1948),fahrraddiebe,http://www.imdb.com/title/tt0040522/,8.4,63797,5280,1948,video.movie,17,0,17,239,202,1,6361.00000,0.00000,6361,6361
+titles01/tt0041959,tt0041959,Der dritte Mann (1949),der dritte mann,http://www.imdb.com/title/tt0041959/,8.4,85964,6240,1949,video.movie,3,4,62,338,364,2,1612.00000,393.00000,1219,2005
+titles01/tt0042192,tt0042192,Alles über Eva (1950),alles ber eva,http://www.imdb.com/title/tt0042192/,8.4,61738,8280,1950,video.movie,15,15,42,253,276,1,6361.00000,0.00000,6361,6361
+titles01/tt0042876,tt0042876,Rashomon (1950),rashomon,http://www.imdb.com/title/tt0042876/,8.4,74219,5280,1950,video.movie,9,2,19,102,238,2,4184.50000,2176.50000,2008,6361
+titles01/tt0043014,tt0043014,Boulevard der Dämmerung (1950),boulevard der d mmerung,http://www.imdb.com/title/tt0043014/,8.6,102072,6600,1950,video.movie,17,13,58,1033,394,1,6361.00000,0.00000,6361,6361
+titles01/tt0045152,tt0045152,Du sollst mein Glücksstern sein (1952),du sollst mein gl cksstern sein,http://www.imdb.com/title/tt0045152/,8.4,108115,6180,1952,video.movie,4,7,61,333,441,3,2342.00000,1738.90828,419,4631
+titles01/tt0047296,tt0047296,Die Faust im Nacken (1954),die faust im nacken,http://www.imdb.com/title/tt0047296/,8.3,74023,6480,1954,video.movie,21,7,45,352,255,2,4184.50000,2176.50000,2008,6361
+titles01/tt0047396,tt0047396,Das Fenster zum Hof (1954),das fenster zum hof,http://www.imdb.com/title/tt0047396/,8.6,229323,6720,1954,video.movie,6,6,98,711,580,2,1612.00000,393.00000,1219,2005
+titles01/tt0027977,tt0027977,Moderne Zeiten (1936),moderne zeiten,http://www.imdb.com/title/tt0027977/,8.6,90847,5220,1936,video.movie,3,1,44,27,180,2,5496.00000,865.00000,4631,6361
+titles01/tt0032553,tt0032553,Der große Diktator (1940),der gro e diktator,http://www.imdb.com/title/tt0032553/,8.5,87969,7500,1940,video.movie,5,1,37,181,173,3,3908.66667,2353.31062,734,6361
+titles01/tt0032976,tt0032976,Rebecca (1940),rebecca,http://www.imdb.com/title/tt0032976/,8.3,65670,7800,1940,video.movie,2,9,47,328,241,3,3195.00000,2261.57998,1219,6361
+titles01/tt0033467,tt0033467,Citizen Kane (1941),citizen kane,http://www.imdb.com/title/tt0033467/,8.5,228617,7140,1941,video.movie,7,10,103,1439,1101,2,3790.00000,2571.00000,1219,6361
+titles01/tt0034583,tt0034583,Casablanca (1942),casablanca,http://www.imdb.com/title/tt0034583/,8.6,296802,6120,1942,video.movie,5,6,153,382,960,3,3023.66667,2413.70895,734,6361
+titles01/tt0036775,tt0036775,Frau ohne Gewissen (1944),frau ohne gewissen,http://www.imdb.com/title/tt0036775/,8.5,71266,6420,1944,video.movie,3,0,43,231,260,2,4184.50000,2176.50000,2008,6361
+titles01/tt0017136,tt0017136,Metropolis (1927),metropolis,http://www.imdb.com/title/tt0017136/,8.4,81007,9180,1927,video.movie,3,4,67,428,376,1,6361.00000,0.00000,6361,6361
+titles01/tt0021749,tt0021749,Lichter der Großstadt (1931),lichter der gro stadt,http://www.imdb.com/title/tt0021749/,8.7,70057,5220,1931,video.movie,2,0,38,187,186,3,4322.66667,1803.39649,1976,6361
+titles01/tt0022100,tt0022100,M (1931),m,http://www.imdb.com/title/tt0022100/,8.5,73726,7020,1931,video.movie,1,0,28,4,254,3,3458.00000,2052.73135,2005,6361
+titles02/index.html.1475,tt0206634,Children of Men (2006),children of men,http://www.imdb.com/title/tt0206634/,7.9,294420,6540,2006,video.movie,28,29,47,1636,1154,2,4183.00000,2178.00000,2005,6361
+titles02/index.html.2790,tt0352248,Das Comeback (2005),das comeback,http://www.imdb.com/title/tt0352248/,8,122726,8640,2005,video.movie,14,26,160,426,508,3,2563.00000,2685.64629,643,6361
+titles03/index.html.3903,tt0379786,Serenity - Flucht in neue Welten (2005),serenity flucht in neue welten,http://www.imdb.com/title/tt0379786/,8,198585,7140,2005,video.movie,8,5,42,1306,1561,2,2057.00000,110.00000,1947,2167
+titles03/index.html.3911,tt0381061,James Bond 007 - Casino Royale (2006),james bond casino royale,http://www.imdb.com/title/tt0381061/,8,344652,8640,2006,video.movie,17,29,77,3923,2245,3,2060.00000,75.67034,2005,2167
+titles02/index.html.2124,tt0381849,Todeszug nach Yuma (2007),todeszug nach yuma,http://www.imdb.com/title/tt0381849/,7.8,191143,7320,2007,video.movie,6,19,64,30,545,3,3438.66667,2066.55177,1947,6361
+titles01/tt0401383,tt0401383,Schmetterling und Taucherglocke (2007),schmetterling und taucherglocke,http://www.imdb.com/title/tt0401383/,8.1,75965,6720,2007,video.movie,56,41,33,337,167,2,3523.00000,2838.00000,685,6361
+titles02/index.html.6307,tt0414387,Stolz & Vorurteil (2005),stolz vorurteil,http://www.imdb.com/title/tt0414387/,7.8,143750,7740,2005,video.movie,15,36,70,63,1014,2,4168.50000,2192.50000,1976,6361
+titles02/index.html.2938,tt0421715,Der seltsame Fall des Benjamin Button (2008),der seltsame fall des benjamin button,http://www.imdb.com/title/tt0421715/,7.8,337671,9960,2008,video.movie,42,81,115,2652,792,3,3115.33333,2328.73876,1009,6361
+titles03/index.html.4157,tt0425112,Hot Fuzz - Zwei abgewichste Profis (2007),hot fuzz zwei abgewichste profis,http://www.imdb.com/title/tt0425112/,7.9,266190,7260,2007,video.movie,2,4,47,2682,643,1,4631.00000,0.00000,4631,4631
+titles02/index.html.147,tt0425210,Lucky Number Slevin (2006),lucky number slevin,http://www.imdb.com/title/tt0425210/,7.8,215991,6600,2006,video.movie,4,3,65,279,492,3,3196.00000,2261.05418,1219,6361
+titles02/index.html.5204,tt0432283,Der Fantastische Mr. Fox (2009),der fantastische mr fox,http://www.imdb.com/title/tt0432283/,7.8,98374,5220,2009,video.movie,30,20,68,1836,225,3,2492.66667,1571.28490,900,4631
+titles01/tt0440963,tt0440963,Das Bourne Ultimatum (2007),das bourne ultimatum,http://www.imdb.com/title/tt0440963/,8.1,350787,6900,2007,video.movie,17,27,82,1639,790,3,2060.00000,75.67034,2005,2167
+titles03/index.html.4258,tt0449059,Little Miss Sunshine (2006),little miss sunshine,http://www.imdb.com/title/tt0449059/,7.9,279289,6060,2006,video.movie,54,55,40,2451,864,3,4313.00000,1815.98311,1947,6361
+titles02/index.html.5629,tt0450259,Blood Diamond (2006),blood diamond,http://www.imdb.com/title/tt0450259/,8,290735,8580,2006,video.movie,7,18,142,723,628,3,3437.66667,2067.24444,1947,6361
+titles02/index.html.3336,tt0454876,Life of Pi: Schiffbruch mit Tiger (2012),life of pi schiffbruch mit tiger,http://www.imdb.com/title/tt0454876/,8.1,297386,7620,2012,video.movie,50,79,30,3710,702,3,3105.66667,2333.50342,1009,6361
+titles02/index.html.3782,tt0454921,Das Streben nach Glück (2006),das streben nach gl ck,http://www.imdb.com/title/tt0454921/,7.9,245609,7020,2006,video.movie,11,18,96,715,578,2,3523.00000,2838.00000,685,6361
+titles03/index.html.4298,tt0455590,Der letzte König von Schottland - In den Fängen der Macht (2006),der letzte k nig von schottland in den f ngen der macht,http://www.imdb.com/title/tt0455590/,7.8,118219,7260,2006,video.movie,37,24,29,1058,331,3,2563.00000,2685.64629,643,6361
+titles02/index.html.2714,tt0460791,The Fall (2006),the fall,http://www.imdb.com/title/tt0460791/,7.9,70480,7020,2006,video.movie,3,4,28,630,272,3,3105.66667,2333.50342,1009,6361
+titles01/tt0469494,tt0469494,There Will Be Blood (2007),there will be blood,http://www.imdb.com/title/tt0469494/,8.1,272992,9480,2007,video.movie,74,58,65,2075,1053,1,6361.00000,0.00000,6361,6361
+titles02/index.html.1105,tt0472043,Apocalypto (2006),apocalypto,http://www.imdb.com/title/tt0472043/,7.8,193604,8340,2006,video.movie,7,14,29,404,1022,3,3491.66667,2030.91200,1947,6361
+titles01/tt0477348,tt0477348,No Country for Old Men (2007),no country for old men,http://www.imdb.com/title/tt0477348/,8.2,434032,7320,2007,video.movie,110,51,61,3101,1416,3,3458.00000,2052.73135,2005,6361
+titles02/index.html.5337,tt0485947,Mr. Nobody (2009),mr nobody,http://www.imdb.com/title/tt0485947/,7.9,80269,8460,2009,video.movie,5,3,14,201,169,3,3115.33333,2328.73876,1009,6361
+titles02/index.html.3411,tt0486655,Der Sternwanderer (2007),der sternwanderer,http://www.imdb.com/title/tt0486655/,7.8,173051,7620,2007,video.movie,4,3,142,984,462,3,1342.66667,428.10149,1009,1947
+titles02/index.html.1892,tt0498380,Letters from Iwo Jima (2006),letters from iwo jima,http://www.imdb.com/title/tt0498380/,8,112624,8460,2006,video.movie,26,19,66,324,307,3,2579.33333,2674.30020,643,6361
+titles03/index.html.4741,tt0756683,The Man from Earth (2007),the man from earth,http://www.imdb.com/title/tt0756683/,8,91315,5220,2007,video.movie,4,1,7,26,563,1,6361.00000,0.00000,6361,6361
+titles01/tt0758758,tt0758758,Into the Wild (2007),into the wild,http://www.imdb.com/title/tt0758758/,8.2,292747,8880,2007,video.movie,18,43,67,880,683,3,2997.66667,2433.40219,685,6361
+titles02/index.html.2034,tt0765429,American Gangster (2007),american gangster,http://www.imdb.com/title/tt0765429/,7.8,264349,9420,2007,video.movie,9,30,103,1108,440,3,3018.00000,2424.77752,685,6361
+titles02/index.html.6586,tt0780504,Drive (2011),drive,http://www.imdb.com/title/tt0780504/,7.9,335287,6000,2011,video.movie,43,80,71,5369,1155,2,4184.50000,2176.50000,2008,6361
+titles02/index.html.4295,tt0780536,Brügge sehen... und sterben? (2008),br gge sehen und sterben,http://www.imdb.com/title/tt0780536/,8,242728,6420,2008,video.movie,14,35,66,1435,464,3,4333.33333,1789.52626,2008,6361
+titles02/index.html.5906,tt0783233,Abbitte (2007),abbitte,http://www.imdb.com/title/tt0783233/,7.8,152071,7380,2007,video.movie,29,79,53,2164,555,3,3185.33333,2266.70191,1219,6361
+titles02/index.html.4432,tt0790636,Dallas Buyers Club (2013),dallas buyers club,http://www.imdb.com/title/tt0790636/,8,121583,7020,2013,video.movie,46,31,15,2931,227,3,2563.00000,2685.64629,643,6361
+titles01/tt0796366,tt0796366,Star Trek (2009),star trek,http://www.imdb.com/title/tt0796366/,8.1,401744,7620,2009,video.movie,19,47,201,15161,1499,2,2057.00000,110.00000,1947,2167
+titles02/index.html.4830,tt0824747,Der fremde Sohn (2008),der fremde sohn,http://www.imdb.com/title/tt0824747/,7.8,164143,8460,2008,video.movie,6,35,65,718,353,3,2741.00000,2570.50501,643,6361
+titles02/index.html.5563,tt0861739,Tropa de Elite (2007),tropa de elite,http://www.imdb.com/title/tt0861739/,8.1,62042,6900,2007,video.movie,30,10,7,849,99,3,3512.00000,2015.59272,2008,6361
+titles02/index.html.1667,tt0870111,Frost/Nixon (2008),frost nixon,http://www.imdb.com/title/tt0870111/,7.8,76863,7320,2008,video.movie,16,48,80,83,234,2,3502.00000,2859.00000,643,6361
+titles01/tt0892769,tt0892769,Drachenzähmen leicht gemacht (2010),drachenz hmen leicht gemacht,http://www.imdb.com/title/tt0892769/,8.2,285643,5880,2010,video.movie,19,32,51,3545,414,3,2492.66667,1571.28490,900,4631
+titles02/index.html.6416,tt0903624,Der Hobbit - Eine unerwartete Reise (2012),der hobbit eine unerwartete reise,http://www.imdb.com/title/tt0903624/,8.1,438941,10140,2012,video.movie,10,44,256,6236,1300,2,1478.00000,469.00000,1009,1947
+titles03/index.html.5021,tt0907657,Once (2006),once,http://www.imdb.com/title/tt0907657/,8,69165,5100,2006,video.movie,16,21,18,478,303,3,2933.33333,2501.19523,463,6361
+titles03/index.html.5030,tt0914798,Der Junge im gestreiften Pyjama (2008),der junge im gestreiften pyjama,http://www.imdb.com/title/tt0914798/,7.8,89054,5640,2008,video.movie,2,5,14,157,354,3,2579.33333,2674.30020,643,6361
+titles02/index.html.5568,tt0936501,96 Hours (2008),hours,http://www.imdb.com/title/tt0936501/,7.9,364251,5580,2008,video.movie,1,1,20,2928,920,3,2060.00000,75.67034,2005,2167
+titles01/tt0947798,tt0947798,Black Swan (2010),black swan,http://www.imdb.com/title/tt0947798/,8.1,413273,6480,2010,video.movie,57,125,119,10527,1057,3,3195.00000,2261.57998,1219,6361
+titles02/index.html.2490,tt0964517,The Fighter (2010),the fighter,http://www.imdb.com/title/tt0964517/,7.9,200800,6960,2010,video.movie,42,55,100,5677,366,3,2434.33333,2782.06510,257,6361
+titles01/tt0978762,tt0978762,Mary & Max\, oder - Schrumpfen Schafe\, wenn es regnet (2009),mary max oder schrumpfen schafe wenn es regnet,http://www.imdb.com/title/tt0978762/,8.2,77311,5520,2009,video.movie,4,6,15,108,133,3,3964.00000,2278.78579,900,6361
+titles02/index.html.207,tt1022603,(500) Days of Summer (2009),days of summer,http://www.imdb.com/title/tt1022603/,7.8,273980,5700,2009,video.movie,10,22,96,29,453,3,4322.66667,1803.39649,1976,6361
+titles02/index.html.5769,tt1024648,Argo (2012),argo,http://www.imdb.com/title/tt1024648/,7.8,308561,7200,2012,video.movie,66,77,92,5223,637,3,2563.00000,2685.64629,643,6361
+titles01/tt1028532,tt1028532,Hachiko - Eine wunderbare Freundschaft (2009),hachiko eine wunderbare freundschaft,http://www.imdb.com/title/tt1028532/,8.2,76285,5580,2009,video.movie,0,0,9,30,239,2,3716.50000,2644.50000,1072,6361
+titles02/index.html.1525,tt1045658,Silver Linings (2012),silver linings,http://www.imdb.com/title/tt1045658/,7.9,354393,7320,2012,video.movie,62,78,52,6070,620,3,4322.66667,1803.39649,1976,6361
+titles02/index.html.3555,tt1074638,James Bond 007 - Skyfall (2012),james bond skyfall,http://www.imdb.com/title/tt1074638/,7.8,378165,8580,2012,video.movie,40,74,123,7761,1399,3,2039.66667,93.09971,1947,2167
+titles02/index.html.6581,tt1091191,Lone Survivor (2013),lone survivor,http://www.imdb.com/title/tt1091191/,7.8,71512,7260,2013,video.movie,5,10,52,1387,257,3,3071.00000,2403.76871,685,6361
+titles03/index.html.5303,tt1119646,Hangover (2009),hangover,http://www.imdb.com/title/tt1119646/,7.8,428449,6000,2009,video.movie,6,17,60,6030,600,1,4631.00000,0.00000,4631,4631
+titles02/index.html.5731,tt1125849,The Wrestler (2008),the wrestler,http://www.imdb.com/title/tt1125849/,8,217896,6540,2008,video.movie,41,35,110,2633,526,2,3309.00000,3052.00000,257,6361
+titles02/index.html.1361,tt1132620,Verblendung (2009),verblendung,http://www.imdb.com/title/tt1132620/,7.8,139396,9120,2009,video.movie,12,22,32,2708,282,3,1744.00000,371.23308,1219,2008
+titles03/index.html.5337,tt1136608,District 9 (2009),district,http://www.imdb.com/title/tt1136608/,8,417838,6720,2009,video.movie,15,52,34,5684,1221,2,2086.00000,81.00000,2005,2167
+titles02/index.html.1478,tt1139797,So finster die Nacht (2008),so finster die nacht,http://www.imdb.com/title/tt1139797/,8,143919,6900,2008,video.movie,63,23,19,2484,469,2,3532.50000,2828.50000,704,6361
+titles01/tt1170358,tt1170358,Der Hobbit - Smaugs Einöde (2013),der hobbit smaugs ein de,http://www.imdb.com/title/tt1170358/,8.1,239935,9660,2013,video.movie,3,40,89,3179,777,2,1478.00000,469.00000,1009,1947
+titles02/index.html.2093,tt1182345,Moon (2009),moon,http://www.imdb.com/title/tt1182345/,8,186273,5820,2009,video.movie,21,20,27,2258,424,1,6361.00000,0.00000,6361,6361
+titles01/tt1201607,tt1201607,Harry Potter und die Heiligtümer des Todes - Teil 2 (2011),harry potter und die heiligt mer des todes teil,http://www.imdb.com/title/tt1201607/,8.1,346862,7800,2011,video.movie,33,49,217,2708,754,3,1391.66667,401.92979,1009,1947
+titles01/tt1205489,tt1205489,Gran Torino (2008),gran torino,http://www.imdb.com/title/tt1205489/,8.2,405722,6960,2008,video.movie,20,8,62,1349,815,1,6361.00000,0.00000,6361,6361
+titles01/tt1220719,tt1220719,Ip Man (2008),ip man,http://www.imdb.com/title/tt1220719/,8.1,101486,6360,2008,video.movie,12,10,13,406,129,3,3071.00000,2403.76871,685,6361
+titles02/index.html.1503,tt1235166,Ein Prophet (2009),ein prophet,http://www.imdb.com/title/tt1235166/,7.9,63032,9300,2009,video.movie,32,31,33,831,139,2,4184.50000,2176.50000,2008,6361
+titles03/index.html.5501,tt1250777,Kick-Ass (2010),kick ass,http://www.imdb.com/title/tt1250777/,7.8,328140,7020,2010,video.movie,7,30,119,7291,783,2,3399.00000,1232.00000,2167,4631
+titles03/index.html.5524,tt1270798,X-Men: Erste Entscheidung (2011),x men erste entscheidung,http://www.imdb.com/title/tt1270798/,7.8,344481,7920,2011,video.movie,6,17,80,12346,657,2,2057.00000,110.00000,1947,2167
+titles02/index.html.2738,tt1285016,The Social Network (2010),the social network,http://www.imdb.com/title/tt1285016/,7.8,334871,7200,2010,video.movie,102,86,159,11716,650,2,3523.00000,2838.00000,685,6361
+titles02/index.html.1812,tt1306980,50/50 - Freunde fürs (Über)leben (2011),freunde f rs ber leben,http://www.imdb.com/title/tt1306980/,7.8,207726,6000,2011,video.movie,9,9,52,181,362,2,5496.00000,865.00000,4631,6361
+titles01/tt1392214,tt1392214,Prisoners (2013),prisoners,http://www.imdb.com/title/tt1392214/,8.1,184698,9180,2013,video.movie,6,15,57,1558,445,3,3458.00000,2052.73135,2005,6361
+titles02/index.html.2769,tt1408101,Star Trek: Into Darkness (2013),star trek into darkness,http://www.imdb.com/title/tt1408101/,7.9,270323,7920,2013,video.movie,6,27,86,7706,1054,2,2057.00000,110.00000,1947,2167
+titles01/tt1454029,tt1454029,The Help (2011),the help,http://www.imdb.com/title/tt1454029/,8.1,220355,8760,2011,video.movie,46,68,67,4565,391,1,6361.00000,0.00000,6361,6361
+titles01/tt1454468,tt1454468,Gravity (2013),gravity,http://www.imdb.com/title/tt1454468/,8.1,341562,5460,2013,video.movie,104,75,79,4911,1556,2,4183.00000,2178.00000,2005,6361
+titles01/tt1504320,tt1504320,The King's Speech (2010),the king s speech,http://www.imdb.com/title/tt1504320/,8.1,325645,7080,2010,video.movie,86,104,27,5060,592,3,2563.00000,2685.64629,643,6361
+titles02/index.html.2433,tt1535109,Captain Phillips (2013),captain phillips,http://www.imdb.com/title/tt1535109/,8,176065,8040,2013,video.movie,16,68,62,2861,411,3,3017.00000,2425.19443,685,6361
+titles02/index.html.2510,tt1568346,Verblendung (2011),verblendung,http://www.imdb.com/title/tt1568346/,7.9,245900,9480,2011,video.movie,14,33,90,5277,597,3,3196.00000,2261.05418,1219,6361
+titles02/index.html.4439,tt1659337,Vielleicht lieber morgen (2012),vielleicht lieber morgen,http://www.imdb.com/title/tt1659337/,8.1,224570,6120,2012,video.movie,17,22,55,1610,370,2,4168.50000,2192.50000,1976,6361
+titles02/index.html.4893,tt1748122,Moonrise Kingdom (2012),moonrise kingdom,http://www.imdb.com/title/tt1748122/,7.8,160533,5640,2012,video.movie,29,56,99,2961,336,3,4322.66667,1803.39649,1976,6361
+titles02/index.html.2910,tt1951264,Die Tribute von Panem - Catching Fire (2013),die tribute von panem catching fire,http://www.imdb.com/title/tt1951264/,7.9,260431,8760,2013,video.movie,6,34,298,7537,557,2,1976.00000,29.00000,1947,2005
+titles02/index.html.6170,tt2294629,Die Eiskönigin - Völlig unverfroren (2013),die eisk nigin v llig unverfroren,http://www.imdb.com/title/tt2294629/,7.9,159512,6120,2013,video.movie,34,17,78,1325,508,3,2492.66667,1571.28490,900,4631
+titles01/tt0112471,tt0112471,Before Sunrise - Zwischenstopp in Wien (1995),before sunrise zwischenstopp in wien,http://www.imdb.com/title/tt0112471/,8.1,119333,6300,1995,video.movie,1,2,18,763,351,2,4168.50000,2192.50000,1976,6361
+titles01/tt0112641,tt0112641,Casino (1995),casino,http://www.imdb.com/title/tt0112641/,8.2,236730,10680,1995,video.movie,3,7,69,550,498,3,3018.00000,2424.77752,685,6361
+titles01/tt0113247,tt0113247,Hass (1995),hass,http://www.imdb.com/title/tt0113247/,8.1,72274,5880,1995,video.movie,8,12,32,70,154,1,6361.00000,0.00000,6361,6361
+titles01/tt0114746,tt0114746,12 Monkeys (1995),monkeys,http://www.imdb.com/title/tt0114746/,8.1,342200,7740,1995,video.movie,10,8,47,335,498,2,1612.00000,393.00000,1219,2005
+titles01/tt0116282,tt0116282,Fargo - Blutiger Schnee (1996),fargo blutiger schnee,http://www.imdb.com/title/tt0116282/,8.2,310335,5880,1996,video.movie,60,32,30,815,752,3,3458.00000,2052.73135,2005,6361
+titles01/tt0117951,tt0117951,Trainspotting - Neue Helden (1996),trainspotting neue helden,http://www.imdb.com/title/tt0117951/,8.2,343921,5640,1996,video.movie,19,15,71,1343,482,2,4184.50000,2176.50000,2008,6361
+titles01/tt0118715,tt0118715,The Big Lebowski (1998),the big lebowski,http://www.imdb.com/title/tt0118715/,8.2,380503,7020,1998,video.movie,1,9,73,1394,972,2,3319.50000,1311.50000,2008,4631
+titles02/index.html.2455,tt0118749,Boogie Nights (1997),boogie nights,http://www.imdb.com/title/tt0118749/,7.9,148566,9300,1997,video.movie,28,22,74,57,530,1,6361.00000,0.00000,6361,6361
+titles02/index.html.4202,tt0118929,Dark City (1998),dark city,http://www.imdb.com/title/tt0118929/,7.8,125788,6000,1998,video.movie,6,7,54,594,598,1,1219.00000,0.00000,1219,1219
+titles02/index.html.2204,tt0119008,Donnie Brasco (1997),donnie brasco,http://www.imdb.com/title/tt0119008/,7.8,178966,7620,1997,video.movie,5,9,77,355,219,3,3018.00000,2424.77752,685,6361
+titles02/index.html.4736,tt0119174,The Game - Das Geschenk seines Lebens (1997),the game das geschenk seines lebens,http://www.imdb.com/title/tt0119174/,7.8,194927,7740,1997,video.movie,0,0,76,246,459,3,3195.00000,2261.57998,1219,6361
+titles02/index.html.5336,tt0119177,Gattaca (1997),gattaca,http://www.imdb.com/title/tt0119177/,7.8,164586,6360,1997,video.movie,6,8,87,646,590,2,4168.50000,2192.50000,1976,6361
+titles01/tt0119217,tt0119217,Good Will Hunting - Der gute Will Hunting (1997),good will hunting der gute will hunting,http://www.imdb.com/title/tt0119217/,8.2,414269,7560,1997,video.movie,18,37,73,1462,611,1,6361.00000,0.00000,6361,6361
+titles02/index.html.208,tt0119822,Besser geht's nicht (1997),besser geht s nicht,http://www.imdb.com/title/tt0119822/,7.8,189536,8340,1997,video.movie,31,30,99,440,449,3,4322.66667,1803.39649,1976,6361
+titles02/index.html.4173,tt0120363,Toy Story 2 (1999),toy story,http://www.imdb.com/title/tt0120363/,7.9,276727,5520,1999,video.movie,19,20,230,1140,483,3,2492.66667,1571.28490,900,4631
+titles02/index.html.3751,tt0120601,Being John Malkovich (1999),being john malkovich,http://www.imdb.com/title/tt0120601/,7.8,207653,6720,1999,video.movie,50,48,59,960,813,3,4000.33333,2229.98974,1009,6361
+titles02/index.html.1301,tt0120669,Angst und Schrecken in Las Vegas (1998),angst und schrecken in las vegas,http://www.imdb.com/title/tt0120669/,7.8,172021,7080,1998,video.movie,1,1,40,667,624,1,4631.00000,0.00000,4631,4631
+titles01/tt0120735,tt0120735,Bube Dame König grAS (1998),bube dame k nig gras,http://www.imdb.com/title/tt0120735/,8.2,304448,6420,1998,video.movie,13,7,92,96,509,2,3319.50000,1311.50000,2008,4631
+titles02/index.html.4176,tt0126029,Shrek - Der tollkühne Held (2001),shrek der tollk hne held,http://www.imdb.com/title/tt0126029/,7.9,341130,5400,2001,video.movie,30,46,120,1566,923,3,2492.66667,1571.28490,900,4631
+titles02/index.html.1808,tt0128445,Rushmore (1998),rushmore,http://www.imdb.com/title/tt0128445/,7.8,103560,5580,1998,video.movie,14,11,19,694,623,2,5496.00000,865.00000,4631,6361
+titles02/index.html.3152,tt0129167,Der Gigant aus dem All (1999),der gigant aus dem all,http://www.imdb.com/title/tt0129167/,7.9,95942,5160,1999,video.movie,19,14,66,438,479,3,1671.33333,552.76055,900,2167
+titles02/index.html.142,tt0130827,Lola rennt (1998),lola rennt,http://www.imdb.com/title/tt0130827/,7.8,138695,4860,1998,video.movie,28,15,56,492,691,3,2060.00000,75.67034,2005,2167
+titles03/index.html.2878,tt0140352,Insider (1999),insider,http://www.imdb.com/title/tt0140352/,7.9,112807,9420,1999,video.movie,28,34,74,332,501,3,3017.00000,2425.19443,685,6361
+titles02/index.html.5570,tt0144117,Der blutige Pfad Gottes (1999),der blutige pfad gottes,http://www.imdb.com/title/tt0144117/,7.9,171326,6480,1999,video.movie,0,0,31,364,868,3,2060.00000,75.67034,2005,2167
+titles03/index.html.2911,tt0151804,Alles Routine (1999),alles routine,http://www.imdb.com/title/tt0151804/,7.9,163891,5340,1999,video.movie,0,0,39,947,600,1,4631.00000,0.00000,4631,4631
+titles03/index.html.2932,tt0158983,South Park - Der Film (1999),south park der film,http://www.imdb.com/title/tt0158983/,7.8,130357,4860,1999,video.movie,6,8,69,27,920,3,1983.33333,1882.45307,419,4631
+titles03/index.html.2973,tt0166924,Mulholland Drive (2001),mulholland drive,http://www.imdb.com/title/tt0166924/,8,188272,8820,2001,video.movie,42,33,89,844,1709,3,3195.00000,2261.57998,1219,6361
+titles03/index.html.3002,tt0175880,Magnolia (1999),magnolia,http://www.imdb.com/title/tt0175880/,8,205640,11280,1999,video.movie,22,35,52,766,1397,1,6361.00000,0.00000,6361,6361
+titles02/index.html.5401,tt0190332,Tiger & Dragon (2000),tiger dragon,http://www.imdb.com/title/tt0190332/,7.9,187512,7200,2000,video.movie,88,91,84,68,1626,3,3501.33333,2023.59257,1976,6361
+titles03/index.html.3044,tt0190590,O Brother\, Where Art Thou? - Eine Mississippi-Odyssee (2000),o brother where art thou eine mississippi odyssee,http://www.imdb.com/title/tt0190590/,7.8,176256,6360,2000,video.movie,7,31,46,25,838,2,3319.50000,1311.50000,2008,4631
+titles01/tt0198781,tt0198781,Die Monster AG (2001),die monster ag,http://www.imdb.com/title/tt0198781/,8.1,374409,5520,2001,video.movie,14,31,154,104,546,3,2492.66667,1571.28490,900,4631
+titles01/tt0245712,tt0245712,Amores perros (2000),amores perros,http://www.imdb.com/title/tt0245712/,8.2,130465,9240,2000,video.movie,56,15,24,308,346,2,4183.00000,2178.00000,2005,6361
+titles01/tt0246578,tt0246578,Donnie Darko (2001),donnie darko,http://www.imdb.com/title/tt0246578/,8.1,430315,6780,2001,video.movie,11,12,58,1329,2031,2,3790.00000,2571.00000,1219,6361
+titles02/index.html.2511,tt0250258,Das Experiment (2001),das experiment,http://www.imdb.com/title/tt0250258/,7.8,63018,7200,2001,video.movie,13,15,19,71,167,2,4183.00000,2178.00000,2005,6361
+titles02/index.html.2114,tt0257044,Road to Perdition (2002),road to perdition,http://www.imdb.com/title/tt0257044/,7.8,165165,7020,2002,video.movie,23,55,88,778,981,3,3458.00000,2052.73135,2005,6361
+titles02/index.html.5875,tt0258463,Die Bourne Identität (2002),die bourne identit t,http://www.imdb.com/title/tt0258463/,7.9,300040,7140,2002,video.movie,3,4,104,1344,816,3,1797.00000,414.02415,1219,2167
+titles02/index.html.4060,tt0264464,Catch Me If You Can (2002),catch me if you can,http://www.imdb.com/title/tt0264464/,8,340964,8460,2002,video.movie,11,20,132,818,623,3,3018.00000,2424.77752,685,6361
+titles03/index.html.3339,tt0268126,Adaption. (2002),adaption,http://www.imdb.com/title/tt0268126/,7.8,118129,6840,2002,video.movie,53,51,37,133,694,3,4333.33333,1789.52626,2008,6361
+titles01/tt0268978,tt0268978,A Beautiful Mind - Genie und Wahnsinn (2001),a beautiful mind genie und wahnsinn,http://www.imdb.com/title/tt0268978/,8.2,389925,8100,2001,video.movie,28,51,85,1192,1123,2,3523.00000,2838.00000,685,6361
+titles02/index.html.5514,tt0276919,Dogville (2003),dogville,http://www.imdb.com/title/tt0276919/,8,87043,10680,2003,video.movie,13,20,34,349,586,1,6361.00000,0.00000,6361,6361
+titles02/index.html.6556,tt0287467,Sprich mit ihr (2002),sprich mit ihr,http://www.imdb.com/title/tt0287467/,8,72951,6720,2002,video.movie,44,29,46,249,243,3,4322.66667,1803.39649,1976,6361
+titles02/index.html.2880,tt0299977,Hero (2002),hero,http://www.imdb.com/title/tt0299977/,8,128177,5940,2002,video.movie,28,20,48,172,827,3,3057.00000,2417.70635,643,6361
+titles02/index.html.1560,tt0301357,Good Bye Lenin! (2003),good bye lenin,http://www.imdb.com/title/tt0301357/,7.8,91044,7260,2003,video.movie,32,14,37,33,220,3,4322.66667,1803.39649,1976,6361
+titles02/index.html.6475,tt0304141,Harry Potter und der Gefangene von Askaban (2004),harry potter und der gefangene von askaban,http://www.imdb.com/title/tt0304141/,7.8,278537,8520,2004,video.movie,13,35,128,700,1479,3,1342.66667,428.10149,1009,1947
+titles02/index.html.6334,tt0308644,Wenn Träume fliegen lernen (2004),wenn tr ume fliegen lernen,http://www.imdb.com/title/tt0308644/,7.8,150281,6360,2004,video.movie,18,57,67,746,619,3,2706.00000,2589.29991,685,6361
+titles03/index.html.3552,tt0315733,21 Gramm (2003),gramm,http://www.imdb.com/title/tt0315733/,7.8,153983,7440,2003,video.movie,28,36,42,49,540,3,3458.00000,2052.73135,2005,6361
+titles02/index.html.3362,tt0317705,Die Unglaublichen (2004),die unglaublichen,http://www.imdb.com/title/tt0317705/,8,337843,6900,2004,video.movie,41,38,89,1458,788,3,1671.33333,552.76055,900,2167
+titles02/index.html.5616,tt0318462,Die Reise des jungen Che (2004),die reise des jungen che,http://www.imdb.com/title/tt0318462/,7.9,69618,7560,2004,video.movie,29,38,90,506,290,2,3523.00000,2838.00000,685,6361
+titles02/index.html.1352,tt0319061,Big Fish - Der Zauber\, der ein Leben zur Legende macht (2003),big fish der zauber der ein leben zur legende macht,http://www.imdb.com/title/tt0319061/,8,295910,7500,2003,video.movie,0,33,73,500,783,3,3105.66667,2333.50342,1009,6361
+titles02/index.html.2261,tt0327056,Mystic River (2003),mystic river,http://www.imdb.com/title/tt0327056/,8,274771,8280,2003,video.movie,61,68,45,1037,902,3,3196.00000,2261.05418,1219,6361
+titles02/index.html.1702,tt0328107,Mann unter Feuer (2004),mann unter feuer,http://www.imdb.com/title/tt0328107/,7.8,205401,8760,2004,video.movie,1,6,47,530,664,3,3511.00000,2016.33926,2005,6361
+titles02/index.html.3838,tt0332280,Wie ein einziger Tag (2004),wie ein einziger tag,http://www.imdb.com/title/tt0332280/,8,285391,7380,2004,video.movie,11,7,52,1440,1065,2,4168.50000,2192.50000,1976,6361
+titles02/index.html.4010,tt0335266,Lost in Translation - Zwischen den Welten (2003),lost in translation zwischen den welten,http://www.imdb.com/title/tt0335266/,7.8,255643,6060,2003,video.movie,86,63,79,1310,1805,1,6361.00000,0.00000,6361,6361
+titles01/tt0338564,tt0338564,Infernal Affairs - Die achte Hölle (2002),infernal affairs die achte h lle,http://www.imdb.com/title/tt0338564/,8.2,68704,6060,2002,video.movie,23,20,15,358,171,3,1744.00000,371.23308,1219,2008
+titles01/tt0347149,tt0347149,Das wandelnde Schloss (2004),das wandelnde schloss,http://www.imdb.com/title/tt0347149/,8.2,136207,7140,2004,video.movie,9,14,35,153,298,3,1306.33333,458.42944,900,1947
+titles02/index.html.3104,tt0350258,Ray (2004),ray,http://www.imdb.com/title/tt0350258/,7.8,86302,9120,2004,video.movie,44,40,49,1123,417,3,2503.00000,2729.52304,463,6361
+titles02/index.html.4828,tt0361862,Der Maschinist (2004),der maschinist,http://www.imdb.com/title/tt0361862/,7.8,212173,6060,2004,video.movie,10,10,34,649,427,2,4183.00000,2178.00000,2005,6361
+titles02/index.html.5874,tt0372183,Die Bourne Verschwörung (2004),die bourne verschw rung,http://www.imdb.com/title/tt0372183/,7.8,252844,6480,2004,video.movie,5,19,108,737,777,3,2060.00000,75.67034,2005,2167
+titles03/index.html.3876,tt0375679,L.A. Crash (2004),l a crash,http://www.imdb.com/title/tt0375679/,7.9,307104,6720,2004,video.movie,52,74,125,666,1592,1,6361.00000,0.00000,6361,6361
+titles02/index.html.5222,tt0378194,Kill Bill: Vol. 2 (2004),kill bill vol,http://www.imdb.com/title/tt0378194/,8,383562,8220,2004,video.movie,12,39,133,203,901,3,2060.00000,75.67034,2005,2167
+titles01/tt0381681,tt0381681,Before Sunset (2004),before sunset,http://www.imdb.com/title/tt0381681/,8.1,113580,4800,2004,video.movie,8,12,34,719,467,2,4168.50000,2192.50000,1976,6361
+titles01/tt0395169,tt0395169,Hotel Ruanda (2004),hotel ruanda,http://www.imdb.com/title/tt0395169/,8.2,195628,7260,2004,video.movie,14,34,27,461,582,3,2563.00000,2685.64629,643,6361
+titles01/tt0405159,tt0405159,Million Dollar Baby (2004),million dollar baby,http://www.imdb.com/title/tt0405159/,8.1,334315,7920,2004,video.movie,58,34,48,1457,1068,2,3309.00000,3052.00000,257,6361
+titles02/index.html.2713,tt0088846,Brazil (1985),brazil,http://www.imdb.com/title/tt0088846/,8,125037,7920,1985,video.movie,10,1,42,613,490,2,3685.00000,2676.00000,1009,6361
+titles03/index.html.1827,tt0088847,Der Frühstücksclub (1985),der fr hst cksclub,http://www.imdb.com/title/tt0088847/,7.9,187444,5820,1985,video.movie,0,0,39,1105,642,2,5496.00000,865.00000,4631,6361
+titles03/index.html.1840,tt0089218,Die Goonies (1985),die goonies,http://www.imdb.com/title/tt0089218/,7.8,134177,6840,1985,video.movie,2,5,51,628,378,3,2550.00000,1514.22742,1072,4631
+titles02/index.html.1020,tt0090756,Blue Velvet (1986),blue velvet,http://www.imdb.com/title/tt0090756/,7.8,100580,7200,1986,video.movie,22,11,64,867,653,3,1744.00000,371.23308,1219,2008
+titles03/index.html.1894,tt0091042,Ferris macht blau (1986),ferris macht blau,http://www.imdb.com/title/tt0091042/,7.9,189910,6180,1986,video.movie,0,0,121,484,428,2,5496.00000,865.00000,4631,6361
+titles02/index.html.1358,tt0091605,Der Name der Rose (1986),der name der rose,http://www.imdb.com/title/tt0091605/,7.8,66690,7800,1986,video.movie,13,5,21,76,140,3,3195.00000,2261.57998,1219,6361
+titles01/tt0091763,tt0091763,Platoon (1986),platoon,http://www.imdb.com/title/tt0091763/,8.2,217699,7200,1986,video.movie,22,10,47,467,476,3,3087.33333,2387.61280,734,6361
+titles01/tt0092005,tt0092005,Stand by Me - Das Geheimnis eines Sommers (1986),stand by me das geheimnis eines sommers,http://www.imdb.com/title/tt0092005/,8.2,198139,5340,1986,video.movie,3,10,60,903,536,2,4154.00000,2207.00000,1947,6361
+titles01/tt0092067,tt0092067,Das Schloss im Himmel (1986),das schloss im himmel,http://www.imdb.com/title/tt0092067/,8.1,61387,7440,1986,video.movie,1,0,20,132,152,3,1671.33333,552.76055,900,2167
+titles02/index.html.3247,tt0092965,Das Reich der Sonne (1987),das reich der sonne,http://www.imdb.com/title/tt0092965/,7.8,70281,9120,1987,video.movie,12,7,27,284,277,3,2579.33333,2674.30020,643,6361
+titles02/index.html.2629,tt0093773,Predator (1987),predator,http://www.imdb.com/title/tt0093773/,7.9,223333,6420,1987,video.movie,3,4,63,886,572,2,2057.00000,110.00000,1947,2167
+titles01/tt0093779,tt0093779,Die Braut des Prinzen (1987),die braut des prinzen,http://www.imdb.com/title/tt0093779/,8.2,222749,5880,1987,video.movie,5,8,71,958,662,3,2550.00000,1514.22742,1072,4631
+titles03/index.html.2003,tt0094226,Die Unbestechlichen (1987),die unbestechlichen,http://www.imdb.com/title/tt0094226/,8,178711,7140,1987,video.movie,13,11,43,376,392,3,3004.00000,2438.29079,643,6361
+titles03/index.html.2010,tt0094625,Akira (1988),akira,http://www.imdb.com/title/tt0094625/,8.1,74761,7440,1988,video.movie,1,0,36,121,392,1,900.00000,0.00000,900,900
+titles02/index.html.2425,tt0095953,Rain Man (1988),rain man,http://www.imdb.com/title/tt0095953/,8,308453,7980,1988,video.movie,21,19,50,730,287,1,6361.00000,0.00000,6361,6361
+titles02/index.html.3212,tt0096874,Zurück in die Zukunft II (1989),zur ck in die zukunft ii,http://www.imdb.com/title/tt0096874/,7.8,220135,6480,1989,video.movie,8,5,55,221,275,2,3289.00000,1342.00000,1947,4631
+titles02/index.html.4430,tt0097165,Der Club der toten Dichter (1989),der club der toten dichter,http://www.imdb.com/title/tt0097165/,8,204703,7680,1989,video.movie,14,17,32,276,425,1,6361.00000,0.00000,6361,6361
+titles02/index.html.1896,tt0097441,Glory (1989),glory,http://www.imdb.com/title/tt0097441/,8,87681,7320,1989,video.movie,13,12,58,231,332,3,2579.33333,2674.30020,643,6361
+titles02/index.html.1952,tt0099348,Der mit dem Wolf tanzt (1990),der mit dem wolf tanzt,http://www.imdb.com/title/tt0099348/,8,143286,10860,1990,video.movie,34,28,68,817,351,3,3428.00000,2073.97798,1947,6361
+titles02/index.html.565,tt0099487,Edward mit den Scherenhänden (1990),edward mit den scherenh nden,http://www.imdb.com/title/tt0099487/,8,273708,6300,1990,video.movie,7,10,71,1184,543,3,3115.33333,2328.73876,1009,6361
+titles02/index.html.2205,tt0100150,Miller's Crossing (1990),miller s crossing,http://www.imdb.com/title/tt0100150/,7.9,85503,6900,1990,video.movie,5,2,15,111,279,3,3458.00000,2052.73135,2005,6361
+titles02/index.html.2396,tt0100157,Misery (1990),misery,http://www.imdb.com/title/tt0100157/,7.8,103810,6420,1990,video.movie,3,6,27,399,285,1,2005.00000,0.00000,2005,2005
+titles02/index.html.5507,tt0101410,Barton Fink (1991),barton fink,http://www.imdb.com/title/tt0101410/,7.8,69356,6960,1991,video.movie,14,8,21,259,206,2,3790.00000,2571.00000,1219,6361
+titles01/tt0101414,tt0101414,Die Schöne und das Biest (1991),die sch ne und das biest,http://www.imdb.com/title/tt0101414/,8.1,208331,5040,1991,video.movie,21,19,81,3057,310,3,993.66667,71.05084,900,1072
+titles02/index.html.2035,tt0101507,Boyz n the Hood - Jungs im Viertel (1991),boyz n the hood jungs im viertel,http://www.imdb.com/title/tt0101507/,7.8,71979,6720,1991,video.movie,10,9,35,302,167,2,4184.50000,2176.50000,2008,6361
+titles02/index.html.286,tt0103639,Aladdin (1992),aladdin,http://www.imdb.com/title/tt0103639/,8,176939,5400,1992,video.movie,24,15,34,337,212,3,2492.66667,1571.28490,900,4631
+titles02/index.html.2427,tt0105323,Der Duft der Frauen (1992),der duft der frauen,http://www.imdb.com/title/tt0105323/,7.9,151964,9420,1992,video.movie,6,9,44,160,287,1,6361.00000,0.00000,6361,6361
+titles02/index.html.2038,tt0106489,In den Straßen der Bronx (1993),in den stra en der bronx,http://www.imdb.com/title/tt0106489/,7.8,78459,7260,1993,video.movie,1,2,31,86,176,2,4184.50000,2176.50000,2008,6361
+titles02/index.html.2203,tt0106519,Carlito's Way (1993),carlito s way,http://www.imdb.com/title/tt0106519/,7.9,132330,8640,1993,video.movie,1,2,55,114,263,2,4184.50000,2176.50000,2008,6361
+titles03/index.html.2323,tt0106977,Auf der Flucht (1993),auf der flucht,http://www.imdb.com/title/tt0106977/,7.8,177341,7800,1993,video.movie,12,23,56,418,252,3,2040.66667,92.73738,1947,2167
+titles01/tt0107048,tt0107048,...und täglich grüßt das Murmeltier (1993),und t glich gr t das murmeltier,http://www.imdb.com/title/tt0107048/,8.1,309177,6060,1993,video.movie,6,7,55,1237,542,3,4000.33333,2229.98974,1009,6361
+titles01/tt0107207,tt0107207,Im Namen des Vaters (1993),im namen des vaters,http://www.imdb.com/title/tt0107207/,8.2,74591,7980,1993,video.movie,9,15,25,318,139,3,3017.00000,2425.19443,685,6361
+titles02/index.html.3215,tt0107290,Jurassic Park (1993),jurassic park,http://www.imdb.com/title/tt0107290/,8,374251,7620,1993,video.movie,21,16,108,4712,767,1,1947.00000,0.00000,1947,1947
+titles02/index.html.3616,tt0107688,Nightmare Before Christmas (1993),nightmare before christmas,http://www.imdb.com/title/tt0107688/,8.1,174723,4560,1993,video.movie,5,6,61,1002,400,3,993.66667,71.05084,900,1072
+titles02/index.html.1450,tt0108358,Tombstone (1993),tombstone,http://www.imdb.com/title/tt0108358/,7.9,75804,7800,1993,video.movie,0,0,50,294,423,3,3057.00000,2417.70635,643,6361
+titles02/index.html.1422,tt0108399,True Romance (1993),true romance,http://www.imdb.com/title/tt0108399/,8,130834,7200,1993,video.movie,1,6,39,921,424,2,2006.50000,1.50000,2005,2008
+titles02/index.html.3835,tt0108550,Gilbert Grape - Irgendwo in Iowa (1993),gilbert grape irgendwo in iowa,http://www.imdb.com/title/tt0108550/,7.8,133918,7080,1993,video.movie,7,1,22,160,266,1,6361.00000,0.00000,6361,6361
+titles02/index.html.2678,tt0109445,Clerks - Die Ladenhüter (1994),clerks die ladenh ter,http://www.imdb.com/title/tt0109445/,7.9,153057,5520,1994,video.movie,4,6,26,1066,604,1,4631.00000,0.00000,4631,4631
+titles01/tt0072684,tt0072684,Barry Lyndon (1975),barry lyndon,http://www.imdb.com/title/tt0072684/,8.1,74677,11040,1975,video.movie,15,11,34,253,341,1,6361.00000,0.00000,6361,6361
+titles01/tt0072890,tt0072890,Hundstage (1975),hundstage,http://www.imdb.com/title/tt0072890/,8.1,137696,7500,1975,video.movie,13,17,35,438,228,2,4184.50000,2176.50000,2008,6361
+titles01/tt0073195,tt0073195,Der weiße Hai (1975),der wei e hai,http://www.imdb.com/title/tt0073195/,8.1,290528,7440,1975,video.movie,9,14,95,1497,880,3,1552.00000,600.09388,704,2005
+titles01/tt0074958,tt0074958,Network (1976),network,http://www.imdb.com/title/tt0074958/,8.2,75434,7260,1976,video.movie,22,19,49,366,295,1,6361.00000,0.00000,6361,6361
+titles01/tt0075148,tt0075148,Rocky (1976),rocky,http://www.imdb.com/title/tt0075148/,8.1,243942,7140,1976,video.movie,17,20,105,1161,479,2,3309.00000,3052.00000,257,6361
+titles01/tt0075686,tt0075686,Der Stadtneurotiker (1977),der stadtneurotiker,http://www.imdb.com/title/tt0075686/,8.2,138617,5580,1977,video.movie,26,7,41,37,408,2,3303.50000,1327.50000,1976,4631
+titles01/tt0077416,tt0077416,Die durch die Hölle gehen (1978),die durch die h lle gehen,http://www.imdb.com/title/tt0077416/,8.2,174642,10920,1978,video.movie,21,17,39,488,949,2,3547.50000,2813.50000,734,6361
+titles03/index.html.1527,tt0077651,Halloween - Die Nacht des Grauens (1978),halloween die nacht des grauens,http://www.imdb.com/title/tt0077651/,7.9,122719,5460,1978,video.movie,3,3,61,1667,1131,1,704.00000,0.00000,704,704
+titles02/index.html.2429,tt0079417,Kramer gegen Kramer (1979),kramer gegen kramer,http://www.imdb.com/title/tt0079417/,7.8,74105,6300,1979,video.movie,38,17,33,311,157,1,6361.00000,0.00000,6361,6361
+titles01/tt0079470,tt0079470,Das Leben des Brian (1979),das leben des brian,http://www.imdb.com/title/tt0079470/,8.2,198548,5640,1979,video.movie,0,0,46,275,298,1,4631.00000,0.00000,4631,4631
+titles02/index.html.123,tt0079522,Manhattan (1979),manhattan,http://www.imdb.com/title/tt0079522/,8,83078,5760,1979,video.movie,19,14,43,35,216,3,4322.66667,1803.39649,1976,6361
+titles03/index.html.1588,tt0080455,Blues Brothers (1980),blues brothers,http://www.imdb.com/title/tt0080455/,8,111252,7980,1980,video.movie,1,0,59,497,300,3,2405.66667,1727.80349,419,4631
+titles02/index.html.2717,tt0083866,E.T. - Der Außerirdische (1982),e t der au erirdische,http://www.imdb.com/title/tt0083866/,7.9,218383,6900,1982,video.movie,47,28,114,1194,468,3,1342.66667,428.10149,1009,1947
+titles01/tt0083987,tt0083987,Gandhi (1982),gandhi,http://www.imdb.com/title/tt0083987/,8.1,121887,11460,1982,video.movie,30,16,108,304,222,3,2563.00000,2685.64629,643,6361
+titles03/index.html.1700,tt0084726,Star Trek II: Der Zorn des Khan (1982),star trek ii der zorn des khan,http://www.imdb.com/title/tt0084726/,7.8,75665,6780,1982,video.movie,2,8,132,311,326,3,3491.66667,2030.91200,1947,6361
+titles01/tt0084787,tt0084787,Das Ding aus einer anderen Welt (1982),das ding aus einer anderen welt,http://www.imdb.com/title/tt0084787/,8.2,188733,6540,1982,video.movie,0,0,40,1702,849,2,961.50000,257.50000,704,1219
+titles01/tt0085334,tt0085334,Fröhliche Weihnachten (1983),fr hliche weihnachten,http://www.imdb.com/title/tt0085334/,8.1,85811,5640,1983,video.movie,3,11,27,621,431,2,2851.50000,1779.50000,1072,4631
+titles02/index.html.6476,tt0087332,Ghostbusters - Die Geisterjäger (1984),ghostbusters die geisterj ger,http://www.imdb.com/title/tt0087332/,7.8,194573,6300,1984,video.movie,4,6,76,2233,399,2,2820.00000,1811.00000,1009,4631
+titles01/tt0087544,tt0087544,Nausicaä - Prinzessin aus dem Tal der Winde (1984),nausica prinzessin aus dem tal der winde,http://www.imdb.com/title/tt0087544/,8.2,60197,7020,1984,video.movie,3,0,11,41,161,3,1671.33333,552.76055,900,2167
+titles01/tt0088247,tt0088247,Terminator (1984),terminator,http://www.imdb.com/title/tt0088247/,8.1,413108,6420,1984,video.movie,5,6,67,3869,602,1,2167.00000,0.00000,2167,2167
+titles03/index.html.1816,tt0088258,This Is Spinal Tap (1984),this is spinal tap,http://www.imdb.com/title/tt0088258/,8,87979,4920,1984,video.movie,3,2,86,424,311,2,2547.00000,2084.00000,463,4631
+titles03/index.html.1074,tt0059742,Meine Lieder\, meine Träume (1965),meine lieder meine tr ume,http://www.imdb.com/title/tt0059742/,8,110848,10440,1965,video.movie,12,12,90,1072,377,3,2706.00000,2589.29991,685,6361
+titles03/index.html.1120,tt0061418,Bonnie und Clyde (1967),bonnie und clyde,http://www.imdb.com/title/tt0061418/,7.9,66777,6660,1967,video.movie,20,22,61,877,293,3,3018.00000,2424.77752,685,6361
+titles01/tt0061512,tt0061512,Der Unbeugsame (1967),der unbeugsame,http://www.imdb.com/title/tt0061512/,8.2,90643,7560,1967,video.movie,5,6,42,229,249,2,4184.50000,2176.50000,2008,6361
+titles01/tt0061722,tt0061722,Die Reifeprüfung (1967),die reifepr fung,http://www.imdb.com/title/tt0061722/,8.1,161502,6360,1967,video.movie,20,13,94,329,573,3,4322.66667,1803.39649,1976,6361
+titles03/index.html.1175,tt0063350,Die Nacht der lebenden Toten (1968),die nacht der lebenden toten,http://www.imdb.com/title/tt0063350/,8,70240,5760,1968,video.movie,1,0,94,1679,563,1,704.00000,0.00000,704,704
+titles02/index.html.2088,tt0063442,Planet der Affen (1968),planet der affen,http://www.imdb.com/title/tt0063442/,8,110247,6720,1968,video.movie,5,0,138,151,363,2,1583.00000,364.00000,1219,1947
+titles03/index.html.1182,tt0063522,Rosemaries Baby (1968),rosemaries baby,http://www.imdb.com/title/tt0063522/,8,111543,8160,1968,video.movie,11,9,68,871,398,3,2761.33333,2554.01727,704,6361
+titles01/tt0064115,tt0064115,Butch Cassidy und Sundance Kid (1969),butch cassidy und sundance kid,http://www.imdb.com/title/tt0064115/,8.2,111087,6600,1969,video.movie,18,12,51,508,281,3,1546.66667,609.79906,685,2008
+titles02/index.html.2458,tt0064665,Asphalt-Cowboy (1969),asphalt cowboy,http://www.imdb.com/title/tt0064665/,8,61871,6780,1969,video.movie,26,12,42,392,305,1,6361.00000,0.00000,6361,6361
+titles02/index.html.5169,tt0066206,Patton - Rebell in Uniform (1970),patton rebell in uniform,http://www.imdb.com/title/tt0066206/,8.1,63496,10320,1970,video.movie,18,7,63,106,224,3,2563.00000,2685.64629,643,6361
+titles02/index.html.3444,tt0066999,Dirty Harry (1971),dirty harry,http://www.imdb.com/title/tt0066999/,7.8,94697,6120,1971,video.movie,1,1,114,524,269,3,2060.00000,75.67034,2005,2167
+titles03/index.html.1287,tt0067116,French Connection - Brennpunkt Brooklyn (1971),french connection brennpunkt brooklyn,http://www.imdb.com/title/tt0067116/,7.8,62603,6240,1971,video.movie,18,8,42,580,257,3,2060.00000,75.67034,2005,2167
+titles02/index.html.284,tt0067992,Charlie und die Schokoladenfabrik (1971),charlie und die schokoladenfabrik,http://www.imdb.com/title/tt0067992/,7.8,93291,6000,1971,video.movie,0,1,64,14,330,2,714.00000,295.00000,419,1009
+titles03/index.html.1325,tt0068473,Beim Sterben ist jeder der Erste (1972),beim sterben ist jeder der erste,http://www.imdb.com/title/tt0068473/,7.8,64436,6600,1972,video.movie,2,10,47,191,316,3,3437.66667,2067.24444,1947,6361
+titles02/index.html.4850,tt0070047,Der Exorzist (1973),der exorzist,http://www.imdb.com/title/tt0070047/,8,229899,7320,1973,video.movie,13,14,106,1116,987,1,704.00000,0.00000,704,704
+titles02/index.html.4061,tt0070511,Papillon (1973),papillon,http://www.imdb.com/title/tt0070511/,8.1,67782,9060,1973,video.movie,2,1,30,40,148,3,3018.00000,2424.77752,685,6361
+titles03/index.html.1388,tt0071230,Der wilde wilde Westen (1974),der wilde wilde westen,http://www.imdb.com/title/tt0071230/,7.8,74528,5580,1974,video.movie,2,2,41,516,338,2,2507.50000,2123.50000,384,4631
+titles03/index.html.1392,tt0071360,Der Dialog (1974),der dialog,http://www.imdb.com/title/tt0071360/,8,60195,6780,1974,video.movie,14,11,22,259,283,3,3195.00000,2261.57998,1219,6361
+titles03/index.html.1414,tt0072431,Frankenstein Junior (1974),frankenstein junior,http://www.imdb.com/title/tt0072431/,8.1,92629,6360,1974,video.movie,10,4,41,383,296,1,4631.00000,0.00000,4631,4631
+titles01/tt0052618,tt0052618,Ben Hur (1959),ben hur,http://www.imdb.com/title/tt0052618/,8.2,115402,12720,1959,video.movie,20,5,79,193,340,2,4154.00000,2207.00000,1947,6361
+titles02/index.html.1444,tt0054331,Spartacus (1960),spartacus,http://www.imdb.com/title/tt0054331/,8,81588,11820,1960,video.movie,6,9,55,415,256,3,1599.66667,652.97337,685,2167
+titles02/index.html.122,tt0054698,Frühstück bei Tiffany (1961),fr hst ck bei tiffany,http://www.imdb.com/title/tt0054698/,7.8,90979,6900,1961,video.movie,13,8,97,410,315,3,4322.66667,1803.39649,1976,6361
+titles02/index.html.600,tt0056869,Die Vögel (1963),die v gel,http://www.imdb.com/title/tt0056869/,7.8,99771,7140,1963,video.movie,3,4,43,749,415,2,1354.50000,650.50000,704,2005
+titles02/index.html.2885,tt0058150,James Bond 007 - Goldfinger (1964),james bond goldfinger,http://www.imdb.com/title/tt0058150/,7.8,110130,6600,1964,video.movie,4,4,137,531,375,3,2040.66667,92.73738,1947,2167
+titles03/index.html.1026,tt0058331,Mary Poppins (1964),mary poppins,http://www.imdb.com/title/tt0058331/,7.8,76881,8340,1964,video.movie,15,12,67,1684,223,3,2237.33333,1692.77333,1009,4631
+titles01/tt0058461,tt0058461,Für eine Handvoll Dollar (1964),f r eine handvoll dollar,http://www.imdb.com/title/tt0058461/,8.1,92532,5940,1964,video.movie,1,1,71,206,215,1,384.00000,0.00000,384,384
+titles01/tt0040746,tt0040746,Cocktail für eine Leiche (1948),cocktail f r eine leiche,http://www.imdb.com/title/tt0040746/,8.1,72370,4800,1948,video.movie,0,0,42,199,283,3,3458.00000,2052.73135,2005,6361
+titles01/tt0044079,tt0044079,Der Fremde im Zug (1951),der fremde im zug,http://www.imdb.com/title/tt0044079/,8.1,69387,5520,1951,video.movie,1,1,42,326,245,2,2006.50000,1.50000,2005,2008
+titles02/index.html.2003,tt0044081,Endstation Sehnsucht (1951),endstation sehnsucht,http://www.imdb.com/title/tt0044081/,8.1,64151,7320,1951,video.movie,13,14,41,556,215,1,6361.00000,0.00000,6361,6361
+titles01/tt0044706,tt0044706,Zwölf Uhr mittags (1952),zw lf uhr mittags,http://www.imdb.com/title/tt0044706/,8.2,60817,5100,1952,video.movie,12,10,48,361,309,2,3372.50000,2988.50000,384,6361
+titles01/tt0046250,tt0046250,Ein Herz und eine Krone (1953),ein herz und eine krone,http://www.imdb.com/title/tt0046250/,8.1,69739,7080,1953,video.movie,7,14,50,136,193,3,4322.66667,1803.39649,1976,6361
+titles01/tt0046912,tt0046912,Bei Anruf Mord (1954),bei anruf mord,http://www.imdb.com/title/tt0046912/,8.2,72579,6300,1954,video.movie,3,2,51,232,223,2,2006.50000,1.50000,2005,2008
+titles01/tt0031381,tt0031381,Vom Winde verweht (1939),vom winde verweht,http://www.imdb.com/title/tt0031381/,8.2,160414,14280,1939,video.movie,10,6,143,1263,653,3,3023.66667,2413.70895,734,6361
+titles01/tt0032138,tt0032138,Der Zauberer von Oz (1939),der zauberer von oz,http://www.imdb.com/title/tt0032138/,8.1,209506,6120,1939,video.movie,6,12,126,2363,477,3,1342.66667,428.10149,1009,1947
+titles01/tt0033870,tt0033870,Die Spur des Falken (1941),die spur des falken,http://www.imdb.com/title/tt0033870/,8.2,86012,6000,1941,video.movie,1,0,67,332,294,2,4184.50000,2176.50000,2008,6361
+titles02/index.html.2565,tt0121766,Star Wars: Episode III - Die Rache der Sith (2005),star wars episode iii die rache der sith,http://www.imdb.com/title/tt0121766/,7.7,363226,8400,2005,video.movie,14,29,371,1306,3187,3,1707.66667,502.12969,1009,2167
+titles03/index.html.3071,tt0200465,Bank Job (2008),bank job,http://www.imdb.com/title/tt0200465/,7.3,129274,6660,2008,video.movie,0,0,35,342,176,3,3458.00000,2052.73135,2005,6361
+titles02/index.html.4296,tt0292963,Tödliche Entscheidung (2007),t dliche entscheidung,http://www.imdb.com/title/tt0292963/,7.3,71092,7020,2007,video.movie,15,13,36,157,274,3,3458.00000,2052.73135,2005,6361
+titles02/index.html.5200,tt0312004,Wallace & Gromit - Auf der Jagd nach dem Riesenkaninchen (2005),wallace gromit auf der jagd nach dem riesenkaninchen,http://www.imdb.com/title/tt0312004/,7.6,78265,5100,2005,video.movie,33,20,35,179,298,3,2201.00000,1719.70366,900,4631
+titles02/index.html.3366,tt0327597,Coraline (2009),coraline,http://www.imdb.com/title/tt0327597/,7.7,109855,6000,2009,video.movie,8,24,72,1267,258,3,1304.66667,497.20575,900,2005
+titles02/index.html.6471,tt0330373,Harry Potter und der Feuerkelch (2005),harry potter und der feuerkelch,http://www.imdb.com/title/tt0330373/,7.6,283236,9420,2005,video.movie,10,34,141,1231,1870,3,1342.66667,428.10149,1009,1947
+titles02/index.html.3441,tt0337978,Stirb langsam 4.0 (2007),stirb langsam,http://www.imdb.com/title/tt0337978/,7.3,277675,7680,2007,video.movie,3,14,44,1259,760,3,2060.00000,75.67034,2005,2167
+titles02/index.html.6789,tt0359950,Das erstaunliche Leben des Walter Mitty (2013),das erstaunliche leben des walter mitty,http://www.imdb.com/title/tt0359950/,7.5,80326,6840,2013,video.movie,3,7,57,688,297,3,4313.00000,1815.98311,1947,6361
+titles03/index.html.3768,tt0360717,King Kong (2005),king kong,http://www.imdb.com/title/tt0360717/,7.3,256609,11220,2005,video.movie,24,51,154,1587,2594,3,3491.66667,2030.91200,1947,6361
+titles03/index.html.3858,tt0373469,Kiss Kiss Bang Bang (2005),kiss kiss bang bang,http://www.imdb.com/title/tt0373469/,7.7,143667,6180,2005,video.movie,4,12,120,913,323,3,2935.33333,1200.77318,2008,4631
+titles02/index.html.6474,tt0373889,Harry Potter und der Orden des Phönix (2007),harry potter und der orden des ph nix,http://www.imdb.com/title/tt0373889/,7.4,260789,8280,2007,video.movie,13,32,168,1485,1097,3,1342.66667,428.10149,1009,1947
+titles03/index.html.3901,tt0379725,Capote (2005),capote,http://www.imdb.com/title/tt0379725/,7.4,77077,6840,2005,video.movie,57,46,54,1015,396,3,3018.00000,2424.77752,685,6361
+titles02/index.html.4628,tt0383574,Pirates of the Caribbean - Fluch der Karibik 2 (2006),pirates of the caribbean fluch der karibik,http://www.imdb.com/title/tt0383574/,7.3,382541,9060,2006,video.movie,33,37,253,525,1822,3,1707.66667,502.12969,1009,2167
+titles03/index.html.3934,tt0385002,Green Street Hooligans (2005),green street hooligans,http://www.imdb.com/title/tt0385002/,7.6,92562,6540,2005,video.movie,3,0,21,153,367,3,2875.33333,2566.30790,257,6361
+titles02/index.html.1472,tt0387131,Der ewige Gärtner (2005),der ewige g rtner,http://www.imdb.com/title/tt0387131/,7.5,92479,7740,2005,video.movie,23,45,44,617,557,3,3195.00000,2261.57998,1219,6361
+titles02/index.html.1755,tt0393109,Brick (2005),brick,http://www.imdb.com/title/tt0393109/,7.5,71942,6600,2005,video.movie,10,14,49,1042,398,2,3790.00000,2571.00000,1219,6361
+titles02/index.html.2516,tt0396171,Das Parfum - Die Geschichte eines Mörders (2006),das parfum die geschichte eines m rders,http://www.imdb.com/title/tt0396171/,7.5,149899,8820,2006,video.movie,12,13,46,183,455,3,3126.00000,2323.56321,1009,6361
+titles02/index.html.3841,tt0397535,Die Geisha (2005),die geisha,http://www.imdb.com/title/tt0397535/,7.3,99918,8700,2005,video.movie,23,30,145,490,541,2,4168.50000,2192.50000,1976,6361
+titles02/index.html.1701,tt0399146,A History of Violence (2005),a history of violence,http://www.imdb.com/title/tt0399146/,7.5,154987,5760,2005,video.movie,35,34,24,919,1100,3,3458.00000,2052.73135,2005,6361
+titles02/index.html.3082,tt0399295,Lord of War - Händler des Todes (2005),lord of war h ndler des todes,http://www.imdb.com/title/tt0399295/,7.6,205448,7320,2005,video.movie,1,1,35,294,423,3,3458.00000,2052.73135,2005,6361
+titles02/index.html.4005,tt0404203,Little Children (2006),little children,http://www.imdb.com/title/tt0404203/,7.6,80114,8160,2006,video.movie,12,30,35,545,307,1,6361.00000,0.00000,6361,6361
+titles02/index.html.6835,tt0404390,Running Scared (2006),running scared,http://www.imdb.com/title/tt0404390/,7.5,78275,7320,2006,video.movie,0,0,18,249,411,3,3512.00000,2015.59272,2008,6361
+titles03/index.html.4061,tt0408306,München (2005),m nchen,http://www.imdb.com/title/tt0408306/,7.7,148550,9840,2005,video.movie,16,24,30,764,802,3,3003.00000,2438.69965,643,6361
+titles02/index.html.6667,tt0409459,Watchmen: Die Wächter (2009),watchmen die w chter,http://www.imdb.com/title/tt0409459/,7.6,300438,9720,2009,video.movie,5,11,213,5773,1181,3,3249.00000,2234.29094,1219,6361
+titles02/index.html.5335,tt0414993,The Fountain (2006),the fountain,http://www.imdb.com/title/tt0414993/,7.4,155078,5760,2006,video.movie,6,16,78,833,871,2,4168.50000,2192.50000,1976,6361
+titles03/index.html.4103,tt0416320,Match Point (2005),match point,http://www.imdb.com/title/tt0416320/,7.7,128918,7440,2005,video.movie,8,14,67,513,725,2,4168.50000,2192.50000,1976,6361
+titles02/index.html.6472,tt0417741,Harry Potter und der Halbblutprinz (2009),harry potter und der halbblutprinz,http://www.imdb.com/title/tt0417741/,7.4,229420,9180,2009,video.movie,7,25,175,2539,954,3,1342.66667,428.10149,1009,1947
+titles02/index.html.3750,tt0420223,Schräger als Fiktion (2006),schr ger als fiktion,http://www.imdb.com/title/tt0420223/,7.7,158513,6780,2006,video.movie,3,11,50,445,511,3,4000.33333,2229.98974,1009,6361
+titles03/index.html.4149,tt0424345,Clerks II (2006),clerks ii,http://www.imdb.com/title/tt0424345/,7.5,99088,5820,2006,video.movie,2,1,45,213,463,1,4631.00000,0.00000,4631,4631
+titles02/index.html.1806,tt0427944,Thank You for Smoking (2005),thank you for smoking,http://www.imdb.com/title/tt0427944/,7.7,166413,5520,2005,video.movie,10,18,85,500,312,2,5496.00000,865.00000,4631,6361
+titles02/index.html.1668,tt0433383,Good Night\, and Good Luck. (2005),good night and good luck,http://www.imdb.com/title/tt0433383/,7.6,74242,5580,2005,video.movie,43,65,36,107,511,2,3502.00000,2859.00000,643,6361
+titles02/index.html.5261,tt0436697,Die Queen (2006),die queen,http://www.imdb.com/title/tt0436697/,7.4,69192,6180,2006,video.movie,64,59,47,1796,404,2,3523.00000,2838.00000,685,6361
+titles02/index.html.4380,tt0441909,Volver (2006),volver,http://www.imdb.com/title/tt0441909/,7.6,62414,7260,2006,video.movie,55,53,64,368,222,3,4333.33333,1789.52626,2008,6361
+titles02/index.html.1721,tt0443272,Lincoln (2012),lincoln,http://www.imdb.com/title/tt0443272/,7.5,146016,9000,2012,video.movie,63,115,70,74,638,3,2563.00000,2685.64629,643,6361
+titles02/index.html.1471,tt0443543,The Illusionist - Nichts ist wie es scheint (2006),the illusionist nichts ist wie es scheint,http://www.imdb.com/title/tt0443543/,7.6,225695,6600,2006,video.movie,6,8,61,587,624,3,3185.33333,2266.70191,1219,6361
+titles03/index.html.4237,tt0443706,Zodiac - Die Spur des Killers (2007),zodiac die spur des killers,http://www.imdb.com/title/tt0443706/,7.7,206885,9420,2007,video.movie,0,0,91,1356,546,3,3196.00000,2261.05418,1219,6361
+titles02/index.html.5402,tt0446029,Scott Pilgrim gegen den Rest der Welt (2010),scott pilgrim gegen den rest der welt,http://www.imdb.com/title/tt0446029/,7.5,200784,6720,2010,video.movie,6,22,123,3864,487,3,2602.33333,1510.37685,1009,4631
+titles02/index.html.3839,tt0446755,The Painted Veil (2006),the painted veil,http://www.imdb.com/title/tt0446755/,7.5,64680,7500,2006,video.movie,7,3,50,250,209,2,4168.50000,2192.50000,1976,6361
+titles02/index.html.2628,tt0448134,Sunshine (2007),sunshine,http://www.imdb.com/title/tt0448134/,7.3,146791,6420,2007,video.movie,1,10,37,683,742,2,1976.00000,29.00000,1947,2005
+titles02/index.html.4949,tt0449467,Babel (2006),babel,http://www.imdb.com/title/tt0449467/,7.5,200442,8580,2006,video.movie,39,86,137,778,896,1,6361.00000,0.00000,6361,6361
+titles02/index.html.1357,tt0452623,Gone Baby gone - Kein Kinderspiel (2007),gone baby gone kein kinderspiel,http://www.imdb.com/title/tt0452623/,7.7,148683,6840,2007,video.movie,23,12,55,1266,427,3,3196.00000,2261.05418,1219,6361
+titles02/index.html.3080,tt0454848,Inside Man (2006),inside man,http://www.imdb.com/title/tt0454848/,7.7,217824,7740,2006,video.movie,5,8,55,456,627,3,3458.00000,2052.73135,2005,6361
+titles03/index.html.4348,tt0462504,Rescue Dawn (2006),rescue dawn,http://www.imdb.com/title/tt0462504/,7.4,69790,7560,2006,video.movie,1,4,59,204,189,3,2997.66667,2433.40219,685,6361
+titles03/index.html.4349,tt0462538,Die Simpsons: Der Film (2007),die simpsons der film,http://www.imdb.com/title/tt0462538/,7.4,206379,5220,2007,video.movie,5,20,70,300,737,3,2492.66667,1571.28490,900,4631
+titles02/index.html.4827,tt0464141,Das Waisenhaus (2007),das waisenhaus,http://www.imdb.com/title/tt0464141/,7.5,97825,6300,2007,video.movie,33,34,22,796,292,3,3195.00000,2261.57998,1219,6361
+titles02/index.html.1363,tt0465538,Michael Clayton (2007),michael clayton,http://www.imdb.com/title/tt0465538/,7.3,113526,7140,2007,video.movie,19,60,53,798,352,3,3196.00000,2261.05418,1219,6361
+titles02/index.html.6220,tt0467406,Juno (2007),juno,http://www.imdb.com/title/tt0467406/,7.6,323252,5760,2007,video.movie,63,44,49,3202,854,3,4322.66667,1803.39649,1976,6361
+titles02/index.html.3165,tt0480025,This Is England (2006),this is england,http://www.imdb.com/title/tt0480025/,7.7,81928,6060,2006,video.movie,12,13,11,320,175,2,4184.50000,2176.50000,2008,6361
+titles02/index.html.5198,tt0481499,Die Croods (2013),die croods,http://www.imdb.com/title/tt0481499/,7.3,90161,5880,2013,video.movie,5,24,42,1113,167,3,2492.66667,1571.28490,900,4631
+titles02/index.html.2256,tt0765443,Tödliche Versprechen (2007),t dliche versprechen,http://www.imdb.com/title/tt0765443/,7.7,159004,6000,2007,video.movie,27,43,39,22,375,3,1744.00000,371.23308,1219,2008
+titles02/index.html.2568,tt0770828,Man of Steel (2013),man of steel,http://www.imdb.com/title/tt0770828/,7.4,359724,8580,2013,video.movie,4,16,137,15096,2238,3,1707.66667,502.12969,1009,2167
+titles02/index.html.4717,tt0780571,Mr. Brooks - Der Mörder in Dir (2007),mr brooks der m rder in dir,http://www.imdb.com/title/tt0780571/,7.4,103781,7200,2007,video.movie,0,0,70,262,323,3,3196.00000,2261.05418,1219,6361
+titles02/index.html.1532,tt0795368,Sterben für Anfänger (2007),sterben f r anf nger,http://www.imdb.com/title/tt0795368/,7.4,74812,5400,2007,video.movie,2,0,16,455,190,1,4631.00000,0.00000,4631,4631
+titles03/index.html.4851,tt0805564,Lars und die Frauen (2007),lars und die frauen,http://www.imdb.com/title/tt0805564/,7.4,95436,6360,2007,video.movie,8,16,21,712,284,2,5496.00000,865.00000,4631,6361
+titles03/index.html.4875,tt0814314,Sieben Leben (2008),sieben leben,http://www.imdb.com/title/tt0814314/,7.6,184079,7380,2008,video.movie,4,6,62,769,572,1,6361.00000,0.00000,6361,6361
+titles03/index.html.4906,tt0825232,Das Beste kommt zum Schluss (2007),das beste kommt zum schluss,http://www.imdb.com/title/tt0825232/,7.4,145833,5820,2007,video.movie,1,3,64,397,292,3,4313.00000,1815.98311,1947,6361
+titles02/index.html.2686,tt0829482,Superbad (2007),superbad,http://www.imdb.com/title/tt0829482/,7.7,327058,6780,2007,video.movie,7,14,79,2809,540,1,4631.00000,0.00000,4631,4631
+titles02/index.html.2210,tt0840361,The Town - Stadt ohne Gnade (2010),the town stadt ohne gnade,http://www.imdb.com/title/tt0840361/,7.6,222924,7500,2010,video.movie,9,24,48,3726,391,3,3458.00000,2052.73135,2005,6361
+titles02/index.html.2794,tt0878804,Blind Side - Die große Chance (2009),blind side die gro e chance,http://www.imdb.com/title/tt0878804/,7.7,154322,7740,2009,video.movie,7,22,38,3996,373,3,2434.33333,2782.06510,257,6361
+titles03/index.html.4994,tt0887912,Tödliches Kommando - The Hurt Locker (2008),t dliches kommando the hurt locker,http://www.imdb.com/title/tt0887912/,7.6,239554,7860,2008,video.movie,89,57,47,7127,823,3,3033.33333,2409.54827,734,6361
+titles03/index.html.5008,tt0898367,The Road (2009),the road,http://www.imdb.com/title/tt0898367/,7.3,138488,6660,2009,video.movie,2,15,41,2160,455,2,4154.00000,2207.00000,1947,6361
+titles02/index.html.1216,tt0918927,Glaubensfrage (2008),glaubensfrage,http://www.imdb.com/title/tt0918927/,7.5,80912,6240,2008,video.movie,19,44,73,1192,302,2,3790.00000,2571.00000,1219,6361
+titles02/index.html.6470,tt0926084,Harry Potter und die Heiligtümer des Todes - Teil 1 (2010),harry potter und die heiligt mer des todes teil,http://www.imdb.com/title/tt0926084/,7.7,234523,8760,2010,video.movie,10,39,213,2985,601,3,1342.66667,428.10149,1009,1947
+titles03/index.html.5042,tt0929632,Precious - Das Leben ist kostbar (2009),precious das leben ist kostbar,http://www.imdb.com/title/tt0929632/,7.4,65981,6600,2009,video.movie,79,49,102,2146,259,1,6361.00000,0.00000,6361,6361
+titles02/index.html.5138,tt0945513,Source Code (2011),source code,http://www.imdb.com/title/tt0945513/,7.5,270084,5580,2011,video.movie,1,3,84,2669,540,2,1612.00000,393.00000,1219,2005
+titles02/index.html.3845,tt0959337,Zeiten des Aufruhrs (2008),zeiten des aufruhrs,http://www.imdb.com/title/tt0959337/,7.4,122695,7140,2008,video.movie,8,26,64,2185,393,2,4168.50000,2192.50000,1976,6361
+titles03/index.html.5086,tt0970179,Hugo Cabret (2011),hugo cabret,http://www.imdb.com/title/tt0970179/,7.6,192078,7560,2011,video.movie,45,104,88,4508,614,3,3126.66667,2314.74841,1072,6361
+titles02/index.html.3836,tt0976051,Der Vorleser (2008),der vorleser,http://www.imdb.com/title/tt0976051/,7.6,149409,7440,2008,video.movie,16,33,36,1442,345,2,4168.50000,2192.50000,1976,6361
+titles03/index.html.5111,tt0983193,Die Abenteuer von Tim und Struppi - Das Geheimnis der Einhorn (2011),die abenteuer von tim und struppi das geheimnis der einhorn,http://www.imdb.com/title/tt0983193/,7.4,141469,6420,2011,video.movie,13,34,59,2373,427,3,1671.33333,552.76055,900,2167
+titles02/index.html.5877,tt0988045,Sherlock Holmes (2009),sherlock holmes,http://www.imdb.com/title/tt0988045/,7.6,346891,7680,2009,video.movie,9,20,63,9641,599,3,2040.66667,92.73738,1947,2167
+titles02/index.html.3786,tt1013753,Milk (2008),milk,http://www.imdb.com/title/tt1013753/,7.7,108949,7680,2008,video.movie,45,66,183,2848,266,3,2563.00000,2685.64629,643,6361
+titles03/index.html.5173,tt1023114,The Way Back (2010),the way back,http://www.imdb.com/title/tt1023114/,7.3,69391,7980,2010,video.movie,1,4,64,779,145,3,2983.66667,2446.75150,643,6361
+titles02/index.html.5227,tt1032755,RocknRolla (2008),rocknrolla,http://www.imdb.com/title/tt1032755/,7.3,154552,6840,2008,video.movie,2,4,81,1442,171,3,2060.00000,75.67034,2005,2167
+titles02/index.html.1813,tt1033575,The Descendants - Familie und andere Angelegenheiten (2011),the descendants familie und andere angelegenheiten,http://www.imdb.com/title/tt1033575/,7.4,164099,6900,2011,video.movie,51,82,93,4376,403,2,5496.00000,865.00000,4631,6361
+titles02/index.html.2821,tt1038988,[Rec] (2007),rec,http://www.imdb.com/title/tt1038988/,7.5,100652,4680,2007,video.movie,16,8,14,219,353,2,961.50000,257.50000,704,1219
+titles03/index.html.5232,tt1057500,Invictus - Unbezwungen (2009),invictus unbezwungen,http://www.imdb.com/title/tt1057500/,7.4,98341,8040,2009,video.movie,8,21,106,1643,247,3,2563.00000,2685.64629,643,6361
+titles02/index.html.4013,tt1120985,Blue Valentine (2010),blue valentine,http://www.imdb.com/title/tt1120985/,7.4,107863,6720,2010,video.movie,4,21,46,3421,256,2,4168.50000,2192.50000,1976,6361
+titles02/index.html.4834,tt1139328,Der Ghostwriter (2010),der ghostwriter,http://www.imdb.com/title/tt1139328/,7.3,110856,7680,2010,video.movie,26,24,45,1350,328,2,1612.00000,393.00000,1219,2005
+titles03/index.html.5386,tt1174732,An Education (2009),an education,http://www.imdb.com/title/tt1174732/,7.3,93787,6000,2009,video.movie,25,55,90,2225,215,1,6361.00000,0.00000,6361,6361
+titles03/index.html.5419,tt1189073,Die Haut\, in der ich wohne (2011),die haut in der ich wohne,http://www.imdb.com/title/tt1189073/,7.6,76758,7200,2011,video.movie,22,38,68,111,133,3,3023.33333,2419.11338,704,6361
+titles02/index.html.4435,tt1189340,Der Mandant (2011),der mandant,http://www.imdb.com/title/tt1189340/,7.3,133277,7080,2011,video.movie,0,0,47,1559,186,3,3458.00000,2052.73135,2005,6361
+titles03/index.html.5425,tt1192628,Rango (2011),rango,http://www.imdb.com/title/tt1192628/,7.3,135706,6420,2011,video.movie,27,17,77,2064,319,3,2492.66667,1571.28490,900,4631
+titles02/index.html.3837,tt1193138,Up in the Air (2009),up in the air,http://www.imdb.com/title/tt1193138/,7.5,219131,6540,2009,video.movie,64,66,84,4398,424,2,4168.50000,2192.50000,1976,6361
+titles03/index.html.5430,tt1197624,Gesetz der Rache (2009),gesetz der rache,http://www.imdb.com/title/tt1197624/,7.4,169746,6540,2009,video.movie,2,5,75,1139,403,3,3458.00000,2052.73135,2005,6361
+titles02/index.html.2434,tt1210166,Die Kunst zu gewinnen - Moneyball (2011),die kunst zu gewinnen moneyball,http://www.imdb.com/title/tt1210166/,7.6,221172,7980,2011,video.movie,20,42,60,4184,289,3,2434.33333,2782.06510,257,6361
+titles02/index.html.3952,tt1212450,Lawless - Die Gesetzlosen (2012),lawless die gesetzlosen,http://www.imdb.com/title/tt1212450/,7.3,129924,6960,2012,video.movie,1,4,61,1599,248,2,4184.50000,2176.50000,2008,6361
+titles02/index.html.2398,tt1219289,Ohne Limit (2011),ohne limit,http://www.imdb.com/title/tt1219289/,7.4,289299,6300,2011,video.movie,1,6,61,1812,343,2,1612.00000,393.00000,1219,2005
+titles03/index.html.5472,tt1229238,Mission: Impossible - Phantom Protokoll (2011),mission impossible phantom protokoll,http://www.imdb.com/title/tt1229238/,7.4,270171,7980,2011,video.movie,3,19,132,2040,471,2,2086.00000,81.00000,2005,2167
+titles02/index.html.2512,tt1242460,We Need to Talk About Kevin (2011),we need to talk about kevin,http://www.imdb.com/title/tt1242460/,7.5,65660,6720,2011,video.movie,20,31,71,2131,258,2,4183.00000,2178.00000,2005,6361
+titles02/index.html.6702,tt1289406,Harry Brown (2009),harry brown,http://www.imdb.com/title/tt1289406/,7.3,62172,6180,2009,video.movie,1,3,23,971,207,3,3512.00000,2015.59272,2008,6361
+titles02/index.html.2569,tt1300854,Iron Man 3 (2013),iron man,http://www.imdb.com/title/tt1300854/,7.4,349551,7800,2013,video.movie,12,35,170,11894,1107,3,1707.66667,502.12969,1009,2167
+titles02/index.html.2765,tt1318514,Planet der Affen: Prevolution (2011),planet der affen prevolution,http://www.imdb.com/title/tt1318514/,7.6,272843,6300,2011,video.movie,12,24,40,4951,594,2,4264.00000,2097.00000,2167,6361
+titles02/index.html.3729,tt1403865,True Grit - Vergeltung (2010),true grit vergeltung,http://www.imdb.com/title/tt1403865/,7.7,186209,6600,2010,video.movie,30,85,134,4667,688,3,2897.33333,2530.93953,384,6361
+titles03/index.html.5722,tt1446192,Die Hüter des Lichts (2012),die h ter des lichts,http://www.imdb.com/title/tt1446192/,7.3,81782,5820,2012,video.movie,8,21,33,1438,154,3,1306.33333,458.42944,900,1947
+titles02/index.html.4182,tt1453405,Die Monster Uni (2013),die monster uni,http://www.imdb.com/title/tt1453405/,7.5,132191,6240,2013,video.movie,10,34,57,2450,227,3,2492.66667,1571.28490,900,4631
+titles02/index.html.2399,tt1457767,Conjuring - Die Heimsuchung (2013),conjuring die heimsuchung,http://www.imdb.com/title/tt1457767/,7.6,165388,6720,2013,video.movie,4,8,34,1583,657,2,1354.50000,650.50000,704,2005
+titles03/index.html.5737,tt1458175,72 Stunden - The Next Three Days (2010),stunden the next three days,http://www.imdb.com/title/tt1458175/,7.4,114898,7980,2010,video.movie,0,0,62,864,223,3,3448.33333,2059.60778,1976,6361
+titles02/index.html.6051,tt1542344,127 Hours (2010),hours,http://www.imdb.com/title/tt1542344/,7.7,209297,5640,2010,video.movie,15,83,107,39,420,3,2997.66667,2433.40219,685,6361
+titles02/index.html.6783,tt1570728,Crazy\, Stupid\, Love. (2011),crazy stupid love,http://www.imdb.com/title/tt1570728/,7.5,276637,7080,2011,video.movie,4,14,83,17,257,3,4322.66667,1803.39649,1976,6361
+titles02/index.html.5572,tt1596343,Fast & Furious Five (2011),fast furious five,http://www.imdb.com/title/tt1596343/,7.3,203466,7800,2011,video.movie,7,18,81,3967,340,3,2060.00000,75.67034,2005,2167
+titles02/index.html.1523,tt1605783,Midnight in Paris (2011),midnight in paris,http://www.imdb.com/title/tt1605783/,7.7,221572,5640,2011,video.movie,18,52,74,3729,460,3,2538.66667,1531.26665,1009,4631
+titles03/index.html.5994,tt1649419,The Impossible - Nichts ist stärker als der Wille\, zu überleben (2012),the impossible nichts ist st rker als der wille zu berleben,http://www.imdb.com/title/tt1649419/,7.6,108635,6840,2012,video.movie,23,40,56,1282,291,3,3003.00000,2438.69965,643,6361
+titles03/index.html.6015,tt1670345,Die Unfassbaren - Now You See Me (2013),die unfassbaren now you see me,http://www.imdb.com/title/tt1670345/,7.3,284774,6900,2013,video.movie,1,3,68,1542,521,3,1744.00000,371.23308,1219,2008
+titles03/index.html.6055,tt1723811,Shame (2011),shame,http://www.imdb.com/title/tt1723811/,7.3,105923,6060,2011,video.movie,27,53,34,3307,331,1,6361.00000,0.00000,6361,6361
+titles02/index.html.6781,tt1727388,Ganz weit hinten (2013),ganz weit hinten,http://www.imdb.com/title/tt1727388/,7.4,63849,6180,2013,video.movie,3,19,32,162,167,2,5496.00000,865.00000,4631,6361
+titles03/index.html.6118,tt1790885,Zero Dark Thirty (2012),zero dark thirty,http://www.imdb.com/title/tt1790885/,7.4,163246,9420,2012,video.movie,57,72,67,5665,586,3,3003.00000,2438.69965,643,6361
+titles03/index.html.6131,tt1800241,American Hustle (2013),american hustle,http://www.imdb.com/title/tt1800241/,7.5,189392,8280,2013,video.movie,50,85,61,4643,616,2,4184.50000,2176.50000,2008,6361
+titles03/index.html.6143,tt1817273,The Place Beyond the Pines (2012),the place beyond the pines,http://www.imdb.com/title/tt1817273/,7.4,128954,8400,2012,video.movie,2,5,75,1497,319,2,4184.50000,2176.50000,2008,6361
+titles03/index.html.6193,tt1855199,End of Watch (2012),end of watch,http://www.imdb.com/title/tt1855199/,7.7,131734,6540,2012,video.movie,4,9,39,1422,289,3,3458.00000,2052.73135,2005,6361
+titles02/index.html.6106,tt1899353,The Raid (2011),the raid,http://www.imdb.com/title/tt1899353/,7.6,92700,6060,2011,video.movie,5,5,25,1431,250,3,2060.00000,75.67034,2005,2167
+titles02/index.html.6951,tt1907668,Flight (2012),flight,http://www.imdb.com/title/tt1907668/,7.3,193593,8280,2012,video.movie,11,31,44,1902,430,2,4183.00000,2178.00000,2005,6361
+titles02/index.html.7014,tt1935179,Mud - Kein Ausweg (2012),mud kein ausweg,http://www.imdb.com/title/tt1935179/,7.5,71280,7800,2012,video.movie,13,15,50,1224,199,1,6361.00000,0.00000,6361,6361
+titles02/index.html.4629,tt1981115,Thor - The Dark Kingdom (2013),thor the dark kingdom,http://www.imdb.com/title/tt1981115/,7.3,191317,6720,2013,video.movie,0,0,304,7527,422,3,1707.66667,502.12969,1009,2167
+titles03/index.html.6306,tt1981677,Pitch Perfect (2012),pitch perfect,http://www.imdb.com/title/tt1981677/,7.3,126667,6720,2012,video.movie,6,14,28,1663,190,3,2356.66667,1722.73742,463,4631
+titles03/index.html.6523,tt2265171,The Raid 2: Berandal (2014),the raid berandal,http://www.imdb.com/title/tt2265171/,8.9,12553,9000,2014,video.movie,0,0,37,462,91,3,2060.00000,75.67034,2005,2167
+titles02/index.html.1526,tt2334873,Blue Jasmine (2013),blue jasmine,http://www.imdb.com/title/tt2334873/,7.4,74652,5880,2013,video.movie,26,35,22,2322,286,2,5496.00000,865.00000,4631,6361
+titles02/index.html.5536,tt3322420,Queen (2014),queen,http://www.imdb.com/title/tt3322420/,9.1,8769,8760,2014,video.movie,0,0,2,86,91,2,5496.00000,865.00000,4631,6361
+titles03/index.html.2455,tt0112384,Apollo 13 (1995),apollo,http://www.imdb.com/title/tt0112384/,7.6,165930,8400,1995,video.movie,22,30,73,758,278,3,2983.66667,2446.75150,643,6361
+titles02/index.html.4070,tt0112461,Jim Carroll - In den Straßen von New York (1995),jim carroll in den stra en von new york,http://www.imdb.com/title/tt0112461/,7.3,61146,6120,1995,video.movie,0,0,45,106,144,3,3018.00000,2424.77752,685,6361
+titles02/index.html.3440,tt0112864,Stirb langsam - Jetzt erst recht (1995),stirb langsam jetzt erst recht,http://www.imdb.com/title/tt0112864/,7.6,232925,7860,1995,video.movie,2,2,54,57,319,3,2060.00000,75.67034,2005,2167
+titles03/index.html.2496,tt0113627,Leaving Las Vegas - Liebe bis in den Tod (1995),leaving las vegas liebe bis in den tod,http://www.imdb.com/title/tt0113627/,7.6,78362,6660,1995,video.movie,32,19,55,537,271,2,4168.50000,2192.50000,1976,6361
+titles03/index.html.2517,tt0114388,Sinn und Sinnlichkeit (1995),sinn und sinnlichkeit,http://www.imdb.com/title/tt0114388/,7.7,61199,8160,1995,video.movie,34,31,73,423,184,2,4168.50000,2192.50000,1976,6361
+titles02/index.html.2347,tt0116209,Der englische Patient (1996),der englische patient,http://www.imdb.com/title/tt0116209/,7.4,110855,9720,1996,video.movie,47,39,73,754,439,3,3023.66667,2413.70895,734,6361
+titles02/index.html.2488,tt0116695,Jerry Maguire: Spiel des Lebens (1996),jerry maguire spiel des lebens,http://www.imdb.com/title/tt0116695/,7.3,146889,8340,1996,video.movie,26,19,78,911,296,3,4322.66667,1803.39649,1976,6361
+titles02/index.html.1607,tt0116922,Lost Highway (1997),lost highway,http://www.imdb.com/title/tt0116922/,7.7,76443,8040,1997,video.movie,0,0,36,238,433,3,3195.00000,2261.57998,1219,6361
+titles02/index.html.3784,tt0117318,Larry Flynt - Die nackte Wahrheit (1996),larry flynt die nackte wahrheit,http://www.imdb.com/title/tt0117318/,7.3,60966,7740,1996,video.movie,24,12,36,166,117,2,3523.00000,2838.00000,685,6361
+titles02/index.html.1356,tt0117381,Zwielicht (1996),zwielicht,http://www.imdb.com/title/tt0117381/,7.7,99269,7740,1996,video.movie,10,6,33,133,220,3,3196.00000,2261.05418,1219,6361
+titles02/index.html.3559,tt0117500,The Rock - Fels der Entscheidung (1996),the rock fels der entscheidung,http://www.imdb.com/title/tt0117500/,7.4,215025,8160,1996,video.movie,7,7,55,965,403,3,2039.66667,93.09971,1947,2167
+titles02/index.html.3081,tt0117665,Sleepers (1996),sleepers,http://www.imdb.com/title/tt0117665/,7.5,127907,8820,1996,video.movie,1,4,45,100,240,3,3458.00000,2052.73135,2005,6361
+titles03/index.html.2610,tt0117731,Star Trek: Der erste Kontakt (1996),star trek der erste kontakt,http://www.imdb.com/title/tt0117731/,7.6,83572,6660,1996,video.movie,4,12,54,134,264,2,2057.00000,110.00000,1947,2167
+titles03/index.html.2615,tt0117913,Die Jury (1996),die jury,http://www.imdb.com/title/tt0117913/,7.4,76632,8940,1996,video.movie,6,9,46,305,229,3,3458.00000,2052.73135,2005,6361
+titles03/index.html.2643,tt0118842,Chasing Amy (1997),chasing amy,http://www.imdb.com/title/tt0118842/,7.4,97329,6780,1997,video.movie,8,6,22,401,493,3,4322.66667,1803.39649,1976,6361
+titles03/index.html.2647,tt0118884,Contact (1997),contact,http://www.imdb.com/title/tt0118884/,7.4,154288,9000,1997,video.movie,10,16,16,366,569,2,3790.00000,2571.00000,1219,6361
+titles02/index.html.4831,tt0118971,Im Auftrag des Teufels (1997),im auftrag des teufels,http://www.imdb.com/title/tt0118971/,7.5,200900,8640,1997,video.movie,1,5,53,149,407,3,3195.00000,2261.57998,1219,6361
+titles03/index.html.2659,tt0119094,Im Körper des Feindes (1997),im k rper des feindes,http://www.imdb.com/title/tt0119094/,7.3,225432,8280,1997,video.movie,8,18,73,589,509,2,2087.50000,79.50000,2008,2167
+titles03/index.html.2661,tt0119116,Das fünfte Element (1997),das f nfte element,http://www.imdb.com/title/tt0119116/,7.6,262477,7560,1997,video.movie,7,18,29,1362,710,2,2057.00000,110.00000,1947,2167
+titles03/index.html.2671,tt0119229,Ein Mann\, ein Mord (1997),ein mann ein mord,http://www.imdb.com/title/tt0119229/,7.4,63414,6420,1997,video.movie,2,4,57,206,278,3,2935.33333,1200.77318,2008,4631
+titles02/index.html.2209,tt0119396,Jackie Brown (1997),jackie brown,http://www.imdb.com/title/tt0119396/,7.5,185138,9240,1997,video.movie,7,12,101,832,422,3,3458.00000,2052.73135,2005,6361
+titles03/index.html.2737,tt0120655,Dogma (1999),dogma,http://www.imdb.com/title/tt0120655/,7.4,155121,7800,1999,video.movie,0,0,59,364,1005,3,2529.00000,1534.87546,1009,4631
+titles03/index.html.2740,tt0120663,Eyes Wide Shut (1999),eyes wide shut,http://www.imdb.com/title/tt0120663/,7.3,180619,9540,1999,video.movie,5,15,192,538,1467,3,3195.00000,2261.57998,1219,6361
+titles02/index.html.3863,tt0120762,Mulan (1998),mulan,http://www.imdb.com/title/tt0120762/,7.5,107855,5280,1998,video.movie,14,13,79,172,202,3,1306.33333,458.42944,900,1947
+titles03/index.html.2756,tt0120768,Verhandlungssache (1998),verhandlungssache,http://www.imdb.com/title/tt0120768/,7.3,90354,8400,1998,video.movie,2,6,43,129,270,3,3512.00000,2015.59272,2008,6361
+titles03/index.html.2762,tt0120789,Pleasantville - Zu schön\, um wahr zu sein (1998),pleasantville zu sch n um wahr zu sein,http://www.imdb.com/title/tt0120789/,7.5,88047,7440,1998,video.movie,16,23,51,485,673,3,4000.33333,2229.98974,1009,6361
+titles02/index.html.3242,tt0120863,The Thin Red Line (1998),the thin red line,http://www.imdb.com/title/tt0120863/,7.6,114343,10200,1998,video.movie,20,19,71,801,1424,2,3547.50000,2813.50000,734,6361
+titles03/index.html.2784,tt0120903,X-Men (2000),x men,http://www.imdb.com/title/tt0120903/,7.4,309511,6240,2000,video.movie,11,23,81,8689,1359,2,2057.00000,110.00000,1947,2167
+titles02/index.html.4181,tt0120917,Ein Königreich für ein Lama (2000),ein k nigreich f r ein lama,http://www.imdb.com/title/tt0120917/,7.3,89360,4680,2000,video.movie,7,24,71,47,280,3,2492.66667,1571.28490,900,4631
+titles02/index.html.3447,tt0122690,Ronin (1998),ronin,http://www.imdb.com/title/tt0122690/,7.3,124152,7320,1998,video.movie,1,3,69,121,563,3,2040.66667,92.73738,1947,2167
+titles02/index.html.2990,tt0123755,Cube (1997),cube,http://www.imdb.com/title/tt0123755/,7.4,120317,5400,1997,video.movie,13,7,27,379,659,2,1612.00000,393.00000,1219,2005
+titles02/index.html.6308,tt0124315,Gottes Werk & Teufels Beitrag (1999),gottes werk teufels beitrag,http://www.imdb.com/title/tt0124315/,7.4,67891,7560,1999,video.movie,7,28,54,492,420,2,4168.50000,2192.50000,1976,6361
+titles03/index.html.2823,tt0126886,Election (1999),election,http://www.imdb.com/title/tt0126886/,7.3,62886,6180,1999,video.movie,22,18,34,381,429,2,5496.00000,865.00000,4631,6361
+titles03/index.html.2825,tt0127536,Elizabeth (1998),elizabeth,http://www.imdb.com/title/tt0127536/,7.6,64215,7440,1998,video.movie,32,32,68,1070,402,3,2563.00000,2685.64629,643,6361
+titles02/index.html.3954,tt0128442,Rounders (1998),rounders,http://www.imdb.com/title/tt0128442/,7.4,100848,7260,1998,video.movie,1,1,37,278,281,2,4184.50000,2176.50000,2008,6361
+titles02/index.html.2902,tt0138704,Pi - Der Film (1998),pi der film,http://www.imdb.com/title/tt0138704/,7.5,116612,5040,1998,video.movie,9,7,40,378,570,1,2005.00000,0.00000,2005,2005
+titles02/index.html.2208,tt0139654,Training Day (2001),training day,http://www.imdb.com/title/tt0139654/,7.7,232355,7320,2001,video.movie,16,15,78,1691,604,3,3458.00000,2052.73135,2005,6361
+titles02/index.html.2514,tt0144084,American Psycho (2000),american psycho,http://www.imdb.com/title/tt0144084/,7.6,262553,6120,2000,video.movie,4,7,47,1572,1007,2,4184.50000,2176.50000,2008,6361
+titles02/index.html.2572,tt0145487,Spider-Man (2002),spider man,http://www.imdb.com/title/tt0145487/,7.3,388552,7260,2002,video.movie,12,44,104,7963,1985,2,1588.00000,579.00000,1009,2167
+titles02/index.html.3982,tt0159097,The Virgin Suicides - Verlorene Jugend (1999),the virgin suicides verlorene jugend,http://www.imdb.com/title/tt0159097/,7.3,91852,5820,1999,video.movie,3,11,41,278,504,2,4168.50000,2192.50000,1976,6361
+titles02/index.html.3327,tt0162222,Cast Away - Verschollen (2000),cast away verschollen,http://www.imdb.com/title/tt0162222/,7.7,284096,8580,2000,video.movie,15,21,70,605,1002,2,4154.00000,2207.00000,1947,6361
+titles03/index.html.2946,tt0162346,Ghost World (2001),ghost world,http://www.imdb.com/title/tt0162346/,7.5,80591,6660,2001,video.movie,35,31,35,304,469,2,5496.00000,865.00000,4631,6361
+titles03/index.html.2947,tt0162661,Sleepy Hollow (1999),sleepy hollow,http://www.imdb.com/title/tt0162661/,7.5,211693,6300,1999,video.movie,22,28,74,815,971,2,3790.00000,2571.00000,1219,6361
+titles02/index.html.1047,tt0171804,Boys Don't Cry (1999),boys don t cry,http://www.imdb.com/title/tt0171804/,7.6,63699,7080,1999,video.movie,47,27,19,509,423,2,3523.00000,2838.00000,685,6361
+titles02/index.html.5256,tt0172493,Durchgeknallt (1999),durchgeknallt,http://www.imdb.com/title/tt0172493/,7.3,97085,7620,1999,video.movie,6,8,60,59,376,2,3523.00000,2838.00000,685,6361
+titles02/index.html.2791,tt0174856,Hurricane (1999),hurricane,http://www.imdb.com/title/tt0174856/,7.5,61075,8760,1999,video.movie,7,15,49,74,252,3,2434.33333,2782.06510,257,6361
+titles03/index.html.3004,tt0177789,Galaxy Quest - Planlos durchs Weltall (1999),galaxy quest planlos durchs weltall,http://www.imdb.com/title/tt0177789/,7.3,101591,6120,1999,video.movie,7,14,68,521,578,2,3289.00000,1342.00000,1947,4631
+titles02/index.html.6665,tt0181689,Minority Report (2002),minority report,http://www.imdb.com/title/tt0181689/,7.7,306842,8700,2002,video.movie,16,50,59,1266,1303,2,1693.00000,474.00000,1219,2167
+titles03/index.html.3019,tt0181865,Traffic - Die Macht des Kartells (2000),traffic die macht des kartells,http://www.imdb.com/title/tt0181865/,7.7,149657,8820,2000,video.movie,73,57,112,1203,846,3,3458.00000,2052.73135,2005,6361
+titles03/index.html.3036,tt0186151,Frequency (2000),frequency,http://www.imdb.com/title/tt0186151/,7.3,67402,7080,2000,video.movie,2,6,35,53,494,3,3126.00000,2323.56321,1009,6361
+titles03/index.html.3056,tt0195685,Erin Brockovich (2000),erin brockovich,http://www.imdb.com/title/tt0195685/,7.3,108383,7860,2000,video.movie,34,43,164,607,474,2,3523.00000,2838.00000,685,6361
+titles02/index.html.5733,tt0210945,Gegen jede Regel (2000),gegen jede regel,http://www.imdb.com/title/tt0210945/,7.7,126084,6780,2000,video.movie,8,17,31,289,379,3,2434.33333,2782.06510,257,6361
+titles02/index.html.5622,tt0215750,Duell - Enemy at the Gates (2001),duell enemy at the gates,http://www.imdb.com/title/tt0215750/,7.6,140339,7860,2001,video.movie,0,0,52,102,648,3,3003.00000,2438.69965,643,6361
+titles03/index.html.3128,tt0217505,Gangs of New York (2002),gangs of new york,http://www.imdb.com/title/tt0217505/,7.5,237708,10020,2002,video.movie,44,62,167,1067,1128,3,3004.00000,2438.29079,643,6361
+titles02/index.html.4065,tt0221027,Blow (2001),blow,http://www.imdb.com/title/tt0221027/,7.6,156305,7440,2001,video.movie,1,5,117,267,408,3,3018.00000,2424.77752,685,6361
+titles02/index.html.4825,tt0230600,The Others (2001),the others,http://www.imdb.com/title/tt0230600/,7.6,212157,6060,2001,video.movie,23,37,47,289,1086,3,2761.33333,2554.01727,704,6361
+titles02/index.html.3980,tt0241303,Chocolat... ein kleiner Biss genügt (2000),chocolat ein kleiner biss gen gt,http://www.imdb.com/title/tt0241303/,7.3,121621,7260,2000,video.movie,8,29,57,302,488,2,4168.50000,2192.50000,1976,6361
+titles02/index.html.6469,tt0241527,Harry Potter und der Stein der Weisen (2001),harry potter und der stein der weisen,http://www.imdb.com/title/tt0241527/,7.4,324397,9120,2001,video.movie,14,50,172,665,1516,3,1342.66667,428.10149,1009,1947
+titles02/index.html.2040,tt0243133,The Man Who Wasn't There (2001),the man who wasn t there,http://www.imdb.com/title/tt0243133/,7.6,71870,6960,2001,video.movie,25,33,58,113,425,2,4184.50000,2176.50000,2008,6361
+titles02/index.html.1589,tt0245574,...mit deiner Mutter auch! (2001),mit deiner mutter auch,http://www.imdb.com/title/tt0245574/,7.7,75928,6360,2001,video.movie,39,30,64,185,377,1,6361.00000,0.00000,6361,6361
+titles02/index.html.1443,tt0245844,Monte Cristo (2002),monte cristo,http://www.imdb.com/title/tt0245844/,7.7,85719,7860,2002,video.movie,0,0,31,247,528,3,3491.66667,2030.91200,1947,6361
+titles02/index.html.2847,tt0265086,Black Hawk Down (2001),black hawk down,http://www.imdb.com/title/tt0265086/,7.7,226441,8520,2001,video.movie,8,28,100,1102,1079,3,3003.00000,2438.69965,643,6361
+titles02/index.html.1811,tt0265666,Die Royal Tenenbaums (2001),die royal tenenbaums,http://www.imdb.com/title/tt0265666/,7.6,159811,6600,2001,video.movie,11,29,61,714,946,2,5496.00000,865.00000,4631,6361
+titles02/index.html.39,tt0268380,Ice Age (2002),ice age,http://www.imdb.com/title/tt0268380/,7.6,232174,4860,2002,video.movie,4,23,57,2135,452,3,2492.66667,1571.28490,900,4631
+titles02/index.html.5140,tt0272152,K-PAX - Alles ist möglich (2001),k pax alles ist m glich,http://www.imdb.com/title/tt0272152/,7.3,114457,7200,2001,video.movie,0,0,163,60,517,1,6361.00000,0.00000,6361,6361
+titles02/index.html.2545,tt0272338,Punch-Drunk Love (2002),punch drunk love,http://www.imdb.com/title/tt0272338/,7.3,85032,5700,2002,video.movie,15,18,46,257,853,3,4322.66667,1803.39649,1976,6361
+titles02/index.html.6725,tt0277027,Ich bin Sam (2001),ich bin sam,http://www.imdb.com/title/tt0277027/,7.6,100503,7920,2001,video.movie,8,9,38,215,421,1,6361.00000,0.00000,6361,6361
+titles03/index.html.3403,tt0281358,Nur mit Dir (2002),nur mit dir,http://www.imdb.com/title/tt0281358/,7.4,119019,6060,2002,video.movie,4,2,31,266,945,2,4168.50000,2192.50000,1976,6361
+titles02/index.html.2620,tt0289043,28 Tage später (2002),tage sp ter,http://www.imdb.com/title/tt0289043/,7.7,231106,6780,2002,video.movie,10,25,41,22,1414,2,1354.50000,650.50000,704,2005
+titles02/index.html.4208,tt0289879,Butterfly Effect (2004),butterfly effect,http://www.imdb.com/title/tt0289879/,7.7,270273,6780,2004,video.movie,1,4,94,223,1073,1,2005.00000,0.00000,2005,2005
+titles03/index.html.3447,tt0289992,Das Leben des David Gale (2003),das leben des david gale,http://www.imdb.com/title/tt0289992/,7.5,70689,7800,2003,video.movie,0,0,54,31,407,3,3458.00000,2052.73135,2005,6361
+titles02/index.html.3188,tt0290334,X-Men 2 (2003),x men,http://www.imdb.com/title/tt0290334/,7.5,283346,7980,2003,video.movie,5,32,182,1271,1018,2,2057.00000,110.00000,1947,2167
+titles03/index.html.3453,tt0290673,Irreversibel (2002),irreversibel,http://www.imdb.com/title/tt0290673/,7.4,66372,5820,2002,video.movie,4,5,30,228,637,3,3196.00000,2261.05418,1219,6361
+titles03/index.html.3465,tt0293508,Das Phantom der Oper (2004),das phantom der oper,http://www.imdb.com/title/tt0293508/,7.4,78932,8580,2004,video.movie,6,27,57,410,2017,3,2918.66667,2515.72472,419,6361
+titles02/index.html.6473,tt0295297,Harry Potter und die Kammer des Schreckens (2002),harry potter und die kammer des schreckens,http://www.imdb.com/title/tt0295297/,7.3,285828,9660,2002,video.movie,10,31,192,467,826,3,1342.66667,428.10149,1009,1947
+titles02/index.html.4177,tt0298148,Shrek 2 - Der tollkühne Held kehrt zurück (2004),shrek der tollk hne held kehrt zur ck,http://www.imdb.com/title/tt0298148/,7.3,225979,5580,2004,video.movie,16,35,140,747,465,3,2492.66667,1571.28490,900,4631
+titles02/index.html.2037,tt0307901,25 Stunden (2002),stunden,http://www.imdb.com/title/tt0307901/,7.7,127674,8100,2002,video.movie,4,7,31,13,442,2,4184.50000,2176.50000,2008,6361
+titles02/index.html.4832,tt0309698,Identität - Identity (2003),identit t identity,http://www.imdb.com/title/tt0309698/,7.3,139722,5400,2003,video.movie,0,0,80,269,693,2,1612.00000,393.00000,1219,2005
+titles02/index.html.1249,tt0311113,Master & Commander - Bis ans Ende der Welt (2003),master commander bis ans ende der welt,http://www.imdb.com/title/tt0311113/,7.4,140094,8280,2003,video.movie,22,57,106,312,671,3,3491.66667,2030.91200,1947,6361
+titles02/index.html.6450,tt0314331,Tatsächlich... Liebe (2003),tats chlich liebe,http://www.imdb.com/title/tt0314331/,7.7,244478,8100,2003,video.movie,10,19,52,1633,956,3,4322.66667,1803.39649,1976,6361
+titles03/index.html.3560,tt0316654,Spider-Man 2 (2004),spider man,http://www.imdb.com/title/tt0316654/,7.4,276838,7620,2004,video.movie,17,39,185,2069,1273,2,1588.00000,579.00000,1009,2167
+titles02/index.html.1841,tt0325710,Last Samurai (2003),last samurai,http://www.imdb.com/title/tt0325710/,7.7,241462,9240,2003,video.movie,18,39,144,854,908,3,3057.00000,2417.70635,643,6361
+titles02/index.html.2238,tt0325805,Tricks (2003),tricks,http://www.imdb.com/title/tt0325805/,7.3,89122,6960,2003,video.movie,0,0,83,139,325,3,4333.33333,1789.52626,2008,6361
+titles03/index.html.3642,tt0333766,Garden State (2004),garden state,http://www.imdb.com/title/tt0333766/,7.7,165810,6120,2004,video.movie,12,26,66,50,976,3,4322.66667,1803.39649,1976,6361
+titles02/index.html.3783,tt0338751,Aviator (2004),aviator,http://www.imdb.com/title/tt0338751/,7.5,198587,10200,2004,video.movie,55,71,102,1339,761,2,3523.00000,2838.00000,685,6361
+titles02/index.html.4063,tt0340855,Monster (2003),monster,http://www.imdb.com/title/tt0340855/,7.3,83863,6540,2003,video.movie,20,13,34,1182,517,3,3018.00000,2424.77752,685,6361
+titles02/index.html.203,tt0362227,Terminal (2004),terminal,http://www.imdb.com/title/tt0362227/,7.3,219483,7680,2004,video.movie,3,2,63,244,573,2,5496.00000,865.00000,4631,6361
+titles03/index.html.3782,tt0362270,Die Tiefseetaucher (2004),die tiefseetaucher,http://www.imdb.com/title/tt0362270/,7.3,103434,7140,2004,video.movie,4,9,84,343,619,3,4313.00000,1815.98311,1947,6361
+titles02/index.html.4124,tt0369339,Collateral (2004),collateral,http://www.imdb.com/title/tt0369339/,7.6,238914,7200,2004,video.movie,20,36,51,633,801,3,3458.00000,2052.73135,2005,6361
+titles02/index.html.2542,tt0375063,Sideways (2004),sideways,http://www.imdb.com/title/tt0375063/,7.6,125398,7560,2004,video.movie,108,39,20,1218,811,3,4322.66667,1803.39649,1976,6361
+titles02/index.html.4128,tt0375912,Layer Cake (2004),layer cake,http://www.imdb.com/title/tt0375912/,7.4,106830,6300,2004,video.movie,2,8,53,616,247,3,3458.00000,2052.73135,2005,6361
+titles02/index.html.4014,tt0376541,Hautnah (2004),hautnah,http://www.imdb.com/title/tt0376541/,7.3,142422,6240,2004,video.movie,15,24,110,438,890,2,4168.50000,2192.50000,1976,6361
+titles02/index.html.5399,tt0385004,House of Flying Daggers (2004),house of flying daggers,http://www.imdb.com/title/tt0385004/,7.6,76557,7140,2004,video.movie,21,39,32,300,411,3,3491.66667,2030.91200,1947,6361
+titles02/index.html.3421,tt0090728,Big Trouble in Little China (1986),big trouble in little china,http://www.imdb.com/title/tt0090728/,7.3,70290,5940,1986,video.movie,0,0,29,289,298,3,2915.00000,1216.71470,1947,4631
+titles02/index.html.2715,tt0091064,Die Fliege (1986),die fliege,http://www.imdb.com/title/tt0091064/,7.5,89158,5760,1986,video.movie,7,9,23,580,254,1,704.00000,0.00000,704,704
+titles02/index.html.291,tt0091369,Die Reise ins Labyrinth (1986),die reise ins labyrinth,http://www.imdb.com/title/tt0091369/,7.4,71115,6060,1986,video.movie,0,3,74,344,434,3,1342.66667,428.10149,1009,1947
+titles02/index.html.3442,tt0093409,Lethal Weapon - Zwei stahlharte Profis (1987),lethal weapon zwei stahlharte profis,http://www.imdb.com/title/tt0093409/,7.6,153985,6600,1987,video.movie,5,1,63,1749,234,2,2086.00000,81.00000,2005,2167
+titles02/index.html.4379,tt0093822,Arizona Junior (1987),arizona junior,http://www.imdb.com/title/tt0093822/,7.5,80677,5640,1987,video.movie,1,2,29,369,245,2,3319.50000,1311.50000,2008,4631
+titles03/index.html.1997,tt0093870,RoboCop (1987),robocop,http://www.imdb.com/title/tt0093870/,7.5,135552,6120,1987,video.movie,11,10,46,1605,402,2,2087.50000,79.50000,2008,2167
+titles02/index.html.3164,tt0094291,Wall Street (1987),wall street,http://www.imdb.com/title/tt0094291/,7.4,98950,7560,1987,video.movie,9,3,53,45,204,2,4184.50000,2176.50000,2008,6361
+titles02/index.html.3418,tt0094737,Big (1988),big,http://www.imdb.com/title/tt0094737/,7.3,115372,6240,1988,video.movie,12,11,30,13,178,3,4000.33333,2229.98974,1009,6361
+titles03/index.html.2027,tt0095159,Ein Fisch namens Wanda (1988),ein fisch namens wanda,http://www.imdb.com/title/tt0095159/,7.6,92669,6480,1988,video.movie,8,15,53,198,172,2,3319.50000,1311.50000,2008,4631
+titles03/index.html.2066,tt0096754,Abyss - Abgrund des Todes (1989),abyss abgrund des todes,http://www.imdb.com/title/tt0096754/,7.6,107051,8340,1989,video.movie,4,12,64,427,363,2,4154.00000,2207.00000,1947,6361
+titles03/index.html.2071,tt0096895,Batman (1989),batman,http://www.imdb.com/title/tt0096895/,7.6,210971,7560,1989,video.movie,8,21,68,3404,752,2,1588.00000,579.00000,1009,2167
+titles03/index.html.2085,tt0097351,Feld der Träume (1989),feld der tr ume,http://www.imdb.com/title/tt0097351/,7.6,71283,6420,1989,video.movie,6,9,47,498,296,3,2814.00000,2508.23962,1009,6361
+titles02/index.html.3609,tt0097757,Arielle\, die Meerjungfrau (1989),arielle die meerjungfrau,http://www.imdb.com/title/tt0097757/,7.6,109694,4980,1989,video.movie,10,7,64,24,196,3,993.66667,71.05084,900,1072
+titles03/index.html.2105,tt0097958,Hilfe\, es weihnachtet sehr (1989),hilfe es weihnachtet sehr,http://www.imdb.com/title/tt0097958/,7.5,81471,5820,1989,video.movie,0,0,34,424,233,1,4631.00000,0.00000,4631,4631
+titles02/index.html.1562,tt0098635,Harry und Sally (1989),harry und sally,http://www.imdb.com/title/tt0098635/,7.6,118446,5760,1989,video.movie,4,14,52,855,245,3,4322.66667,1803.39649,1976,6361
+titles02/index.html.2428,tt0099077,Zeit des Erwachens (1990),zeit des erwachens,http://www.imdb.com/title/tt0099077/,7.7,70252,7260,1990,video.movie,6,7,24,72,157,2,3523.00000,2838.00000,685,6361
+titles02/index.html.35,tt0099088,Zurück in die Zukunft III (1990),zur ck in die zukunft iii,http://www.imdb.com/title/tt0099088/,7.4,182281,7080,1990,video.movie,4,8,54,90,232,2,3289.00000,1342.00000,1947,4631
+titles03/index.html.2146,tt0099674,Der Pate - Teil III (1990),der pate teil iii,http://www.imdb.com/title/tt0099674/,7.6,191424,9720,1990,video.movie,4,13,243,68,516,3,3196.00000,2261.05418,1219,6361
+titles03/index.html.2153,tt0099785,Kevin - Allein zu Haus (1990),kevin allein zu haus,http://www.imdb.com/title/tt0099785/,7.4,214100,6180,1990,video.movie,10,4,30,1258,255,2,2851.50000,1779.50000,1072,4631
+titles02/index.html.3551,tt0099810,Jagd auf 'Roter Oktober' (1990),jagd auf roter oktober,http://www.imdb.com/title/tt0099810/,7.6,116767,8040,1990,video.movie,2,6,55,505,228,3,2039.66667,93.09971,1947,2167
+titles03/index.html.2155,tt0099871,Jacob's Ladder - In der Gewalt des Jenseits (1990),jacob s ladder in der gewalt des jenseits,http://www.imdb.com/title/tt0099871/,7.6,60964,6780,1990,video.movie,2,0,22,99,328,3,2761.33333,2554.01727,704,6361
+titles03/index.html.2175,tt0100802,Total Recall - Die totale Erinnerung (1990),total recall die totale erinnerung,http://www.imdb.com/title/tt0100802/,7.5,187348,6780,1990,video.movie,7,13,53,3132,364,2,2057.00000,110.00000,1947,2167
+titles02/index.html.1774,tt0101540,Kap der Angst (1991),kap der angst,http://www.imdb.com/title/tt0101540/,7.3,102119,7680,1991,video.movie,6,11,34,488,246,1,2005.00000,0.00000,2005,2005
+titles03/index.html.2249,tt0103873,Braindead (1992),braindead,http://www.imdb.com/title/tt0103873/,7.6,64939,5640,1992,video.movie,13,3,4,282,548,2,2667.50000,1963.50000,704,4631
+titles03/index.html.2250,tt0103874,Bram Stokers Dracula (1992),bram stokers dracula,http://www.imdb.com/title/tt0103874/,7.5,112374,7680,1992,video.movie,9,13,51,1697,611,2,1340.00000,636.00000,704,1976
+titles02/index.html.1359,tt0104257,Eine Frage der Ehre (1992),eine frage der ehre,http://www.imdb.com/title/tt0104257/,7.6,145459,8280,1992,video.movie,9,15,55,412,299,3,3196.00000,2261.05418,1219,6361
+titles03/index.html.2280,tt0104952,Mein Vetter Winnie (1992),mein vetter winnie,http://www.imdb.com/title/tt0104952/,7.5,68772,7200,1992,video.movie,3,2,18,204,188,2,3319.50000,1311.50000,2008,4631
+titles03/index.html.2313,tt0106677,Confusion - Sommer der Ausgeflippten (1993),confusion sommer der ausgeflippten,http://www.imdb.com/title/tt0106677/,7.7,89248,6120,1993,video.movie,0,0,24,792,371,2,5496.00000,865.00000,4631,6361
+titles02/index.html.3899,tt0106856,Falling Down - Ein ganz normaler Tag (1993),falling down ein ganz normaler tag,http://www.imdb.com/title/tt0106856/,7.6,111160,6780,1993,video.movie,1,2,28,288,356,3,3458.00000,2052.73135,2005,6361
+titles02/index.html.2431,tt0107818,Philadelphia (1993),philadelphia,http://www.imdb.com/title/tt0107818/,7.7,143684,7500,1993,video.movie,11,14,58,670,236,1,6361.00000,0.00000,6361,6361
+titles02/index.html.6662,tt0109506,Die Krähe (1994),die kr he,http://www.imdb.com/title/tt0109506/,7.6,111838,6120,1994,video.movie,2,6,24,1045,519,2,1588.00000,579.00000,1009,2167
+titles03/index.html.2401,tt0109686,Dumm und Dümmer (1994),dumm und d mmer,http://www.imdb.com/title/tt0109686/,7.3,217692,6420,1994,video.movie,4,3,55,875,409,1,4631.00000,0.00000,4631,4631
+titles02/index.html.1304,tt0110148,Interview mit einem Vampir - Aus der Chronik der Vampire (1994),interview mit einem vampir aus der chronik der vampire,http://www.imdb.com/title/tt0110148/,7.6,193094,7380,1994,video.movie,19,18,47,606,383,2,1340.00000,636.00000,704,1976
+titles03/index.html.2420,tt0110632,Natural Born Killers (1994),natural born killers,http://www.imdb.com/title/tt0110632/,7.3,138202,7080,1994,video.movie,3,4,51,596,565,2,4184.50000,2176.50000,2008,6361
+titles03/index.html.1437,tt0073629,The Rocky Horror Picture Show (1975),the rocky horror picture show,http://www.imdb.com/title/tt0073629/,7.4,80386,6000,1975,video.movie,2,4,184,583,468,2,2525.00000,2106.00000,419,4631
+titles03/index.html.1450,tt0074285,Carrie - Des Satans jüngste Tochter (1976),carrie des satans j ngste tochter,http://www.imdb.com/title/tt0074285/,7.4,96764,5880,1976,video.movie,4,4,54,14,453,2,1354.50000,650.50000,704,2005
+titles03/index.html.1470,tt0075005,Das Omen (1976),das omen,http://www.imdb.com/title/tt0075005/,7.6,61463,6660,1976,video.movie,2,8,47,175,282,2,961.50000,257.50000,704,1219
+titles02/index.html.2095,tt0075860,Unheimliche Begegnung der dritten Art (1977),unheimliche begegnung der dritten art,http://www.imdb.com/title/tt0075860/,7.7,109524,8220,1977,video.movie,15,33,90,786,307,2,4154.00000,2207.00000,1947,6361
+titles03/index.html.1542,tt0078346,Superman (1978),superman,http://www.imdb.com/title/tt0078346/,7.4,100424,8580,1978,video.movie,13,16,73,2901,456,2,1588.00000,579.00000,1009,2167
+titles02/index.html.1692,tt0079116,Flucht von Alcatraz (1979),flucht von alcatraz,http://www.imdb.com/title/tt0079116/,7.6,66636,6720,1979,video.movie,0,0,32,64,130,3,3018.00000,2424.77752,685,6361
+titles03/index.html.1647,tt0082694,Mad Max 2 - Der Vollstrecker (1981),mad max der vollstrecker,http://www.imdb.com/title/tt0082694/,7.6,86747,5700,1981,video.movie,8,8,49,209,244,3,2039.66667,93.09971,1947,2167
+titles03/index.html.1679,tt0083907,Tanz der Teufel (1981),tanz der teufel,http://www.imdb.com/title/tt0083907/,7.6,108160,5100,1981,video.movie,3,1,37,872,707,1,704.00000,0.00000,704,704
+titles03/index.html.1683,tt0083944,Rambo (1982),rambo,http://www.imdb.com/title/tt0083944/,7.6,135369,5580,1982,video.movie,0,0,54,803,328,3,3491.66667,2030.91200,1947,6361
+titles03/index.html.1692,tt0084516,Poltergeist (1982),poltergeist,http://www.imdb.com/title/tt0084516/,7.4,75781,6840,1982,video.movie,4,4,80,592,282,1,704.00000,0.00000,704,704
+titles02/index.html.2060,tt0084805,Tootsie (1982),tootsie,http://www.imdb.com/title/tt0084805/,7.4,63675,6960,1982,video.movie,30,23,37,355,162,3,4322.66667,1803.39649,1976,6361
+titles02/index.html.2702,tt0085959,Der Sinn des Lebens (1983),der sinn des lebens,http://www.imdb.com/title/tt0085959/,7.6,60984,6420,1983,video.movie,1,1,52,112,185,2,2525.00000,2106.00000,419,4631
+titles02/index.html.2677,tt0086465,Die Glücksritter (1983),die gl cksritter,http://www.imdb.com/title/tt0086465/,7.5,79297,6960,1983,video.movie,3,4,20,345,139,1,4631.00000,0.00000,4631,4631
+titles02/index.html.2875,tt0087469,Indiana Jones und der Tempel des Todes (1984),indiana jones und der tempel des todes,http://www.imdb.com/title/tt0087469/,7.6,229232,7080,1984,video.movie,4,19,62,296,479,2,2057.00000,110.00000,1947,2167
+titles03/index.html.1817,tt0088323,Die unendliche Geschichte (1984),die unendliche geschichte,http://www.imdb.com/title/tt0088323/,7.4,74115,6120,1984,video.movie,5,7,44,213,266,3,3126.66667,2314.74841,1072,6361
+titles02/index.html.3865,tt0061852,Das Dschungelbuch (1967),das dschungelbuch,http://www.imdb.com/title/tt0061852/,7.6,84514,4680,1967,video.movie,2,3,46,471,107,3,1306.33333,458.42944,900,1947
+titles02/index.html.2180,tt0064276,Easy Rider (1969),easy rider,http://www.imdb.com/title/tt0064276/,7.4,61351,5700,1969,video.movie,10,10,58,698,346,1,6361.00000,0.00000,6361,6361
+titles02/index.html.1693,tt0070034,Der Mann mit der Todeskralle (1973),der mann mit der todeskralle,http://www.imdb.com/title/tt0070034/,7.7,64271,6120,1973,video.movie,1,0,67,280,231,3,3512.00000,2015.59272,2008,6361
+titles02/index.html.2818,tt0072271,Blutgericht in Texas (1974),blutgericht in texas,http://www.imdb.com/title/tt0072271/,7.5,72698,4980,1974,video.movie,1,0,6,403,768,1,704.00000,0.00000,704,704
+titles02/index.html.3614,tt0053285,Dornröschen (1959),dornr schen,http://www.imdb.com/title/tt0053285/,7.4,64374,4500,1959,video.movie,1,3,47,1905,122,3,993.66667,71.05084,900,1072
+titles02/index.html.3554,tt0055928,James Bond 007 jagt Dr. No (1962),james bond jagt dr no,http://www.imdb.com/title/tt0055928/,7.3,90712,6600,1962,video.movie,2,1,57,709,344,3,2040.66667,92.73738,1947,2167
+titles03/index.html.985,tt0057076,James Bond 007 - Liebesgrüße aus Moskau (1963),james bond liebesgr e aus moskau,http://www.imdb.com/title/tt0057076/,7.5,65865,6900,1963,video.movie,4,2,74,384,318,3,2040.66667,92.73738,1947,2167
+titles02/index.html.3610,tt0042332,Aschenputtel (1950),aschenputtel,http://www.imdb.com/title/tt0042332/,7.3,72280,4440,1950,video.movie,4,4,39,134,89,3,993.66667,71.05084,900,1072
+titles02/index.html.283,tt0043274,Alice im Wunderland (1951),alice im wunderland,http://www.imdb.com/title/tt0043274/,7.4,69990,4500,1951,video.movie,0,1,58,16,129,3,1306.33333,458.42944,900,1947
+titles02/index.html.3612,tt0029583,Schneewittchen und die sieben Zwerge (1937),schneewittchen und die sieben zwerge,http://www.imdb.com/title/tt0029583/,7.7,92722,4980,1937,video.movie,10,3,98,428,174,3,993.66667,71.05084,900,1072
+titles03/index.html.315,tt0034492,Bambi (1942),bambi,http://www.imdb.com/title/tt0034492/,7.4,63109,3900,1942,video.movie,3,1,35,94,119,3,2777.66667,2534.77209,900,6361
+titles01/tt0405508,tt0405508,Rang De Basanti (2006),rang de basanti,http://www.imdb.com/title/tt0405508/,8.6,36778,9420,2006,video.movie,16,18,3,335,294,2,3502.00000,2859.00000,643,6361
+titles01/tt0986264,tt0986264,Taare Zameen Par (2007),taare zameen par,http://www.imdb.com/title/tt0986264/,8.6,48238,9900,2007,video.movie,13,15,2,325,261,1,6361.00000,0.00000,6361,6361
+titles03/index.html.5375,tt1166827,Zeitgeist (Video 2007),zeitgeist video,http://www.imdb.com/title/tt1166827/,8.3,34533,7080,2007,video.movie,0,0,3,2,151,2,845.50000,202.50000,643,1048
+titles03/index.html.5577,tt1313104,Die Bucht (2009),die bucht,http://www.imdb.com/title/tt1313104/,8.5,32257,5520,2009,video.movie,26,8,34,372,138,2,1528.00000,480.00000,1048,2008
+titles03/index.html.5689,tt1424432,Senna (2010),senna,http://www.imdb.com/title/tt1424432/,8.6,34436,6360,2010,video.movie,11,10,7,509,107,3,663.33333,323.28763,257,1048
+titles01/tt1490017,tt1490017,Lego (2014),lego,http://www.imdb.com/title/tt1490017/,8.3,52708,6000,2014,video.movie,1,0,42,1651,225,3,2492.66667,1571.28490,900,4631
+titles02/index.html.5535,tt1639426,Udaan (2010),udaan,http://www.imdb.com/title/tt1639426/,8.3,17246,8040,2010,video.movie,13,19,7,214,58,1,6361.00000,0.00000,6361,6361
+titles03/index.html.5986,tt1645089,Inside Job (2010),inside job,http://www.imdb.com/title/tt1645089/,8.3,42684,6300,2010,video.movie,7,16,52,844,118,2,1528.00000,480.00000,1048,2008
+titles02/index.html.6244,tt2082197,Barfi! (2012),barfi,http://www.imdb.com/title/tt2082197/,8.3,32832,9060,2012,video.movie,19,18,3,35,208,3,4322.66667,1803.39649,1976,6361
+titles03/index.html.6533,tt2278388,Grand Budapest Hotel (2014),grand budapest hotel,http://www.imdb.com/title/tt2278388/,8.4,41203,6000,2014,video.movie,1,1,37,1074,178,1,4631.00000,0.00000,4631,4631
+titles03/index.html.2645,tt0118849,Himmelskinder (1997),himmelskinder,http://www.imdb.com/title/tt0118849/,8.5,18278,5340,1997,video.movie,13,2,10,28,116,2,3716.50000,2644.50000,1072,6361
+titles01/tt0169102,tt0169102,Lagaan: Once Upon a Time in India (2001),lagaan once upon a time in india,http://www.imdb.com/title/tt0169102/,8.3,33481,13440,2001,video.movie,44,19,19,9,228,3,2909.00000,2519.38141,419,6361
+titles03/index.html.3198,tt0242519,Hera Pheri (2000),hera pheri,http://www.imdb.com/title/tt0242519/,8.5,11531,9360,2000,video.movie,5,3,8,113,27,1,4631.00000,0.00000,4631,4631
+titles02/index.html.5760,tt0292490,Dil Chahta Hai (2001),dil chahta hai,http://www.imdb.com/title/tt0292490/,8.6,22420,10980,2001,video.movie,21,36,3,231,79,2,5496.00000,865.00000,4631,6361
+titles03/index.html.3545,tt0314067,Filantropica (2002),filantropica,http://www.imdb.com/title/tt0314067/,8.6,8322,6600,2002,video.movie,4,0,0,0,27,2,5496.00000,865.00000,4631,6361
+titles01/tt0367110,tt0367110,Swades: We\, the People (2004),swades we the people,http://www.imdb.com/title/tt0367110/,8.5,27617,12600,2004,video.movie,12,23,0,0,189,1,6361.00000,0.00000,6361,6361
+titles01/tt0089881,tt0089881,Ran (1985),ran,http://www.imdb.com/title/tt0089881/,8.3,58697,9720,1985,video.movie,28,18,25,106,220,3,3087.33333,2387.61280,734,6361
+titles02/index.html.3978,tt0095467,Ein kurzer Film über die Liebe (1988),ein kurzer film ber die liebe,http://www.imdb.com/title/tt0095467/,8.3,8937,5160,1988,video.movie,7,1,4,0,29,2,4168.50000,2192.50000,1976,6361
+titles03/index.html.2082,tt0097223,Die Zeit der Zigeuner (1988),die zeit der zigeuner,http://www.imdb.com/title/tt0097223/,8.3,13586,8520,1988,video.movie,2,4,4,2,248,3,4333.33333,1789.52626,2008,6361
+titles02/index.html.6451,tt0104561,Jo Jeeta Wohi Sikandar (1992),jo jeeta wohi sikandar,http://www.imdb.com/title/tt0104561/,8.3,8103,10440,1992,video.movie,1,0,0,0,25,3,4322.66667,1803.39649,1976,6361
+titles03/index.html.2389,tt0109117,Andaz Apna Apna (1994),andaz apna apna,http://www.imdb.com/title/tt0109117/,8.7,16180,9600,1994,video.movie,0,0,0,0,52,1,4631.00000,0.00000,4631,4631
+titles02/index.html.5884,tt0317919,Mission: Impossible III (2006),mission impossible iii,http://www.imdb.com/title/tt0317919/,6.8,184777,7560,2006,video.movie,7,12,171,1189,835,3,2039.66667,93.09971,1947,2167
+titles03/index.html.3582,tt0320661,Königreich der Himmel (2005),k nigreich der himmel,http://www.imdb.com/title/tt0320661/,7.2,166279,8640,2005,video.movie,4,11,104,446,920,3,3491.66667,2030.91200,1947,6361
+titles02/index.html.5199,tt0327084,Ab durch die Hecke (2006),ab durch die hecke,http://www.imdb.com/title/tt0327084/,6.8,99823,4980,2006,video.movie,6,14,52,189,243,3,2492.66667,1571.28490,900,4631
+titles03/index.html.3685,tt0342258,Unleashed - Entfesselt (2005),unleashed entfesselt,http://www.imdb.com/title/tt0342258/,7,72374,6180,2005,video.movie,0,0,41,109,295,3,3512.00000,2015.59272,2008,6361
+titles02/index.html.5197,tt0351283,Madagascar (2005),madagascar,http://www.imdb.com/title/tt0351283/,6.9,182719,5160,2005,video.movie,4,24,51,743,375,3,2492.66667,1571.28490,900,4631
+titles03/index.html.3767,tt0360486,Constantine (2005),constantine,http://www.imdb.com/title/tt0360486/,6.9,179579,7260,2005,video.movie,1,5,51,832,984,2,856.50000,152.50000,704,1009
+titles03/index.html.3791,tt0363771,Die Chroniken von Narnia - Der König von Narnia (2005),die chroniken von narnia der k nig von narnia,http://www.imdb.com/title/tt0363771/,6.9,218877,8580,2005,video.movie,14,36,99,201,1449,3,1342.66667,428.10149,1009,1947
+titles02/index.html.2517,tt0365737,Syriana (2005),syriana,http://www.imdb.com/title/tt0365737/,7,92002,7680,2005,video.movie,9,21,82,730,619,2,4183.00000,2178.00000,2005,6361
+titles02/index.html.6020,tt0366627,The Jacket (2005),the jacket,http://www.imdb.com/title/tt0366627/,7.1,77080,6180,2005,video.movie,0,0,27,103,249,2,3790.00000,2571.00000,1219,6361
+titles02/index.html.3413,tt0367594,Charlie und die Schokoladenfabrik (2005),charlie und die schokoladenfabrik,http://www.imdb.com/title/tt0367594/,6.8,232328,6900,2005,video.movie,12,32,179,1367,1328,3,2550.00000,1514.22742,1072,4631
+titles02/index.html.5823,tt0376994,X-Men - Der letzte Widerstand (2006),x men der letzte widerstand,http://www.imdb.com/title/tt0376994/,6.8,264067,6240,2006,video.movie,5,29,161,2305,1880,2,2057.00000,110.00000,1947,2167
+titles03/index.html.3943,tt0386117,Wo die wilden Kerle wohnen (2009),wo die wilden kerle wohnen,http://www.imdb.com/title/tt0386117/,6.8,74211,6060,2009,video.movie,5,25,68,2094,374,3,3126.66667,2314.74841,1072,6361
+titles02/index.html.5734,tt0393162,Coach Carter (2005),coach carter,http://www.imdb.com/title/tt0393162/,7.2,69244,8160,2005,video.movie,3,15,109,164,203,2,3309.00000,3052.00000,257,6361
+titles02/index.html.5202,tt0397892,Bolt: Ein Hund für alle Fälle (2008),bolt ein hund f r alle f lle,http://www.imdb.com/title/tt0397892/,7,108289,5760,2008,video.movie,1,21,51,531,165,3,2492.66667,1571.28490,900,4631
+titles03/index.html.4002,tt0398808,Brücke nach Terabithia (2007),br cke nach terabithia,http://www.imdb.com/title/tt0398808/,7.2,85387,5760,2007,video.movie,6,2,36,197,498,3,3126.66667,2314.74841,1072,6361
+titles02/index.html.3191,tt0399201,Die Insel (2005),die insel,http://www.imdb.com/title/tt0399201/,6.9,217957,8160,2005,video.movie,1,3,70,344,870,2,2057.00000,110.00000,1947,2167
+titles03/index.html.4043,tt0405296,A Scanner Darkly - Der dunkle Schirm (2006),a scanner darkly der dunkle schirm,http://www.imdb.com/title/tt0405296/,7.1,74355,6000,2006,video.movie,3,7,56,272,286,2,3630.50000,2730.50000,900,6361
+titles02/index.html.4914,tt0406816,Jede Sekunde zählt - The Guardian (2006),jede sekunde z hlt the guardian,http://www.imdb.com/title/tt0406816/,6.8,63093,8340,2006,video.movie,1,4,33,77,273,3,3491.66667,2030.91200,1947,6361
+titles02/index.html.568,tt0410297,Das Haus am See (2006),das haus am see,http://www.imdb.com/title/tt0410297/,6.8,92603,5940,2006,video.movie,2,1,115,131,534,3,3115.33333,2328.73876,1009,6361
+titles02/index.html.4630,tt0411477,Hellboy 2 - Die goldene Armee (2008),hellboy die goldene armee,http://www.imdb.com/title/tt0411477/,7.1,169411,7200,2008,video.movie,7,13,109,777,333,3,1707.66667,502.12969,1009,2167
+titles03/index.html.4080,tt0412019,Broken Flowers (2005),broken flowers,http://www.imdb.com/title/tt0412019/,7.2,67804,6360,2005,video.movie,4,11,83,210,509,3,4070.33333,2136.32103,1219,6361
+titles02/index.html.5827,tt0418279,Transformers (2007),transformers,http://www.imdb.com/title/tt0418279/,7.2,396432,8640,2007,video.movie,12,30,118,10522,1748,2,2057.00000,110.00000,1947,2167
+titles02/index.html.2851,tt0418689,Flags of Our Fathers (2006),flags of our fathers,http://www.imdb.com/title/tt0418689/,7.1,84617,7920,2006,video.movie,15,15,67,517,406,3,2579.33333,2674.30020,643,6361
+titles03/index.html.4116,tt0418763,Jarhead - Willkommen im Dreck (2005),jarhead willkommen im dreck,http://www.imdb.com/title/tt0418763/,7.1,116866,7500,2005,video.movie,5,10,176,465,647,3,2593.33333,2664.21775,685,6361
+titles02/index.html.5573,tt0421073,Street Kings (2008),street kings,http://www.imdb.com/title/tt0421073/,6.8,82710,6540,2008,video.movie,0,0,53,497,173,3,3512.00000,2015.59272,2008,6361
+titles03/index.html.4146,tt0424136,Hard Candy (2005),hard candy,http://www.imdb.com/title/tt0424136/,7.2,109409,6240,2005,video.movie,9,9,22,8,611,1,2005.00000,0.00000,2005,2005
+titles02/index.html.5058,tt0425123,Solange Du da bist (2005),solange du da bist,http://www.imdb.com/title/tt0425123/,6.8,66941,5700,2005,video.movie,1,1,33,85,255,3,2538.66667,1531.26665,1009,4631
+titles03/index.html.4165,tt0426883,Alpha Dog - Tödliche Freundschaft (2006),alpha dog t dliche freundschaft,http://www.imdb.com/title/tt0426883/,6.9,76872,7080,2006,video.movie,2,2,94,418,262,3,3018.00000,2424.77752,685,6361
+titles02/index.html.907,tt0427327,Hairspray (2007),hairspray,http://www.imdb.com/title/tt0427327/,6.9,77236,7020,2007,video.movie,13,19,168,1609,386,3,2342.00000,1738.90828,419,4631
+titles03/index.html.4180,tt0429493,Das A-Team - Der Film (2010),das a team der film,http://www.imdb.com/title/tt0429493/,6.8,168808,7020,2010,video.movie,1,1,94,2173,349,3,2915.00000,1216.71470,1947,4631
+titles03/index.html.4183,tt0430105,Vier Brüder (2005),vier br der,http://www.imdb.com/title/tt0430105/,6.9,85602,6540,2005,video.movie,6,7,77,274,331,3,3512.00000,2015.59272,2008,6361
+titles02/index.html.6788,tt0430922,Vorbilder?! (2008),vorbilder,http://www.imdb.com/title/tt0430922/,6.9,164117,5940,2008,video.movie,0,0,78,1156,160,1,4631.00000,0.00000,4631,4631
+titles03/index.html.4188,tt0431308,P.S. Ich Liebe Dich (2007),p s ich liebe dich,http://www.imdb.com/title/tt0431308/,7,123082,7560,2007,video.movie,2,4,34,384,239,2,4168.50000,2192.50000,1976,6361
+titles02/index.html.3363,tt0438097,Ice Age 2 - Jetzt taut's (2006),ice age jetzt taut s,http://www.imdb.com/title/tt0438097/,6.9,131117,5460,2006,video.movie,6,14,55,240,248,3,1671.33333,552.76055,900,2167
+titles02/index.html.4627,tt0449088,Pirates of the Caribbean - Am Ende der Welt (2007),pirates of the caribbean am ende der welt,http://www.imdb.com/title/tt0449088/,7.1,343955,10140,2007,video.movie,18,28,130,380,1222,3,1707.66667,502.12969,1009,2167
+titles03/index.html.4268,tt0450385,Zimmer 1408 (2007),zimmer,http://www.imdb.com/title/tt0450385/,6.8,169276,6240,2007,video.movie,3,4,48,25,551,2,961.50000,257.50000,704,1219
+titles02/index.html.5201,tt0451079,Horton hört ein Hu (2008),horton h rt ein hu,http://www.imdb.com/title/tt0451079/,6.9,85924,5160,2008,video.movie,1,14,44,43,139,3,2492.66667,1571.28490,900,4631
+titles02/index.html.5910,tt0452694,Die Frau des Zeitreisenden (2009),die frau des zeitreisenden,http://www.imdb.com/title/tt0452694/,7.1,88632,6420,2009,video.movie,1,5,49,516,215,3,3115.33333,2328.73876,1009,6361
+titles02/index.html.3190,tt0453467,Déjà Vu - Wettlauf gegen die Zeit (2006),d j vu wettlauf gegen die zeit,http://www.imdb.com/title/tt0453467/,7,190054,7560,2006,video.movie,1,5,59,242,390,2,2086.00000,81.00000,2005,2167
+titles03/index.html.4317,tt0457939,Liebe braucht keine Ferien (2006),liebe braucht keine ferien,http://www.imdb.com/title/tt0457939/,6.9,138351,8280,2006,video.movie,1,5,80,195,465,2,3303.50000,1327.50000,1976,4631
+titles02/index.html.2878,tt0458339,Captain America: The First Avenger (2011),captain america the first avenger,http://www.imdb.com/title/tt0458339/,6.8,280412,7440,2011,video.movie,2,19,138,11496,591,2,2057.00000,110.00000,1947,2167
+titles03/index.html.4320,tt0458352,Der Teufel trägt Prada (2006),der teufel tr gt prada,http://www.imdb.com/title/tt0458352/,6.8,202973,6540,2006,video.movie,14,28,130,2445,605,3,4322.66667,1803.39649,1976,6361
+titles03/index.html.4344,tt0461770,Verwünscht (2007),verw nscht,http://www.imdb.com/title/tt0461770/,7.2,111544,6420,2007,video.movie,8,26,83,745,377,3,2237.33333,1692.77333,1009,4631
+titles03/index.html.4351,tt0463854,28 Weeks Later (2007),weeks later,http://www.imdb.com/title/tt0463854/,7,167005,6000,2007,video.movie,2,7,22,7,682,2,1354.50000,650.50000,704,2005
+titles03/index.html.4390,tt0472033,#9 (2009),,http://www.imdb.com/title/tt0472033/,7.1,87387,4740,2009,video.movie,0,0,66,5,232,3,1671.33333,552.76055,900,2167
+titles02/index.html.4153,tt0473705,State of Play - Stand der Dinge (2009),state of play stand der dinge,http://www.imdb.com/title/tt0473705/,7.2,96006,7620,2009,video.movie,2,2,43,977,219,2,3790.00000,2571.00000,1219,6361
+titles03/index.html.4414,tt0477302,Extrem laut und unglaublich nah (2011),extrem laut und unglaublich nah,http://www.imdb.com/title/tt0477302/,6.9,63516,7740,2011,video.movie,9,12,94,736,308,3,3175.66667,2271.89456,1219,6361
+titles03/index.html.4420,tt0478087,21 (2008),,http://www.imdb.com/title/tt0478087/,6.8,158895,7380,2008,video.movie,1,5,82,22,276,3,3458.00000,2052.73135,2005,6361
+titles03/index.html.4423,tt0478311,Beim ersten Mal (2007),beim ersten mal,http://www.imdb.com/title/tt0478311/,7.1,240589,7740,2007,video.movie,4,14,50,2920,545,3,4322.66667,1803.39649,1976,6361
+titles02/index.html.2479,tt0479143,Rocky Balboa (2006),rocky balboa,http://www.imdb.com/title/tt0479143/,7.2,123125,6120,2006,video.movie,0,0,92,735,940,2,3309.00000,3052.00000,257,6361
+titles03/index.html.4430,tt0479884,Crank (2006),crank,http://www.imdb.com/title/tt0479884/,7,155581,5280,2006,video.movie,1,0,63,1355,423,3,2060.00000,75.67034,2005,2167
+titles03/index.html.4431,tt0479952,Madagascar 2 (2008),madagascar,http://www.imdb.com/title/tt0479952/,6.8,96824,5340,2008,video.movie,3,8,108,439,114,3,1671.33333,552.76055,900,2167
+titles03/index.html.4433,tt0480242,Dan - Mitten im Leben! (2007),dan mitten im leben,http://www.imdb.com/title/tt0480242/,6.8,76007,5880,2007,video.movie,0,0,54,290,262,3,4322.66667,1803.39649,1976,6361
+titles02/index.html.2907,tt0480249,I Am Legend (2007),i am legend,http://www.imdb.com/title/tt0480249/,7.2,375606,6060,2007,video.movie,9,18,37,2958,1377,2,4183.00000,2178.00000,2005,6361
+titles03/index.html.4468,tt0486822,Disturbia - Auch Killer haben Nachbarn (2007),disturbia auch killer haben nachbarn,http://www.imdb.com/title/tt0486822/,6.9,159906,6300,2007,video.movie,4,4,60,1009,473,3,3195.00000,2261.57998,1219,6361
+titles02/index.html.4156,tt0488120,Das perfekte Verbrechen (2007),das perfekte verbrechen,http://www.imdb.com/title/tt0488120/,7.2,111085,6780,2007,video.movie,1,2,50,108,273,3,3196.00000,2261.05418,1219,6361
+titles02/index.html.3642,tt0496806,Ocean's Thirteen (2007),ocean s thirteen,http://www.imdb.com/title/tt0496806/,6.9,192150,7320,2007,video.movie,1,5,155,259,277,2,2006.50000,1.50000,2005,2008
+titles03/index.html.4499,tt0497465,Vicky Cristina Barcelona (2008),vicky cristina barcelona,http://www.imdb.com/title/tt0497465/,7.2,150056,5760,2008,video.movie,24,31,84,1397,336,2,4168.50000,2192.50000,1976,6361
+titles03/index.html.4503,tt0498399,Helden der Nacht (2007),helden der nacht,http://www.imdb.com/title/tt0498399/,6.9,63880,7020,2007,video.movie,0,0,63,352,191,3,3458.00000,2052.73135,2005,6361
+titles03/index.html.4745,tt0758774,Der Mann\, der niemals lebte (2008),der mann der niemals lebte,http://www.imdb.com/title/tt0758774/,7.1,138641,7680,2008,video.movie,0,0,59,432,245,3,3511.00000,2016.33926,2005,6361
+titles03/index.html.4760,tt0765010,Brothers (2009),brothers,http://www.imdb.com/title/tt0765010/,7.2,68321,6300,2009,video.movie,1,10,16,6,192,3,3033.33333,2409.54827,734,6361
+titles02/index.html.3613,tt0780521,Küss den Frosch (2009),k ss den frosch,http://www.imdb.com/title/tt0780521/,7.2,64543,5820,2009,video.movie,8,26,105,1319,194,3,993.66667,71.05084,900,1072
+titles03/index.html.4814,tt0790724,Jack Reacher (2012),jack reacher,http://www.imdb.com/title/tt0790724/,7,154573,7800,2012,video.movie,1,3,53,2591,371,3,2060.00000,75.67034,2005,2167
+titles02/index.html.3193,tt0800080,Der unglaubliche Hulk (2008),der unglaubliche hulk,http://www.imdb.com/title/tt0800080/,6.9,237987,6720,2008,video.movie,1,4,92,3070,595,2,2086.00000,81.00000,2005,2167
+titles03/index.html.4841,tt0800369,Thor (2011),thor,http://www.imdb.com/title/tt0800369/,7,346716,6900,2011,video.movie,5,15,134,17429,702,3,1707.66667,502.12969,1009,2167
+titles03/index.html.4847,tt0804497,It's Kind of a Funny Story (2010),it s kind of a funny story,http://www.imdb.com/title/tt0804497/,7.2,77919,6060,2010,video.movie,0,0,31,256,133,3,4322.66667,1803.39649,1976,6361
+titles03/index.html.4883,tt0816711,World War Z (2013),world war z,http://www.imdb.com/title/tt0816711/,7.1,287338,6960,2013,video.movie,2,12,67,5519,866,3,1606.00000,644.10299,704,2167
+titles03/index.html.4897,tt0822832,Marley & ich (2008),marley ich,http://www.imdb.com/title/tt0822832/,7.1,91166,6900,2008,video.movie,2,4,85,235,311,3,4021.33333,2201.84019,1072,6361
+titles02/index.html.6666,tt0822854,Shooter (2007),shooter,http://www.imdb.com/title/tt0822854/,7.2,193697,7440,2007,video.movie,0,0,64,244,321,3,3512.00000,2015.59272,2008,6361
+titles02/index.html.6447,tt0832266,Vielleicht\, vielleicht auch nicht (2008),vielleicht vielleicht auch nicht,http://www.imdb.com/title/tt0832266/,7.2,105395,6720,2008,video.movie,0,0,95,2,158,3,4322.66667,1803.39649,1976,6361
+titles03/index.html.4927,tt0838221,Darjeeling Limited (2007),darjeeling limited,http://www.imdb.com/title/tt0838221/,7.2,100498,5460,2007,video.movie,1,3,68,569,262,3,4313.00000,1815.98311,1947,6361
+titles03/index.html.4928,tt0838283,Stiefbrüder (2008),stiefbr der,http://www.imdb.com/title/tt0838283/,6.8,160611,5880,2008,video.movie,3,1,68,1232,261,1,4631.00000,0.00000,4631,4631
+titles03/index.html.4937,tt0842926,The Kids Are All Right (2010),the kids are all right,http://www.imdb.com/title/tt0842926/,7.1,91773,6360,2010,video.movie,16,66,73,3588,277,2,5496.00000,865.00000,4631,6361
+titles02/index.html.2624,tt0884328,Der Nebel (2007),der nebel,http://www.imdb.com/title/tt0884328/,7.2,170012,7560,2007,video.movie,2,5,16,836,1005,2,1354.50000,650.50000,704,2005
+titles03/index.html.4993,tt0887883,Burn After Reading - Wer verbrennt sich hier die Finger? (2008),burn after reading wer verbrennt sich hier die finger,http://www.imdb.com/title/tt0887883/,7,198124,5760,2008,video.movie,2,13,118,985,526,3,4333.33333,1789.52626,2008,6361
+titles03/index.html.5031,tt0914863,Unthinkable (2010),unthinkable,http://www.imdb.com/title/tt0914863/,7.1,59945,5820,2010,video.movie,0,0,13,102,235,2,4183.00000,2178.00000,2005,6361
+titles02/index.html.3180,tt0942385,Tropic Thunder (2008),tropic thunder,http://www.imdb.com/title/tt0942385/,7,239023,6420,2008,video.movie,12,18,152,3012,548,2,3399.00000,1232.00000,2167,4631
+titles03/index.html.5062,tt0947810,Green Zone (2010),green zone,http://www.imdb.com/title/tt0947810/,6.9,91066,6900,2010,video.movie,0,0,36,1292,247,3,3511.00000,2016.33926,2005,6361
+titles03/index.html.5063,tt0948470,The Amazing Spider-Man (2012),the amazing spider man,http://www.imdb.com/title/tt0948470/,7.2,300076,8160,2012,video.movie,3,25,132,11601,1158,3,1707.66667,502.12969,1009,2167
+titles02/index.html.5619,tt0985699,Operation Walküre - Das Stauffenberg-Attentat (2008),operation walk re das stauffenberg attentat,http://www.imdb.com/title/tt0985699/,7.1,138678,7260,2008,video.movie,2,8,103,1364,410,3,3003.00000,2438.69965,643,6361
+titles03/index.html.5127,tt0993842,Wer ist Hanna? (2011),wer ist hanna,http://www.imdb.com/title/tt0993842/,6.8,132191,6660,2011,video.movie,4,10,46,1777,404,3,2039.66667,93.09971,1947,2167
+titles02/index.html.5223,tt1028528,Death Proof - Todsicher (2007),death proof todsicher,http://www.imdb.com/title/tt1028528/,7.1,161897,6780,2007,video.movie,1,3,59,1001,555,2,2086.00000,81.00000,2005,2167
+titles02/index.html.1837,tt1034303,Unbeugsam (2008),unbeugsam,http://www.imdb.com/title/tt1034303/,7.2,92625,8220,2008,video.movie,2,2,47,615,214,3,3057.00000,2417.70635,643,6361
+titles03/index.html.5210,tt1037705,The Book of Eli (2010),the book of eli,http://www.imdb.com/title/tt1037705/,6.9,170948,7080,2010,video.movie,3,11,124,1419,531,3,3491.66667,2030.91200,1947,6361
+titles02/index.html.6477,tt1054606,Das Kabinett des Doktor Parnassus (2009),das kabinett des doktor parnassus,http://www.imdb.com/title/tt1054606/,6.9,104593,7380,2009,video.movie,4,12,63,1224,206,3,1391.66667,401.92979,1009,1947
+titles03/index.html.5235,tt1060277,Cloverfield (2008),cloverfield,http://www.imdb.com/title/tt1060277/,7.1,234120,5100,2008,video.movie,5,11,63,3261,2143,2,2086.00000,81.00000,2005,2167
+titles03/index.html.5256,tt1080016,Ice Age 3 - Die Dinosaurier sind los (2009),ice age die dinosaurier sind los,http://www.imdb.com/title/tt1080016/,7.1,113746,5640,2009,video.movie,1,12,46,547,125,3,1671.33333,552.76055,900,2167
+titles03/index.html.5266,tt1091722,Adventureland (2009),adventureland,http://www.imdb.com/title/tt1091722/,6.8,107058,6420,2009,video.movie,0,0,53,1917,210,3,4322.66667,1803.39649,1976,6361
+titles03/index.html.5269,tt1092026,Paul - Ein Alien auf der Flucht (2011),paul ein alien auf der flucht,http://www.imdb.com/title/tt1092026/,7.1,146632,6240,2011,video.movie,1,5,140,12,309,2,3289.00000,1342.00000,1947,4631
+titles03/index.html.5283,tt1104001,TRON: Legacy (2010),tron legacy,http://www.imdb.com/title/tt1104001/,6.9,210644,7500,2010,video.movie,3,21,407,6687,637,2,2057.00000,110.00000,1947,2167
+titles02/index.html.2461,tt1124035,The Ides of March - Tage des Verrats (2011),the ides of march tage des verrats,http://www.imdb.com/title/tt1124035/,7.2,154409,6060,2011,video.movie,9,21,97,2067,268,1,6361.00000,0.00000,6361,6361
+titles03/index.html.5334,tt1135503,Julie & Julia (2009),julie julia,http://www.imdb.com/title/tt1135503/,7,61496,7380,2009,video.movie,16,17,116,34,259,3,3007.33333,2429.26331,685,6361
+titles03/index.html.5350,tt1148204,Orphan - Das Waisenkind (2009),orphan das waisenkind,http://www.imdb.com/title/tt1148204/,7,101216,7380,2009,video.movie,0,0,69,1024,354,2,1612.00000,393.00000,1219,2005
+titles03/index.html.5359,tt1152836,Public Enemies (2009),public enemies,http://www.imdb.com/title/tt1152836/,7,182355,8400,2009,video.movie,1,10,101,2434,564,3,3018.00000,2424.77752,685,6361
+titles02/index.html.3280,tt1188729,Pandorum (2009),pandorum,http://www.imdb.com/title/tt1188729/,6.8,96813,6480,2009,video.movie,0,0,47,774,273,3,1363.33333,605.92427,704,2167
+titles02/index.html.3017,tt1204342,Die Muppets (2011),die muppets,http://www.imdb.com/title/tt1204342/,7.2,61829,6180,2011,video.movie,9,22,94,2498,240,3,2040.66667,1850.94072,419,4631
+titles02/index.html.6105,tt1211956,Escape Plan (2013),escape plan,http://www.imdb.com/title/tt1211956/,6.8,88888,6900,2013,video.movie,0,0,27,1048,202,3,1797.00000,414.02415,1219,2167
+titles02/index.html.2772,tt1228705,Iron Man 2 (2010),iron man,http://www.imdb.com/title/tt1228705/,7.1,336029,7440,2010,video.movie,3,24,205,11441,684,2,2057.00000,110.00000,1947,2167
+titles02/index.html.5909,tt1228987,Let Me In (2010),let me in,http://www.imdb.com/title/tt1228987/,7.2,69530,6960,2010,video.movie,8,21,76,3388,343,3,2761.33333,2554.01727,704,6361
+titles02/index.html.6113,tt1232829,21 Jump Street (2012),jump street,http://www.imdb.com/title/tt1232829/,7.2,247076,6540,2012,video.movie,6,18,53,39,296,3,2935.33333,1200.77318,2008,4631
+titles03/index.html.5495,tt1245492,Das ist das Ende (2013),das ist das ende,http://www.imdb.com/title/tt1245492/,6.9,197539,6420,2013,video.movie,6,7,61,2089,586,2,2820.00000,1811.00000,1009,4631
+titles03/index.html.5510,tt1259521,The Cabin in the Woods (2012),the cabin in the woods,http://www.imdb.com/title/tt1259521/,7.1,197627,5700,2012,video.movie,8,13,37,2075,877,3,1309.33333,534.95815,704,2005
+titles02/index.html.6103,tt1272878,2 Guns (2013),guns,http://www.imdb.com/title/tt1272878/,6.8,91579,6540,2013,video.movie,1,0,23,41,140,3,2935.33333,1200.77318,2008,4631
+titles03/index.html.5533,tt1277953,Madagascar 3: Flucht durch Europa (2012),madagascar flucht durch europa,http://www.imdb.com/title/tt1277953/,7,82063,5580,2012,video.movie,1,19,71,990,146,3,2492.66667,1571.28490,900,4631
+titles03/index.html.5586,tt1321870,Gangster Squad (2013),gangster squad,http://www.imdb.com/title/tt1321870/,6.8,133802,6780,2013,video.movie,1,1,112,2464,233,3,3512.00000,2015.59272,2008,6361
+titles02/index.html.5121,tt1334260,Alles\, was wir geben mussten (2010),alles was wir geben mussten,http://www.imdb.com/title/tt1334260/,7.2,81648,6180,2010,video.movie,6,22,42,1931,277,2,4168.50000,2192.50000,1976,6361
+titles02/index.html.2403,tt1340800,Dame\, König\, As\, Spion (2011),dame k nig as spion,http://www.imdb.com/title/tt1340800/,7.1,115003,7620,2011,video.movie,23,51,104,1930,488,3,3195.00000,2261.57998,1219,6361
+titles03/index.html.5643,tt1385826,Der Plan (2011),der plan,http://www.imdb.com/title/tt1385826/,7.1,161299,6360,2011,video.movie,1,7,47,1780,385,3,1663.33333,462.83498,1009,2005
+titles03/index.html.5650,tt1389137,Wir kaufen einen Zoo (2011),wir kaufen einen zoo,http://www.imdb.com/title/tt1389137/,7.2,85077,7440,2011,video.movie,1,7,55,1140,175,2,3716.50000,2644.50000,1072,6361
+titles02/index.html.5516,tt1399683,Winter's Bone (2010),winter s bone,http://www.imdb.com/title/tt1399683/,7.2,88851,6000,2010,video.movie,49,62,19,2047,271,1,6361.00000,0.00000,6361,6361
+titles02/index.html.4833,tt1401152,Unknown Identity (2011),unknown identity,http://www.imdb.com/title/tt1401152/,6.9,160000,6780,2011,video.movie,0,0,52,1522,320,3,1797.00000,414.02415,1219,2167
+titles03/index.html.5670,tt1403981,Remember Me (2010),remember me,http://www.imdb.com/title/tt1403981/,7.2,84925,6780,2010,video.movie,1,3,67,2317,341,2,4168.50000,2192.50000,1976,6361
+titles03/index.html.5675,tt1409024,Men in Black 3 (2012),men in black,http://www.imdb.com/title/tt1409024/,6.9,192034,6360,2012,video.movie,1,13,72,2841,326,2,3399.00000,1232.00000,2167,4631
+titles02/index.html.6104,tt1430132,Wolverine: Weg des Kriegers (2013),wolverine weg des kriegers,http://www.imdb.com/title/tt1430132/,6.8,189340,7560,2013,video.movie,1,5,19,4721,459,3,1707.66667,502.12969,1009,2167
+titles02/index.html.5196,tt1436562,Rio (2011),rio,http://www.imdb.com/title/tt1436562/,7,116167,5760,2011,video.movie,3,22,52,932,177,3,2492.66667,1571.28490,900,4631
+titles03/index.html.5741,tt1462758,Buried - Lebend begraben (2010),buried lebend begraben,http://www.imdb.com/title/tt1462758/,7,94679,5700,2010,video.movie,12,25,12,1463,417,3,3195.00000,2261.57998,1219,6361
+titles03/index.html.5762,tt1483013,Oblivion (2013),oblivion,http://www.imdb.com/title/tt1483013/,7,244627,7440,2013,video.movie,0,0,48,2834,776,3,1777.66667,405.11836,1219,2167
+titles02/index.html.6786,tt1499658,Kill the Boss (2011),kill the boss,http://www.imdb.com/title/tt1499658/,6.9,257383,5880,2011,video.movie,2,7,59,3413,352,2,3319.50000,1311.50000,2008,4631
+titles02/index.html.2909,tt1527186,Melancholia (2011),melancholia,http://www.imdb.com/title/tt1527186/,7.1,94094,8160,2011,video.movie,31,47,43,1985,502,1,6361.00000,0.00000,6361,6361
+titles02/index.html.6582,tt1567609,Get the Gringo (2012),get the gringo,http://www.imdb.com/title/tt1567609/,7.1,67634,5760,2012,video.movie,0,0,44,292,119,3,3512.00000,2015.59272,2008,6361
+titles03/index.html.5903,tt1601913,The Grey - Unter Wölfen (2011),the grey unter w lfen,http://www.imdb.com/title/tt1601913/,6.8,159537,7020,2011,video.movie,4,2,38,1782,688,3,3437.66667,2067.24444,1947,6361
+titles03/index.html.5910,tt1606389,Für immer Liebe (2012),f r immer liebe,http://www.imdb.com/title/tt1606389/,6.8,92639,6240,2012,video.movie,3,16,53,1210,145,2,4168.50000,2192.50000,1976,6361
+titles02/index.html.2401,tt1615147,Der große Crash (2011),der gro e crash,http://www.imdb.com/title/tt1615147/,7.1,68616,6420,2011,video.movie,8,14,31,1465,192,2,4183.00000,2178.00000,2005,6361
+titles03/index.html.5969,tt1637725,Ted (2012),ted,http://www.imdb.com/title/tt1637725/,7.1,327961,6360,2012,video.movie,6,21,53,2647,571,2,2820.00000,1811.00000,1009,4631
+titles03/index.html.6010,tt1663662,Pacific Rim (2013),pacific rim,http://www.imdb.com/title/tt1663662/,7.1,237607,7860,2013,video.movie,6,19,95,6454,974,2,2057.00000,110.00000,1947,2167
+titles02/index.html.6865,tt1723121,Wir sind die Millers (2013),wir sind die millers,http://www.imdb.com/title/tt1723121/,7.1,174177,6600,2013,video.movie,1,10,45,764,228,2,3319.50000,1311.50000,2008,4631
+titles02/index.html.6108,tt1764651,The Expendables 2 (2012),the expendables,http://www.imdb.com/title/tt1764651/,6.8,179497,6180,2012,video.movie,3,4,55,3251,446,3,2039.66667,93.09971,1947,2167
+titles02/index.html.6782,tt1862079,Journey of Love - Das wahre Abenteuer ist die Liebe (2012),journey of love das wahre abenteuer ist die liebe,http://www.imdb.com/title/tt1862079/,7.1,70752,5160,2012,video.movie,5,10,9,1136,199,3,4322.66667,1803.39649,1976,6361
+titles02/index.html.6109,tt1905041,Fast & Furious 6 (2013),fast furious,http://www.imdb.com/title/tt1905041/,7.2,198382,7800,2013,video.movie,4,16,66,1316,399,3,2060.00000,75.67034,2005,2167
+titles03/index.html.6268,tt1931533,7 Psychos (2012),psychos,http://www.imdb.com/title/tt1931533/,7.2,136150,6600,2012,video.movie,2,16,85,1272,251,3,2881.33333,1237.20177,2005,4631
+titles02/index.html.2400,tt2053463,Side Effects - Tödliche Nebenwirkungen (2013),side effects t dliche nebenwirkungen,http://www.imdb.com/title/tt2053463/,7.1,105194,6360,2013,video.movie,0,0,26,1169,238,3,3458.00000,2052.73135,2005,6361
+titles03/index.html.6496,tt2229499,Don Jon (2013),don jon,http://www.imdb.com/title/tt2229499/,6.8,108981,5400,2013,video.movie,2,6,79,1215,244,3,4322.66667,1803.39649,1976,6361
+titles03/index.html.1465,tt0074896,Mohammed - Der Gesandte Gottes (1977),mohammed der gesandte gottes,http://www.imdb.com/title/tt0074896/,8.6,18883,10620,1977,video.movie,0,0,13,12,104,3,2997.66667,2433.40219,685,6361
+titles03/index.html.1735,tt0085809,Koyaanisqatsi - Prophezeiung (1982),koyaanisqatsi prophezeiung,http://www.imdb.com/title/tt0085809/,8.3,20774,5160,1982,video.movie,5,1,21,86,178,2,755.50000,292.50000,463,1048
+titles03/index.html.2457,tt0112431,Ein Schweinchen namens Babe (1995),ein schweinchen namens babe,http://www.imdb.com/title/tt0112431/,6.9,77236,5340,1995,video.movie,17,17,70,155,172,2,3716.50000,2644.50000,1072,6361
+titles03/index.html.2476,tt0112851,Desperado (1995),desperado,http://www.imdb.com/title/tt0112851/,7.2,110222,6240,1995,video.movie,0,0,65,362,192,3,2060.00000,75.67034,2005,2167
+titles02/index.html.3553,tt0113189,James Bond 007 - GoldenEye (1995),james bond goldeneye,http://www.imdb.com/title/tt0113189/,7.2,158160,7800,1995,video.movie,2,4,81,624,382,3,2060.00000,75.67034,2005,2167
+titles02/index.html.3615,tt0116583,Der Glöckner von Notre Dame (1996),der gl ckner von notre dame,http://www.imdb.com/title/tt0116583/,6.8,66044,5460,1996,video.movie,7,16,30,224,197,3,2777.66667,2534.77209,900,6361
+titles03/index.html.2579,tt0116629,Independence Day (1996),independence day,http://www.imdb.com/title/tt0116629/,6.9,330053,8700,1996,video.movie,26,22,102,3787,791,2,2057.00000,110.00000,1947,2167
+titles03/index.html.2587,tt0117008,Matilda (1996),matilda,http://www.imdb.com/title/tt0117008/,6.8,65950,5880,1996,video.movie,3,7,65,173,149,2,2820.00000,1811.00000,1009,4631
+titles02/index.html.3558,tt0117060,Mission: Impossible (1996),mission impossible,http://www.imdb.com/title/tt0117060/,7,217750,6600,1996,video.movie,3,6,92,4704,331,3,2039.66667,93.09971,1947,2167
+titles02/index.html.1051,tt0117509,William Shakespeares Romeo & Julia (1996),william shakespeares romeo julia,http://www.imdb.com/title/tt0117509/,6.9,129664,7200,1996,video.movie,13,20,81,14,482,2,4168.50000,2192.50000,1976,6361
+titles02/index.html.3868,tt0118617,Anastasia (1997),anastasia,http://www.imdb.com/title/tt0118617/,7,60102,5640,1997,video.movie,8,15,53,0,177,3,3069.33333,2366.48182,900,6361
+titles03/index.html.2631,tt0118655,Austin Powers - Das Schärfste\, was Ihre Majestät zu bieten hat (1997),austin powers das sch rfste was ihre majest t zu bieten hat,http://www.imdb.com/title/tt0118655/,7,147662,5640,1997,video.movie,3,5,41,200,411,2,3319.50000,1311.50000,2008,4631
+titles02/index.html.3448,tt0118880,Con Air (1997),con air,http://www.imdb.com/title/tt0118880/,6.8,178696,6900,1997,video.movie,6,8,72,969,317,3,2060.00000,75.67034,2005,2167
+titles03/index.html.2662,tt0119164,Ganz oder gar nicht (1997),ganz oder gar nicht,http://www.imdb.com/title/tt0119164/,7.2,71136,5460,1997,video.movie,34,26,37,453,170,3,3818.33333,2475.46916,463,6361
+titles02/index.html.292,tt0119282,Hercules (1997),hercules,http://www.imdb.com/title/tt0119282/,7.2,87393,5580,1997,video.movie,8,9,67,26,142,3,1306.33333,458.42944,900,1947
+titles02/index.html.5911,tt0119643,Rendezvous mit Joe Black (1998),rendezvous mit joe black,http://www.imdb.com/title/tt0119643/,7.1,132606,10680,1998,video.movie,2,5,73,104,673,3,2863.00000,2474.94485,1009,6361
+titles03/index.html.2685,tt0119654,Men in Black (1997),men in black,http://www.imdb.com/title/tt0119654/,7.2,295461,5880,1997,video.movie,17,28,78,3292,269,1,4631.00000,0.00000,4631,4631
+titles02/index.html.1720,tt0120102,Sieben Jahre in Tibet (1997),sieben jahre in tibet,http://www.imdb.com/title/tt0120102/,7,75229,8160,1997,video.movie,3,6,57,104,110,3,2997.66667,2433.40219,685,6361
+titles03/index.html.2710,tt0120188,Three Kings - Es ist schön König zu sein (1999),three kings es ist sch n k nig zu sein,http://www.imdb.com/title/tt0120188/,7.2,117056,6840,1999,video.movie,10,13,120,811,546,3,2915.00000,1216.71470,1947,4631
+titles03/index.html.2711,tt0120201,Starship Troopers (1997),starship troopers,http://www.imdb.com/title/tt0120201/,7.2,180733,7740,1997,video.movie,3,12,64,1001,1005,1,2167.00000,0.00000,2167,2167
+titles02/index.html.4631,tt0120616,Die Mumie (1999),die mumie,http://www.imdb.com/title/tt0120616/,7,251786,7500,1999,video.movie,4,18,84,840,953,3,1707.66667,502.12969,1009,2167
+titles02/index.html.5194,tt0120623,Das große Krabbeln (1998),das gro e krabbeln,http://www.imdb.com/title/tt0120623/,7.2,159645,5700,1998,video.movie,11,13,95,279,302,3,2492.66667,1571.28490,900,4631
+titles03/index.html.2744,tt0120681,From Hell (2001),from hell,http://www.imdb.com/title/tt0120681/,6.9,102034,7320,2001,video.movie,0,0,151,682,528,3,1309.33333,534.95815,704,2005
+titles03/index.html.2758,tt0120780,Out of Sight (1998),out of sight,http://www.imdb.com/title/tt0120780/,7.1,62687,7380,1998,video.movie,13,7,104,552,296,3,2871.66667,1244.10512,1976,4631
+titles02/index.html.6845,tt0120784,Payback - Zahltag (1999),payback zahltag,http://www.imdb.com/title/tt0120784/,7.1,93445,6000,1999,video.movie,2,2,61,172,379,3,3512.00000,2015.59272,2008,6361
+titles02/index.html.3867,tt0120794,Der Prinz von Ägypten (1998),der prinz von gypten,http://www.imdb.com/title/tt0120794/,6.9,68056,5940,1998,video.movie,5,19,64,150,334,3,3069.33333,2366.48182,900,6361
+titles03/index.html.2768,tt0120812,Rush Hour (1998),rush hour,http://www.imdb.com/title/tt0120812/,6.9,143924,5880,1998,video.movie,6,7,71,992,305,3,2934.33333,1201.54604,2005,4631
+titles02/index.html.3864,tt0120855,Tarzan (1999),tarzan,http://www.imdb.com/title/tt0120855/,7.2,87320,5280,1999,video.movie,10,22,56,551,244,3,3069.33333,2366.48182,900,6361
+titles03/index.html.2779,tt0120888,Eine Hochzeit zum Verlieben (1998),eine hochzeit zum verlieben,http://www.imdb.com/title/tt0120888/,6.8,89259,5700,1998,video.movie,5,7,59,363,330,2,3303.50000,1327.50000,1976,4631
+titles02/index.html.567,tt0120889,Hinter dem Horizont (1998),hinter dem horizont,http://www.imdb.com/title/tt0120889/,6.9,65707,6780,1998,video.movie,4,2,40,141,596,3,3115.33333,2328.73876,1009,6361
+titles03/index.html.2783,tt0120902,Akte X: Der Film (1998),akte x der film,http://www.imdb.com/title/tt0120902/,6.9,67747,7260,1998,video.movie,4,7,99,39,291,2,1612.00000,393.00000,1219,2005
+titles02/index.html.2623,tt0120907,eXistenZ (1999),existenz,http://www.imdb.com/title/tt0120907/,6.8,63821,5820,1999,video.movie,3,7,27,0,505,1,2005.00000,0.00000,2005,2005
+titles02/index.html.2566,tt0121765,Star Wars: Episode II - Angriff der Klonkrieger (2002),star wars episode ii angriff der klonkrieger,http://www.imdb.com/title/tt0121765/,6.8,323204,8520,2002,video.movie,11,41,169,778,3412,3,1707.66667,502.12969,1009,2167
+titles03/index.html.2817,tt0125439,Notting Hill (1999),notting hill,http://www.imdb.com/title/tt0125439/,7,153227,7440,1999,video.movie,12,14,49,1334,579,3,4322.66667,1803.39649,1976,6361
+titles02/index.html.3189,tt0134847,Riddick - Planet der Finsternis (2000),riddick planet der finsternis,http://www.imdb.com/title/tt0134847/,7.1,158717,6540,2000,video.movie,2,4,62,1129,793,2,2086.00000,81.00000,2005,2167
+titles03/index.html.2863,tt0137363,Arlington Road (1999),arlington road,http://www.imdb.com/title/tt0137363/,7.2,61848,7020,1999,video.movie,0,0,45,136,577,2,1612.00000,393.00000,1219,2005
+titles03/index.html.2866,tt0138097,Shakespeare in Love (1998),shakespeare in love,http://www.imdb.com/title/tt0138097/,7.2,143051,7380,1998,video.movie,51,61,85,1495,740,3,4322.66667,1803.39649,1976,6361
+titles03/index.html.2872,tt0139134,Eiskalte Engel (1999),eiskalte engel,http://www.imdb.com/title/tt0139134/,6.9,125273,5820,1999,video.movie,7,13,64,312,729,2,4168.50000,2192.50000,1976,6361
+titles03/index.html.2898,tt0146838,An jedem verdammten Sonntag (1999),an jedem verdammten sonntag,http://www.imdb.com/title/tt0146838/,6.8,85002,9720,1999,video.movie,3,8,59,247,450,2,3309.00000,3052.00000,257,6361
+titles03/index.html.2917,tt0155267,Die Thomas Crown Affäre (1999),die thomas crown aff re,http://www.imdb.com/title/tt0155267/,6.8,62476,6780,1999,video.movie,3,2,80,263,409,3,1996.33333,14.42991,1976,2008
+titles02/index.html.230,tt0159365,Unterwegs nach Cold Mountain (2003),unterwegs nach cold mountain,http://www.imdb.com/title/tt0159365/,7.2,99891,9240,2003,video.movie,17,63,48,572,657,3,3023.66667,2413.70895,734,6361
+titles03/index.html.2950,tt0163651,American Pie: Wie ein Heisser Apfelkuchen (1999),american pie wie ein heisser apfelkuchen,http://www.imdb.com/title/tt0163651/,7,254968,5700,1999,video.movie,9,14,145,2985,773,2,3303.50000,1327.50000,1976,4631
+titles02/index.html.4632,tt0167190,Hellboy (2004),hellboy,http://www.imdb.com/title/tt0167190/,6.8,194016,7320,2004,video.movie,8,8,66,2822,586,3,1707.66667,502.12969,1009,2167
+titles03/index.html.3025,tt0183649,Nicht auflegen! (2002),nicht auflegen,http://www.imdb.com/title/tt0183649/,7.1,161214,4860,2002,video.movie,0,0,57,401,613,2,1612.00000,393.00000,1219,2005
+titles02/index.html.3304,tt0187393,Der Patriot (2000),der patriot,http://www.imdb.com/title/tt0187393/,7.1,162795,9900,2000,video.movie,8,17,228,259,1129,3,3087.33333,2387.61280,734,6361
+titles03/index.html.3057,tt0195714,Final Destination (2000),final destination,http://www.imdb.com/title/tt0195714/,6.8,141163,5880,2000,video.movie,3,3,65,1679,656,2,1354.50000,650.50000,704,2005
+titles02/index.html.3788,tt0203019,Men of Honor (2000),men of honor,http://www.imdb.com/title/tt0203019/,7.1,73594,7740,2000,video.movie,0,0,205,127,215,2,3523.00000,2838.00000,685,6361
+titles02/index.html.60,tt0212720,A.I. Künstliche Intelligenz (2001),a i k nstliche intelligenz,http://www.imdb.com/title/tt0212720/,7.1,189827,8760,2001,video.movie,13,41,51,330,2120,2,4154.00000,2207.00000,1947,6361
+titles02/index.html.5907,tt0217869,Unbreakable - Unzerbrechlich (2000),unbreakable unzerbrechlich,http://www.imdb.com/title/tt0217869/,7.2,200439,6360,2000,video.movie,2,10,52,441,1297,2,3790.00000,2571.00000,1219,6361
+titles02/index.html.3843,tt0223897,Das Glücksprinzip (2000),das gl cksprinzip,http://www.imdb.com/title/tt0223897/,7.1,79618,7380,2000,video.movie,1,3,30,86,648,1,6361.00000,0.00000,6361,6361
+titles02/index.html.6647,tt0227445,The Score (2001),the score,http://www.imdb.com/title/tt0227445/,6.8,85907,7440,2001,video.movie,1,1,33,120,427,3,2060.00000,75.67034,2005,2167
+titles02/index.html.2766,tt0234215,Matrix Reloaded (2003),matrix reloaded,http://www.imdb.com/title/tt0234215/,7.2,333743,8280,2003,video.movie,5,20,207,490,2771,1,2167.00000,0.00000,2167,2167
+titles02/index.html.5057,tt0240890,Weil es Dich gibt (2001),weil es dich gibt,http://www.imdb.com/title/tt0240890/,6.9,69750,5400,2001,video.movie,0,0,57,127,363,2,3303.50000,1327.50000,1976,4631
+titles02/index.html.4372,tt0247745,Super Troopers - Die Superbullen (2001),super troopers die superbullen,http://www.imdb.com/title/tt0247745/,7.1,61357,6000,2001,video.movie,1,0,35,292,323,3,2619.33333,1458.47691,1219,4631
+titles03/index.html.3265,tt0251160,John Q. - Verzweifelte Wut (2002),john q verzweifelte wut,http://www.imdb.com/title/tt0251160/,7,76550,6960,2002,video.movie,2,8,26,103,385,3,3458.00000,2052.73135,2005,6361
+titles02/index.html.6226,tt0257360,About Schmidt (2002),about schmidt,http://www.imdb.com/title/tt0257360/,7.2,93172,7500,2002,video.movie,34,35,96,406,604,2,5496.00000,865.00000,4631,6361
+titles02/index.html.2397,tt0258000,Panic Room (2002),panic room,http://www.imdb.com/title/tt0258000/,6.8,161649,6720,2002,video.movie,1,7,60,618,827,3,3458.00000,2052.73135,2005,6361
+titles03/index.html.3303,tt0259711,Vanilla Sky (2001),vanilla sky,http://www.imdb.com/title/tt0259711/,6.9,170901,8160,2001,video.movie,6,19,67,534,1223,3,1401.33333,415.29615,1009,1976
+titles03/index.html.3306,tt0261392,Jay und Silent Bob schlagen zurück (2001),jay und silent bob schlagen zur ck,http://www.imdb.com/title/tt0261392/,6.9,110172,6240,2001,video.movie,0,0,123,220,862,1,4631.00000,0.00000,4631,4631
+titles03/index.html.3321,tt0265208,The Girl Next Door (2004),the girl next door,http://www.imdb.com/title/tt0265208/,6.8,141999,6480,2004,video.movie,0,0,24,12,504,3,4322.66667,1803.39649,1976,6361
+titles03/index.html.3324,tt0265459,One Hour Photo (2002),one hour photo,http://www.imdb.com/title/tt0265459/,6.8,82854,5760,2002,video.movie,8,14,42,414,580,2,4183.00000,2178.00000,2005,6361
+titles02/index.html.5936,tt0266987,Spy Game - Der finale Countdown (2001),spy game der finale countdown,http://www.imdb.com/title/tt0266987/,7,100957,7560,2001,video.movie,0,0,46,117,347,3,2060.00000,75.67034,2005,2167
+titles02/index.html.3221,tt0275847,Lilo & Stitch (2002),lilo stitch,http://www.imdb.com/title/tt0275847/,7.1,76861,5040,2002,video.movie,9,20,60,15,353,3,2492.66667,1571.28490,900,4631
+titles02/index.html.939,tt0276751,About a Boy oder: Der Tag der toten Ente (2002),about a boy oder der tag der toten ente,http://www.imdb.com/title/tt0276751/,7.1,118762,6060,2002,video.movie,11,20,23,1164,384,3,4322.66667,1803.39649,1976,6361
+titles02/index.html.1364,tt0278504,Insomnia - Schlaflos (2002),insomnia schlaflos,http://www.imdb.com/title/tt0278504/,7.2,169766,7080,2002,video.movie,1,8,47,403,620,3,1744.00000,371.23308,1219,2008
+titles02/index.html.149,tt0289765,Roter Drache (2002),roter drache,http://www.imdb.com/title/tt0289765/,7.2,164519,7440,2002,video.movie,6,7,41,655,736,2,2006.50000,1.50000,2005,2008
+titles02/index.html.3450,tt0293662,The Transporter (2002),the transporter,http://www.imdb.com/title/tt0293662/,6.8,179826,5520,2002,video.movie,0,0,66,532,444,3,2060.00000,75.67034,2005,2167
+titles02/index.html.2824,tt0298130,Ring (2002),ring,http://www.imdb.com/title/tt0298130/,7.1,185424,6900,2002,video.movie,11,6,43,808,1603,3,1309.33333,534.95815,704,2005
+titles03/index.html.3492,tt0299658,Chicago (2002),chicago,http://www.imdb.com/title/tt0299658/,7.2,139341,6780,2002,video.movie,42,57,99,197,998,3,2352.66667,1736.72725,419,4631
+titles03/index.html.3503,tt0302886,Old School - Wir lassen absolut nichts anbrennen (2003),old school wir lassen absolut nichts anbrennen,http://www.imdb.com/title/tt0302886/,7.2,159548,5460,2003,video.movie,0,0,52,682,400,1,4631.00000,0.00000,4631,4631
+titles02/index.html.2232,tt0307987,Bad Santa (2003),bad santa,http://www.imdb.com/title/tt0307987/,7.2,88920,5460,2003,video.movie,1,8,55,805,464,2,3319.50000,1311.50000,2008,4631
+titles02/index.html.5710,tt0313542,Das Urteil (2003),das urteil,http://www.imdb.com/title/tt0313542/,7.1,66761,7620,2003,video.movie,0,0,18,157,349,2,4183.00000,2178.00000,2005,6361
+titles02/index.html.5934,tt0317740,The Italian Job - Jagd auf Millionen (2003),the italian job jagd auf millionen,http://www.imdb.com/title/tt0317740/,7,224563,6660,2003,video.movie,5,7,48,723,482,3,2060.00000,75.67034,2005,2167
+titles02/index.html.3324,tt0319343,Buddy - Der Weihnachtself (2003),buddy der weihnachtself,http://www.imdb.com/title/tt0319343/,6.9,108911,5820,2003,video.movie,2,7,57,695,361,3,2237.33333,1692.77333,1009,4631
+titles03/index.html.3583,tt0320691,Underworld (2003),underworld,http://www.imdb.com/title/tt0320691/,7,164763,7260,2003,video.movie,1,8,90,2604,790,3,1727.00000,511.99219,1009,2167
+titles03/index.html.3638,tt0332379,School of Rock (2003),school of rock,http://www.imdb.com/title/tt0332379/,7.1,157430,6480,2003,video.movie,8,11,67,653,455,2,2547.00000,2084.00000,463,4631
+titles03/index.html.3639,tt0332452,Troja (2004),troja,http://www.imdb.com/title/tt0332452/,7.2,276282,9780,2004,video.movie,3,17,144,778,1665,2,4154.00000,2207.00000,1947,6361
+titles03/index.html.3646,tt0335345,Die Passion Christi (2004),die passion christi,http://www.imdb.com/title/tt0335345/,7.1,152860,7620,2004,video.movie,22,10,42,875,2764,1,6361.00000,0.00000,6361,6361
+titles02/index.html.3412,tt0339291,Lemony Snicket - Rätselhafte Ereignisse (2004),lemony snicket r tselhafte ereignisse,http://www.imdb.com/title/tt0339291/,6.8,124618,6480,2004,video.movie,7,21,112,216,587,3,2550.00000,1514.22742,1072,4631
+titles02/index.html.4211,tt0343818,I\, Robot (2004),i robot,http://www.imdb.com/title/tt0343818/,7.1,270573,6900,2004,video.movie,1,10,94,81,762,2,1693.00000,474.00000,1219,2167
+titles02/index.html.4751,tt0363589,Elephant (2003),elephant,http://www.imdb.com/title/tt0363589/,7.2,60530,4860,2003,video.movie,7,6,19,189,671,3,3458.00000,2052.73135,2005,6361
+titles02/index.html.2316,tt0366551,Harold & Kumar Go to White Castle (2004),harold kumar go to white castle,http://www.imdb.com/title/tt0366551/,7.2,128821,5280,2004,video.movie,0,0,29,34,312,2,3289.00000,1342.00000,1947,4631
+titles02/index.html.5876,tt0368891,Das Vermächtnis der Tempelritter (2004),das verm chtnis der tempelritter,http://www.imdb.com/title/tt0368891/,6.9,199468,7860,2004,video.movie,1,8,69,1309,674,3,1777.66667,405.11836,1219,2167
+titles03/index.html.3850,tt0372588,Team America (2004),team america,http://www.imdb.com/title/tt0372588/,7.2,111112,5880,2004,video.movie,1,7,61,208,686,3,1671.33333,552.76055,900,2167
+titles03/index.html.3870,tt0374900,Napoleon Dynamite (2004),napoleon dynamite,http://www.imdb.com/title/tt0374900/,6.9,131096,4920,2004,video.movie,10,18,37,558,1430,1,4631.00000,0.00000,4631,4631
+titles03/index.html.3887,tt0377092,Girls Club - Vorsicht bissig! (2004),girls club vorsicht bissig,http://www.imdb.com/title/tt0377092/,6.9,167949,5820,2004,video.movie,7,16,44,4560,515,1,4631.00000,0.00000,4631,4631
+titles02/index.html.1728,tt0060107,Andrej Rubljow (1966),andrej rubljow,http://www.imdb.com/title/tt0060107/,8.3,18272,12300,1966,video.movie,3,0,17,28,97,3,2563.00000,2685.64629,643,6361
+titles03/index.html.1903,tt0091203,Highlander - Es kann nur Einen geben (1986),highlander es kann nur einen geben,http://www.imdb.com/title/tt0091203/,7.2,80947,6960,1986,video.movie,0,0,32,523,296,3,1707.66667,502.12969,1009,2167
+titles03/index.html.1935,tt0092099,Top Gun - Sie fürchten weder Tod noch Teufel (1986),top gun sie f rchten weder tod noch teufel,http://www.imdb.com/title/tt0092099/,6.8,168004,6600,1986,video.movie,9,5,129,2286,351,3,3501.33333,2023.59257,1976,6361
+titles03/index.html.1957,tt0092890,Dirty Dancing (1987),dirty dancing,http://www.imdb.com/title/tt0092890/,6.8,105208,6000,1987,video.movie,11,7,78,1440,373,3,2933.33333,2501.19523,463,6361
+titles02/index.html.341,tt0093105,Good Morning\, Vietnam (1987),good morning vietnam,http://www.imdb.com/title/tt0093105/,7.2,65727,7260,1987,video.movie,6,3,33,4,110,3,3908.66667,2353.31062,734,6361
+titles03/index.html.1969,tt0093177,Hellraiser - Das Tor zur Hölle (1987),hellraiser das tor zur h lle,http://www.imdb.com/title/tt0093177/,7.1,59890,5640,1987,video.movie,2,5,35,893,295,1,704.00000,0.00000,704,704
+titles03/index.html.2001,tt0094012,Mel Brooks Spaceballs (1987),mel brooks spaceballs,http://www.imdb.com/title/tt0094012/,7.1,106024,5760,1987,video.movie,0,0,43,193,245,2,3289.00000,1342.00000,1947,4631
+titles03/index.html.2054,tt0096446,Willow (1988),willow,http://www.imdb.com/title/tt0096446/,7.2,68700,7560,1988,video.movie,1,9,26,310,219,3,3491.66667,2030.91200,1947,6361
+titles02/index.html.3216,tt0096928,Bill & Ted's verrückte Reise durch die Zeit (1989),bill ted s verr ckte reise durch die zeit,http://www.imdb.com/title/tt0096928/,6.9,68664,5400,1989,video.movie,0,0,37,68,165,2,3289.00000,1342.00000,1947,4631
+titles02/index.html.5168,tt0096969,Geboren am 4. Juli (1989),geboren am juli,http://www.imdb.com/title/tt0096969/,7.2,60912,8700,1989,video.movie,16,17,60,227,160,3,2593.33333,2664.21775,685,6361
+titles03/index.html.2097,tt0097733,Lethal Weapon 2 - Brennpunkt L.A. (1989),lethal weapon brennpunkt l a,http://www.imdb.com/title/tt0097733/,7.2,98114,6840,1989,video.movie,1,0,52,113,154,2,2086.00000,81.00000,2005,2167
+titles02/index.html.3439,tt0099423,Stirb Langsam 2 (1990),stirb langsam,http://www.imdb.com/title/tt0099423/,7.1,205171,7440,1990,video.movie,1,1,4,443,288,2,2086.00000,81.00000,2005,2167
+titles02/index.html.6025,tt0099653,Ghost - Nachricht von Sam (1990),ghost nachricht von sam,http://www.imdb.com/title/tt0099653/,7,123596,7620,1990,video.movie,15,24,43,753,236,3,2863.00000,2474.94485,1009,6361
+titles03/index.html.2169,tt0100405,Pretty Woman (1990),pretty woman,http://www.imdb.com/title/tt0100405/,6.9,158096,7140,1990,video.movie,7,10,40,1163,251,2,3303.50000,1327.50000,1976,4631
+titles03/index.html.2182,tt0101272,Die Addams Family (1991),die addams family,http://www.imdb.com/title/tt0101272/,6.8,75222,5940,1991,video.movie,3,12,17,552,111,2,2820.00000,1811.00000,1009,4631
+titles03/index.html.2208,tt0102266,Last Boy Scout - Das Ziel ist Überleben (1991),last boy scout das ziel ist berleben,http://www.imdb.com/title/tt0102266/,6.9,62616,6300,1991,video.movie,0,0,30,261,135,3,2935.33333,1200.77318,2008,4631
+titles03/index.html.2219,tt0102685,Gefährliche Brandung (1991),gef hrliche brandung,http://www.imdb.com/title/tt0102685/,7.1,80077,7320,1991,video.movie,1,2,34,704,243,3,2060.00000,75.67034,2005,2167
+titles03/index.html.2224,tt0102798,Robin Hood - König der Diebe (1991),robin hood k nig der diebe,http://www.imdb.com/title/tt0102798/,6.9,118314,8580,1991,video.movie,14,17,48,266,301,3,3491.66667,2030.91200,1947,6361
+titles02/index.html.376,tt0103772,Basic Instinct (1992),basic instinct,http://www.imdb.com/title/tt0103772/,6.9,105371,7620,1992,video.movie,5,16,43,935,266,2,1612.00000,393.00000,1219,2005
+titles03/index.html.2246,tt0103776,Batmans Rückkehr (1992),batmans r ckkehr,http://www.imdb.com/title/tt0103776/,7,164843,7560,1992,video.movie,2,13,57,849,560,2,1588.00000,579.00000,1009,2167
+titles02/index.html.5567,tt0105112,Die Stunde der Patrioten (1992),die stunde der patrioten,http://www.imdb.com/title/tt0105112/,6.9,65361,7020,1992,video.movie,1,2,51,532,127,3,3512.00000,2015.59272,2008,6361
+titles03/index.html.2296,tt0105793,Wayne's World (1992),wayne s world,http://www.imdb.com/title/tt0105793/,7,88937,5640,1992,video.movie,3,3,37,330,160,2,2547.00000,2084.00000,463,4631
+titles03/index.html.2321,tt0106918,Die Firma (1993),die firma,http://www.imdb.com/title/tt0106918/,6.8,69767,9240,1993,video.movie,2,4,32,283,126,3,3195.00000,2261.57998,1219,6361
+titles03/index.html.2330,tt0107206,In the Line of Fire - Die zweite Chance (1993),in the line of fire die zweite chance,http://www.imdb.com/title/tt0107206/,7.2,62255,7680,1993,video.movie,2,11,36,207,128,3,3512.00000,2015.59272,2008,6361
+titles02/index.html.14,tt0107614,Mrs. Doubtfire - Das stachelige Kindermädchen (1993),mrs doubtfire das stachelige kinderm dchen,http://www.imdb.com/title/tt0107614/,6.8,124836,7500,1993,video.movie,9,6,38,363,204,2,5496.00000,865.00000,4631,6361
+titles03/index.html.2362,tt0108160,Schlaflos in Seattle (1993),schlaflos in seattle,http://www.imdb.com/title/tt0108160/,6.8,98224,6300,1993,video.movie,4,10,73,504,207,3,4322.66667,1803.39649,1976,6361
+titles03/index.html.2387,tt0109040,Ace Ventura - Ein tierischer Detektiv (1994),ace ventura ein tierischer detektiv,http://www.imdb.com/title/tt0109040/,6.9,159072,5160,1994,video.movie,5,3,31,148,225,1,4631.00000,0.00000,4631,4631
+titles03/index.html.2405,tt0109831,Vier Hochzeiten und ein Todesfall (1994),vier hochzeiten und ein todesfall,http://www.imdb.com/title/tt0109831/,7.1,87868,7020,1994,video.movie,24,16,46,652,186,3,4322.66667,1803.39649,1976,6361
+titles03/index.html.2417,tt0110475,Die Maske (1994),die maske,http://www.imdb.com/title/tt0110475/,6.8,188286,6060,1994,video.movie,6,16,31,327,197,3,2549.33333,1527.41663,1009,4631
+titles02/index.html.5566,tt0111257,Speed (1994),speed,http://www.imdb.com/title/tt0111257/,7.2,206087,6960,1994,video.movie,12,15,57,550,349,3,2060.00000,75.67034,2005,2167
+titles02/index.html.2567,tt0111282,Stargate (1994),stargate,http://www.imdb.com/title/tt0111282/,7,123007,7260,1994,video.movie,6,5,67,271,232,2,2057.00000,110.00000,1947,2167
+titles03/index.html.2443,tt0111503,True Lies - Wahre Lügen (1994),true lies wahre l gen,http://www.imdb.com/title/tt0111503/,7.2,151050,8460,1994,video.movie,7,15,46,771,331,2,2086.00000,81.00000,2005,2167
+titles01/tt0046911,tt0046911,Die Teuflischen (1955),die teuflischen,http://www.imdb.com/title/tt0046911/,8.3,29309,6840,1955,video.movie,4,0,20,77,135,3,1309.33333,534.95815,704,2005
+titles03/index.html.807,tt0050783,Die Nächte der Cabiria (1957),die n chte der cabiria,http://www.imdb.com/title/tt0050783/,8.3,20669,6600,1957,video.movie,14,6,7,95,74,1,6361.00000,0.00000,6361,6361
+titles01/tt0050986,tt0050986,Wilde Erdbeeren (1957),wilde erdbeeren,http://www.imdb.com/title/tt0050986/,8.3,45457,5460,1957,video.movie,12,2,29,107,130,1,6361.00000,0.00000,6361,6361
+titles01/tt0051201,tt0051201,Zeugin der Anklage (1957),zeugin der anklage,http://www.imdb.com/title/tt0051201/,8.5,40385,6960,1957,video.movie,3,8,23,32,172,3,3196.00000,2261.05418,1219,6361
+titles02/index.html.1501,tt0054248,Rocco und seine Brüder (1960),rocco und seine br der,http://www.imdb.com/title/tt0054248/,8.3,8889,10620,1960,video.movie,9,7,18,37,38,3,2875.33333,2566.30790,257,6361
+titles01/tt0055031,tt0055031,Das Urteil von Nürnberg (1961),das urteil von n rnberg,http://www.imdb.com/title/tt0055031/,8.3,28790,11160,1961,video.movie,17,21,30,98,156,3,2579.33333,2674.30020,643,6361
+titles01/tt0055630,tt0055630,Die Leibwache (1961),die leibwache,http://www.imdb.com/title/tt0055630/,8.4,53475,6600,1961,video.movie,4,1,23,144,139,2,2057.00000,110.00000,1947,2167
+titles02/index.html.1335,tt0056058,Harakiri (1962),harakiri,http://www.imdb.com/title/tt0056058/,8.6,13453,7980,1962,video.movie,8,2,15,47,140,3,3057.00000,2417.70635,643,6361
+titles02/index.html.5360,tt0056119,La jetée (1962),la jet e,http://www.imdb.com/title/tt0056119/,8.4,15820,1680,1962,video.movie,1,0,10,56,101,3,2938.66667,2495.93354,479,6361
+titles03/index.html.1004,tt0057565,Zwischen Himmel und Hölle (1963),zwischen himmel und h lle,http://www.imdb.com/title/tt0057565/,8.3,13993,8580,1963,video.movie,3,3,14,117,72,3,3196.00000,2261.05418,1219,6361
+titles03/index.html.1035,tt0058625,Die Frau in den Dünen (1964),die frau in den d nen,http://www.imdb.com/title/tt0058625/,8.3,8532,7380,1964,video.movie,9,1,16,19,59,2,4183.00000,2178.00000,2005,6361
+titles03/index.html.1526,tt0077631,Grease (1978),grease,http://www.imdb.com/title/tt0077631/,7.2,123712,6600,1978,video.movie,3,7,99,772,324,2,1197.50000,778.50000,419,1976
+titles03/index.html.1565,tt0079501,Mad Max (1979),mad max,http://www.imdb.com/title/tt0079501/,7,95677,5280,1979,video.movie,4,4,46,1241,228,3,2039.66667,93.09971,1947,2167
+titles02/index.html.2480,tt0079817,Rocky II (1979),rocky ii,http://www.imdb.com/title/tt0079817/,7.1,90550,7140,1979,video.movie,2,1,58,107,141,2,3309.00000,3052.00000,257,6361
+titles02/index.html.4808,tt0082198,Conan\, der Barbar (1982),conan der barbar,http://www.imdb.com/title/tt0082198/,6.9,93600,7740,1982,video.movie,1,7,35,1794,308,3,1707.66667,502.12969,1009,2167
+titles03/index.html.1635,tt0082340,Die Klapperschlange (1981),die klapperschlange,http://www.imdb.com/title/tt0082340/,7.2,69057,5940,1981,video.movie,0,0,35,807,258,1,2167.00000,0.00000,2167,2167
+titles03/index.html.1703,tt0084827,Tron (1982),tron,http://www.imdb.com/title/tt0084827/,6.8,78310,5760,1982,video.movie,1,6,31,1549,261,2,2057.00000,110.00000,1947,2167
+titles02/index.html.6337,tt0087538,Karate Kid (1984),karate kid,http://www.imdb.com/title/tt0087538/,7.2,90528,7560,1984,video.movie,2,2,31,1217,207,3,3200.00000,2279.42931,1072,6361
+titles01/tt0036868,tt0036868,Die besten Jahre unseres Lebens (1946),die besten jahre unseres lebens,http://www.imdb.com/title/tt0036868/,8.3,30002,10320,1946,video.movie,13,1,15,129,218,3,3023.66667,2413.70895,734,6361
+titles03/index.html.389,tt0037674,Kinder des Olymp (1945),kinder des olymp,http://www.imdb.com/title/tt0037674/,8.3,11944,11400,1945,video.movie,1,0,44,84,87,2,4168.50000,2192.50000,1976,6361
+titles01/tt0040897,tt0040897,Der Schatz der Sierra Madre (1948),der schatz der sierra madre,http://www.imdb.com/title/tt0040897/,8.4,59298,7560,1948,video.movie,12,4,41,149,190,3,3491.66667,2030.91200,1947,6361
+titles01/tt0044741,tt0044741,Ikiru - Einmal richtig leben (1952),ikiru einmal richtig leben,http://www.imdb.com/title/tt0044741/,8.4,29478,8580,1952,video.movie,5,0,13,57,136,1,6361.00000,0.00000,6361,6361
+titles03/index.html.655,tt0046268,Lohn der Angst (1953),lohn der angst,http://www.imdb.com/title/tt0046268/,8.3,24710,9000,1953,video.movie,5,0,23,93,123,3,3437.66667,2067.24444,1947,6361
+titles02/index.html.1336,tt0046438,Die Reise nach Tokio (1953),die reise nach tokio,http://www.imdb.com/title/tt0046438/,8.3,18631,8160,1953,video.movie,2,0,13,169,100,1,6361.00000,0.00000,6361,6361
+titles02/index.html.3557,tt0059800,James Bond 007 - Feuerball (1965),james bond feuerball,http://www.imdb.com/title/tt0059800/,7,63573,7800,1965,video.movie,3,4,55,242,248,3,2040.66667,92.73738,1947,2167
+titles01/tt0031679,tt0031679,Mr. Smith geht nach Washington (1939),mr smith geht nach washington,http://www.imdb.com/title/tt0031679/,8.4,58169,7740,1939,video.movie,4,10,34,110,226,1,6361.00000,0.00000,6361,6361
+titles02/index.html.345,tt0035446,Sein oder Nichtsein (1942),sein oder nichtsein,http://www.imdb.com/title/tt0035446/,8.3,15160,5940,1942,video.movie,2,1,13,114,88,2,2682.50000,1948.50000,734,4631
+titles03/index.html.925,tt0055254,101 Dalmatiner (1961),dalmatiner,http://www.imdb.com/title/tt0055254/,7.2,74217,4740,1961,video.movie,0,2,50,20,82,3,1306.33333,458.42944,900,1947
+titles01/tt0015864,tt0015864,Goldrausch (1925),goldrausch,http://www.imdb.com/title/tt0015864/,8.3,45319,5700,1925,video.movie,2,1,35,110,122,3,2550.00000,1514.22742,1072,4631
+titles01/tt0017925,tt0017925,Der General (1926),der general,http://www.imdb.com/title/tt0017925/,8.3,37521,6420,1926,video.movie,1,1,53,123,219,3,2915.00000,1216.71470,1947,4631
+titles03/index.html.63,tt0018455,Sonnenaufgang (1927),sonnenaufgang,http://www.imdb.com/title/tt0018455/,8.4,21201,6360,1927,video.movie,2,1,18,93,171,2,4168.50000,2192.50000,1976,6361
+titles01/tt0025316,tt0025316,Es geschah in einer Nacht (1934),es geschah in einer nacht,http://www.imdb.com/title/tt0025316/,8.3,46503,6300,1934,video.movie,4,1,40,183,211,2,3303.50000,1327.50000,1976,4631
+titles01/tt0012349,tt0012349,Der Vagabund und das Kind (1921),der vagabund und das kind,http://www.imdb.com/title/tt0012349/,8.4,40550,3240,1921,video.movie,1,0,19,96,85,3,4021.33333,2201.84019,1072,6361
+titles03/index.html.32,tt0014429,Ausgerechnet Wolkenkratzer (1923),ausgerechnet wolkenkratzer,http://www.imdb.com/title/tt0014429/,8.3,10070,4200,1923,video.movie,1,1,13,2,65,3,2870.66667,1244.79994,1976,4631
+titles03/index.html.3185,tt0240200,Water (2005),water,http://www.imdb.com/title/tt0240200/,7.8,10670,7020,2005,video.movie,14,12,26,190,133,2,4168.50000,2192.50000,1976,6361
+titles02/index.html.6246,tt0375611,Black (2005),black,http://www.imdb.com/title/tt0375611/,8.2,16637,7320,2005,video.movie,28,3,2,7,164,1,6361.00000,0.00000,6361,6361
+titles03/index.html.3959,tt0389557,Black Book (2006),black book,http://www.imdb.com/title/tt0389557/,7.9,51494,8700,2006,video.movie,14,17,27,232,225,3,3033.33333,2409.54827,734,6361
+titles02/index.html.2793,tt0412080,Mit Herz und Hand (2005),mit herz und hand,http://www.imdb.com/title/tt0412080/,7.9,37508,7620,2005,video.movie,10,5,18,22,244,3,2434.33333,2782.06510,257,6361
+titles02/index.html.2229,tt0418455,Adams Äpfel (2005),adams pfel,http://www.imdb.com/title/tt0418455/,7.9,25367,5640,2005,video.movie,19,13,4,23,48,3,4333.33333,1789.52626,2008,6361
+titles02/index.html.3101,tt0421082,Control (2007),control,http://www.imdb.com/title/tt0421082/,7.8,42024,7320,2007,video.movie,27,24,12,9,138,3,2503.00000,2729.52304,463,6361
+titles03/index.html.4206,tt0436613,Murderball (2005),murderball,http://www.imdb.com/title/tt0436613/,7.8,8168,5280,2005,video.movie,17,7,27,135,68,2,652.50000,395.50000,257,1048
+titles02/index.html.5765,tt0456144,Lage Raho Munna Bhai (2006),lage raho munna bhai,http://www.imdb.com/title/tt0456144/,8.2,12161,8640,2006,video.movie,14,13,0,0,105,3,4322.66667,1803.39649,1976,6361
+titles03/index.html.4303,tt0456149,Der Tod des Herrn Lazarescu (2005),der tod des herrn lazarescu,http://www.imdb.com/title/tt0456149/,7.9,8634,9000,2005,video.movie,28,6,6,80,73,1,6361.00000,0.00000,6361,6361
+titles02/index.html.7036,tt0457655,Efter brylluppet (2006),efter brylluppet,http://www.imdb.com/title/tt0457655/,7.8,19088,7200,2006,video.movie,10,16,9,7,86,1,6361.00000,0.00000,6361,6361
+titles02/index.html.3470,tt0808417,Persepolis (2007),persepolis,http://www.imdb.com/title/tt0808417/,8,55504,5760,2007,video.movie,20,28,26,246,150,3,2648.66667,2626.48312,685,6361
+titles02/index.html.6557,tt0880502,Auf der anderen Seite (2007),auf der anderen seite,http://www.imdb.com/title/tt0880502/,7.9,21898,6960,2007,video.movie,27,11,5,50,55,1,6361.00000,0.00000,6361,6361
+titles03/index.html.5037,tt0923752,The King of Kong (2007),the king of kong,http://www.imdb.com/title/tt0923752/,8.2,26357,4740,2007,video.movie,5,4,13,328,96,3,663.33333,323.28763,257,1048
+titles03/index.html.5038,tt0923811,Evangerion shin gekijôban: Jo (2007),evangerion shin gekij ban jo,http://www.imdb.com/title/tt0923811/,7.8,8405,5880,2007,video.movie,0,0,6,0,27,2,1533.50000,633.50000,900,2167
+titles02/index.html.6927,tt1032846,4 Monate\, 3 Wochen und 2 Tage (2007),monate wochen und tage,http://www.imdb.com/title/tt1032846/,7.9,38228,6780,2007,video.movie,33,26,15,32,165,1,6361.00000,0.00000,6361,6361
+titles03/index.html.5224,tt1051907,Kabadayi - Für Liebe und Ehre (2007),kabadayi f r liebe und ehre,http://www.imdb.com/title/tt1051907/,7.9,8672,9060,2007,video.movie,0,0,0,0,15,3,3512.00000,2015.59272,2008,6361
+titles03/index.html.5329,tt1132623,Ein Leben für den Tod (TV Movie 2010),ein leben f r den tod tv movie,http://www.imdb.com/title/tt1132623/,7.8,17990,8040,2010,video.movie,5,26,30,373,49,2,3523.00000,2838.00000,685,6361
+titles02/index.html.1217,tt1149362,Das weiße Band - Eine deutsche Kindergeschichte (2009),das wei e band eine deutsche kindergeschichte,http://www.imdb.com/title/tt1149362/,7.8,41551,8640,2009,video.movie,50,25,40,993,177,2,3790.00000,2571.00000,1219,6361
+titles02/index.html.3471,tt1185616,Waltz with Bashir (2008),waltz with bashir,http://www.imdb.com/title/tt1185616/,8,37524,5400,2008,video.movie,41,27,26,360,144,3,877.66667,149.03318,685,1048
+titles03/index.html.5418,tt1188996,My Name Is Khan (2010),my name is khan,http://www.imdb.com/title/tt1188996/,7.8,40079,9900,2010,video.movie,9,11,7,988,225,3,3447.33333,2060.30747,1976,6361
+titles03/index.html.5422,tt1190539,The Chaser (2008),the chaser,http://www.imdb.com/title/tt1190539/,7.9,24232,7500,2008,video.movie,6,5,6,34,89,3,3458.00000,2052.73135,2005,6361
+titles02/index.html.5420,tt1216496,Madeo (2009),madeo,http://www.imdb.com/title/tt1216496/,7.8,18654,7680,2009,video.movie,19,21,10,69,80,3,3196.00000,2261.05418,1219,6361
+titles01/tt1255953,tt1255953,Die Frau die singt - Incendies (2010),die frau die singt incendies,http://www.imdb.com/title/tt1255953/,8.2,45292,8340,2010,video.movie,36,10,16,558,118,3,2771.33333,2545.98852,734,6361
+titles03/index.html.5541,tt1286537,Food\, Inc. (2008),food inc,http://www.imdb.com/title/tt1286537/,7.9,32414,5640,2008,video.movie,6,10,16,6,110,1,1048.00000,0.00000,1048,1048
+titles03/index.html.5592,tt1327035,Dev.D (2009),dev d,http://www.imdb.com/title/tt1327035/,8.1,13521,8640,2009,video.movie,6,11,4,48,102,3,4322.66667,1803.39649,1976,6361
+titles02/index.html.1218,tt1360860,Alles über Elly (2009),alles ber elly,http://www.imdb.com/title/tt1360860/,8.2,14680,7140,2009,video.movie,13,8,5,15,29,2,3790.00000,2571.00000,1219,6361
+titles02/index.html.5232,tt1527788,The Man from Nowhere (2010),the man from nowhere,http://www.imdb.com/title/tt1527788/,7.9,28184,7140,2010,video.movie,5,4,25,16,68,3,2060.00000,75.67034,2005,2167
+titles01/tt1555149,tt1555149,Tropa de Elite 2 - O Inimigo Agora É Outro (2010),tropa de elite o inimigo agora outro,http://www.imdb.com/title/tt1555149/,8.1,46844,6900,2010,video.movie,23,11,7,111,59,3,3512.00000,2015.59272,2008,6361
+titles02/index.html.5541,tt1562872,Man lebt nur einmal (2011),man lebt nur einmal,http://www.imdb.com/title/tt1562872/,8.1,26067,9300,2011,video.movie,16,16,0,0,105,3,4313.00000,1815.98311,1947,6361
+titles03/index.html.5859,tt1569923,Batman: Under the Red Hood (Video 2010),batman under the red hood video,http://www.imdb.com/title/tt1569923/,8,20032,4500,2010,video.movie,0,0,6,207,74,3,1691.66667,563.54375,900,2167
+titles03/index.html.5877,tt1588170,I Saw the Devil (2010),i saw the devil,http://www.imdb.com/title/tt1588170/,7.8,48252,8460,2010,video.movie,11,8,10,97,150,3,3458.00000,2052.73135,2005,6361
+titles03/index.html.5905,tt1602620,Liebe (2012),liebe,http://www.imdb.com/title/tt1602620/,7.8,52232,7620,2012,video.movie,54,39,51,1445,167,2,4168.50000,2192.50000,1976,6361
+titles03/index.html.6103,tt1772925,Jiro Dreams of Sushi (2011),jiro dreams of sushi,http://www.imdb.com/title/tt1772925/,7.9,14817,4860,2011,video.movie,0,0,11,143,43,1,1048.00000,0.00000,1048,1048
+titles02/index.html.2432,tt1821549,Nebraska (2013),nebraska,http://www.imdb.com/title/tt1821549/,7.9,38035,6900,2013,video.movie,26,61,88,1751,169,2,4154.00000,2207.00000,1947,6361
+titles03/index.html.6276,tt1942884,Indie Game: The Movie (2012),indie game the movie,http://www.imdb.com/title/tt1942884/,7.8,11018,5640,2012,video.movie,1,2,8,108,18,1,1048.00000,0.00000,1048,1048
+titles03/index.html.6428,tt2125608,Searching for Sugar Man (2012),searching for sugar man,http://www.imdb.com/title/tt2125608/,8.2,32890,5160,2012,video.movie,32,19,31,731,99,3,732.00000,241.12652,463,1048
+titles02/index.html.5546,tt2181931,Englisch für Anfänger (2012),englisch f r anf nger,http://www.imdb.com/title/tt2181931/,7.9,12038,8040,2012,video.movie,2,10,0,0,90,3,4021.33333,2201.84019,1072,6361
+titles03/index.html.6480,tt2209418,Before Midnight (2013),before midnight,http://www.imdb.com/title/tt2209418/,8,52229,6540,2013,video.movie,9,19,35,1507,218,2,4168.50000,2192.50000,1976,6361
+titles03/index.html.6487,tt2213054,Kai po che! (2013),kai po che,http://www.imdb.com/title/tt2213054/,7.8,11737,7200,2013,video.movie,8,34,10,0,69,2,3309.00000,3052.00000,257,6361
+titles03/index.html.6537,tt2283748,OMG: Oh My God! (2012),omg oh my god,http://www.imdb.com/title/tt2283748/,8.1,13259,7500,2012,video.movie,1,7,0,0,88,3,4021.33333,2201.84019,1072,6361
+titles02/index.html.7015,tt2370248,Short Term 12 (2013),short term,http://www.imdb.com/title/tt2370248/,8.1,14109,5760,2013,video.movie,21,29,9,676,58,1,6361.00000,0.00000,6361,6361
+titles03/index.html.6606,tt2375605,The Act of Killing (2012),the act of killing,http://www.imdb.com/title/tt2375605/,8.2,11382,6900,2012,video.movie,35,12,9,837,72,2,845.50000,202.50000,643,1048
+titles02/index.html.6249,tt2377938,Special Chabbis (2013),special chabbis,http://www.imdb.com/title/tt2377938/,7.8,13212,8640,2013,video.movie,0,0,0,101,92,3,3458.00000,2052.73135,2005,6361
+titles02/index.html.6919,tt2404461,Le Passé - Das Vergangene (2013),le pass das vergangene,http://www.imdb.com/title/tt2404461/,8.1,17579,7800,2013,video.movie,7,20,50,55,55,2,3790.00000,2571.00000,1219,6361
+titles03/index.html.6662,tt2545118,Blackfish (2013),blackfish,http://www.imdb.com/title/tt2545118/,8.1,20518,4980,2013,video.movie,7,14,10,206,90,1,1048.00000,0.00000,1048,1048
+titles03/index.html.2475,tt0112817,Dead Man (1995),dead man,http://www.imdb.com/title/tt0112817/,7.8,58794,7260,1995,video.movie,5,6,20,0,309,3,2584.66667,2682.43376,384,6361
+titles03/index.html.2495,tt0113568,Ghost in the Shell (1995),ghost in the shell,http://www.imdb.com/title/tt0113568/,8,57016,4980,1995,video.movie,5,2,36,306,228,3,1428.66667,538.07827,900,2167
+titles03/index.html.2502,tt0113824,Stimme des Herzens (1995),stimme des herzens,http://www.imdb.com/title/tt0113824/,8,18811,6660,1995,video.movie,0,0,5,0,92,3,2777.66667,2534.77209,900,6361
+titles01/tt0114787,tt0114787,Underground (1995),underground,http://www.imdb.com/title/tt0114787/,8.2,30610,10200,1995,video.movie,6,6,10,38,118,3,3908.66667,2353.31062,734,6361
+titles02/index.html.2064,tt0115640,Die erste Liebe (1996),die erste liebe,http://www.imdb.com/title/tt0115640/,7.9,14623,5400,1996,video.movie,4,3,26,68,150,3,4322.66667,1803.39649,1976,6361
+titles02/index.html.4346,tt0115751,Breaking the Waves (1996),breaking the waves,http://www.imdb.com/title/tt0115751/,7.9,38661,9540,1996,video.movie,43,17,22,184,218,2,4168.50000,2192.50000,1976,6361
