@@ -1,4 +1,5 @@
 This is a python server with an android app for movie recommendation based on user rankings.
+
 You can find the app on :
 https://play.google.com/store/apps/details?id=de.leka.orges.filmempfehlung
 
@@ -14,8 +15,8 @@ http://scikit-learn.org/stable/
 https://github.com/bauerca/drag-sort-listview
 
 * R and RMysql
-http://www.r-project.org/
-http://cran.r-project.org/web/packages/RMySQL/index.html
+- http://www.r-project.org/
+- http://cran.r-project.org/web/packages/RMySQL/index.html
 
 * flann fast library for approximate nearest neighbors
 http://www.cs.ubc.ca/research/flann/
@@ -24,8 +25,8 @@ http://www.cs.ubc.ca/research/flann/
 http://www.mysql.de/
 
 * Rapid distance based outlier detection via sampling
-https://github.com/mahito-sugiyama/sampling-outlier-detection
-http://papers.nips.cc/paper/5127-rapid-distance-based-outlier-detection-via-sampling.pdf
+- https://github.com/mahito-sugiyama/sampling-outlier-detection
+- http://papers.nips.cc/paper/5127-rapid-distance-based-outlier-detection-via-sampling.pdf
 
 * Python
 https://www.python.org/
